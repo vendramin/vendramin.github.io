@@ -91,8 +91,8 @@ Belgium
 
 ### Just for fun
 
-*   [pysolita](http://github.com/vendramin/pysolita), simple solitaire game written in Python. Requires [Pygame](http://www.pygame.org), [screenshot](http://pysolita.googlecode.com/files/pysolita.jpg)
-*   [tetris4sdl](http://github.com/vendramin/tetris4sdl), my own tetris game written in C. Requires [SDL](http://libsdl.org), [screenshot](http://tetris4sdl.googlecode.com/files/tetris4sdl.jpg)
+*   [pysolita](http://github.com/vendramin/pysolita), simple solitaire game written in Python. Requires [Pygame](http://www.pygame.org), [screenshot](files/pysolita.jpg)
+*   [tetris4sdl](http://github.com/vendramin/tetris4sdl), my own tetris game written in C. Requires [SDL](http://libsdl.org), [screenshot](files/tetris4sdl.jpg)
 
 ## Links
 
@@ -101,8 +101,8 @@ Belgium
 
 #### Mathematics
 
-*   [Some conferences](conferences.html)
-*   [Seminario QA](http://cms.dm.uba.ar/seminarios/QA/)
+*   [Some conferences](conferences.md)
+*   [Seminario QA](qa.md)
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/)
 
 #### Software
