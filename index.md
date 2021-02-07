@@ -13,17 +13,21 @@ Belgium
 
 ### Preprints
 
-1.  [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb)
+1.  [Decomposition theorems for involutive solutions to the Yang-Baxter
+  equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez)
+2.  [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb)
 
 ### Accepted for publication
 
-1.  [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
+
+3.  [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
 2.  [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). Accepted for publication in _Adv. Math._
 3.  [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). Accepted for publication in _Exp. Math._
 
 ### Published
 
-1.  [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115._  
+
+6.  [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115._  
 
 2.  [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston) _J. Algebra 549 (2020) 268-290_
 3.  [Factorization of skew braces](http://arxiv.org/abs/1905.05886) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Math. Ann. 375 (2019), no. 3-4, 1649–1663_
@@ -53,7 +57,6 @@ Belgium
 27.  [Braided racks, Hurwitz actions and Nichols algebras with many cubic relations](http://arxiv.org/abs/1103.4526) (with I. Heckenberger, A. Lochmann). _Transform. Groups 17 (2012), no. 1, 157-194_
 28.  [Nichols algebras of group type with many quadratic relations](http://arxiv.org/abs/1004.3723) (with M. Graña, I. Heckenberger). _Adv. Math. 227 (2011), no. 5, 1956-1989_
 29.  [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_, [logs](afgv-sporadic/index.html)  
-
 30.  [The logbook of Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1113) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 282-304_
 31.  [Finite-dimensional pointed Hopf algebras with alternating groups are trivial](http://arxiv.org/abs/0812.4628) (with N. Andruskiewitsch, F. Fantino, M. Graña). _Ann. Mat. Pura Appl. (4) 190 (2011), no. 2, 225-245_
 32.  [Pointed Hopf algebras over some sporadic simple groups](http://arxiv.org/abs/0906.1352) (with N. Andruskiewitsch, F. Fantino, M. Graña). _C. R. Math. Acad. Sci. Paris 348 (2010) 605-608_
@@ -61,6 +64,7 @@ Belgium
 34.  [On Nichols algebras over SL(2,q) and GL(2,q)](http://arXiv.org/abs/math/0703498) (with S. Freyre, M. Graña). _J. Math. Phys. 48, 123513 (2007)_
 
 ### Proceedings and others
+
 
 1.  [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _A Concise Encyclopedia of Knot Theory_, CRC Press, [to appear](https://www.routledge.com/Encyclopedia-of-Knot-Theory/Adams-Flapan-Henrich-Kauffman-Ludwig-Nelson/p/book/9781138297845)
 2.  [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
