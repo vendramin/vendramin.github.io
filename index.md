@@ -1,3 +1,5 @@
+<img src="files/me2020.jpg" alt="me" width="150" align="right"/>
+
 Vrije Universiteit Brussel  
 Faculty of Sciences  
 Department of Mathematics   
