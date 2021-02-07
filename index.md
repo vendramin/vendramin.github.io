@@ -1,5 +1,3 @@
-<a>![kafka](foto1.jpg)</a>
-
 # [Leandro Vendramin](yo2019.jpg)
 
 IMAS-Departamento de Matemática  
@@ -14,8 +12,6 @@ Buenos Aires, Argentina
 <tt>lvendramin@dm.uba.ar</tt>  
 
 [CV](CV.pdf), [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=829575), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
-
-* * *
 
 ## Publications
 
@@ -77,8 +73,6 @@ Buenos Aires, Argentina
 5.  [On Nichols algebras associated to simple racks](http://arxiv.org/abs/1006.5727) (with N. Andruskiewitsch, F. Fantino, G. García). Groups, Algebras and Applications, _Contemp. Math. 537 (2011) 31-56_
 6.  [On twisted homogeneous racks of type D](http://arxiv.org/abs/1007.1739) (with N. Andruskiewitsch, F. Fantino, G. García). The Humboldt Kolleg Colloquium on Hopf Algebras, Quantum Groups and Tensor Categories, _Rev. Un. Mat. Argentina 51 2(2010) 1-16_
 
-* * *
-
 ## Lecture notes
 
 *   [2020, Halifax] [Algebra with GAP (minicourse)](http://www.mathstat.dal.ca/~selinger/minicourse-gap/)
@@ -88,8 +82,6 @@ Buenos Aires, Argentina
 *   [2014, Rauischholzhausen] [Nichols algebras](lectures/rauischholzhausen.pdf)
 *   [2014, Santiago de Chile] [Introducción al álgebra con GAP](lectures/GAP.pdf)
 *   [2014, elENA VII] [Teoría combinatoria de nudos](lectures/elENA7.pdf)
-
-* * *
 
 ## My software
 
@@ -108,8 +100,6 @@ Buenos Aires, Argentina
 
 *   [pysolita](http://github.com/vendramin/pysolita), simple solitaire game written in Python. Requires [Pygame](http://www.pygame.org), [screenshot](http://pysolita.googlecode.com/files/pysolita.jpg)
 *   [tetris4sdl](http://github.com/vendramin/tetris4sdl), my own tetris game written in C. Requires [SDL](http://libsdl.org), [screenshot](http://tetris4sdl.googlecode.com/files/tetris4sdl.jpg)
-
-* * *
 
 ## Links
 
@@ -133,8 +123,6 @@ Buenos Aires, Argentina
 
 I use [Slackware](http://www.slackware.com). To build packages I use [slackbuilds.org](http://www.slackbuilds.org); the sources are available [here](http://slackware.org.uk/sbosrcarch/). Other sources for precompiled packages: [Eric Hameleers (Alien BOB)](http://www.slackware.com/~alien/) and [www.slackware.uk](http://slackware.uk/),
 
-* * *
-
 #### PhD Students
 
 *   Emiliano Acri (from 2018)
@@ -150,4 +138,4 @@ I use [Slackware](http://www.slackware.com). To build packages I use [slackbuild
 
 * * *
 
-Updated: 12/2020 [![Valid HTML 4.01 Transitional](http://www.w3.org/Icons/valid-html401-blue)](http://validator.w3.org/check?uri=referer)
+Updated: 12/2020
