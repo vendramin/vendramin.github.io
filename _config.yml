@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: Leandro Vendramin
 show_downloads: false
 is_project_page: false
-title: none
+title: null
