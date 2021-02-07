@@ -5,7 +5,7 @@ Pleinlaan 2
 B-1050 Brussels   
 Belgium   
 
-´´lvendramin@dm.uba.ar  
+`lvendramin@dm.uba.ar`
 
 [CV](CV.pdf), [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=829575), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
@@ -72,12 +72,12 @@ Belgium
 ## Lecture notes
 
 *   [2020, Halifax] [Algebra with GAP (minicourse)](http://www.mathstat.dal.ca/~selinger/minicourse-gap/)
-*   [2016, UMA] [Introducción al álgebra con GAP](lectures/GAP.pdf)
-*   [2015, Talca] [Pecios y quandles](lectures/talca2015.pdf)
-*   [2015, ERAG] [El grupoide de Weyl](lectures/erag2015.pdf)
-*   [2014, Rauischholzhausen] [Nichols algebras](lectures/rauischholzhausen.pdf)
-*   [2014, Santiago de Chile] [Introducción al álgebra con GAP](lectures/GAP.pdf)
-*   [2014, elENA VII] [Teoría combinatoria de nudos](lectures/elENA7.pdf)
+*   [2016, UMA] [Introducción al álgebra con GAP](files/GAP.pdf)
+*   [2015, Talca] [Pecios y quandles](files/talca2015.pdf)
+*   [2015, ERAG] [El grupoide de Weyl](files/erag2015.pdf)
+*   [2014, Rauischholzhausen] [Nichols algebras](files/rauischholzhausen.pdf)
+*   [2014, Santiago de Chile] [Introducción al álgebra con GAP](files/GAP.pdf)
+*   [2014, elENA VII] [Teoría combinatoria de nudos](files/elENA7.pdf)
 
 ## My software
 
@@ -85,7 +85,7 @@ Belgium
 
 *   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets
 *   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras  
-*   Python/Sage [script](http://mate.dm.uba.ar/~lvendram/software/der.tar.gz) for Nichols algebras and derivations  
+*   Python/Sage [script](files/der.tar.gz) for Nichols algebras and derivations  
 *   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger)  
     Software written in Python to calculate the Arithmetic Root System associated to a braiding of diagonal type  
 
