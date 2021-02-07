@@ -72,7 +72,6 @@ Email: `Leandro.Vendramin@vub.be`
 ## Lecture notes
 
 *   [2020, Halifax] [Algebra with GAP (minicourse)](http://www.mathstat.dal.ca/~selinger/minicourse-gap/)
-*   [2016, UMA] [Introducción al álgebra con GAP](files/GAP.pdf)
 *   [2015, Talca] [Pecios y quandles](files/talca2015.pdf)
 *   [2015, ERAG] [El grupoide de Weyl](files/erag2015.pdf)
 *   [2014, Rauischholzhausen] [Nichols algebras](files/rauischholzhausen.pdf)
@@ -102,7 +101,7 @@ Email: `Leandro.Vendramin@vub.be`
 #### Mathematics
 
 *   [Some conferences](conferences.md)
-*   [Seminario QA](qa.md)
+*   [QA Seminar](qa.md)
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/)
 
 #### Software
