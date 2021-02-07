@@ -30,7 +30,6 @@ Belgium
 
 
 6.  [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115._  
-
 2.  [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston) _J. Algebra 549 (2020) 268-290_
 3.  [Factorization of skew braces](http://arxiv.org/abs/1905.05886) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Math. Ann. 375 (2019), no. 3-4, 1649–1663_
 4.  [PBW deformations of a Fomin-Kirillov algebra and other examples](http://arxiv.org/abs/1703.10632) (with I. Heckenberger). _Algebr. Represent. Theory 22 (2019), no. 6, 1513–1532_
@@ -62,7 +61,7 @@ Belgium
 30.  [The logbook of Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1113) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 282-304_
 31.  [Finite-dimensional pointed Hopf algebras with alternating groups are trivial](http://arxiv.org/abs/0812.4628) (with N. Andruskiewitsch, F. Fantino, M. Graña). _Ann. Mat. Pura Appl. (4) 190 (2011), no. 2, 225-245_
 32.  [Pointed Hopf algebras over some sporadic simple groups](http://arxiv.org/abs/0906.1352) (with N. Andruskiewitsch, F. Fantino, M. Graña). _C. R. Math. Acad. Sci. Paris 348 (2010) 605-608_
-33.  [On Nichols algebras over PGL(2,q) and PSL(2,q)](http://arXiv.org/abs/0802.2567) (with S. Freyre, M. Graña). _J. Algebra Appl., Vol. 9, No. 2 (2010) 195-208_, [logs](logs/JAA.tar.bg2)
+33.  [On Nichols algebras over PGL(2,q) and PSL(2,q)](http://arXiv.org/abs/0802.2567) (with S. Freyre, M. Graña). _J. Algebra Appl., Vol. 9, No. 2 (2010) 195-208_, [logs](logs/JAA.tar.bz2)
 34.  [On Nichols algebras over SL(2,q) and GL(2,q)](http://arXiv.org/abs/math/0703498) (with S. Freyre, M. Graña). _J. Math. Phys. 48, 123513 (2007)_
 
 ### Proceedings and others
@@ -71,7 +70,7 @@ Belgium
 1.  [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _A Concise Encyclopedia of Knot Theory_, CRC Press, [to appear](https://www.routledge.com/Encyclopedia-of-Knot-Theory/Adams-Flapan-Henrich-Kauffman-Ludwig-Nelson/p/book/9781138297845)
 2.  [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 3.  [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_
-4.  [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_, [logs](logs/CONM.tar.bg2)
+4.  [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_, [logs](logs/CONM.tar.bz2)
 5.  [On Nichols algebras associated to simple racks](http://arxiv.org/abs/1006.5727) (with N. Andruskiewitsch, F. Fantino, G. García). Groups, Algebras and Applications, _Contemp. Math. 537 (2011) 31-56_
 6.  [On twisted homogeneous racks of type D](http://arxiv.org/abs/1007.1739) (with N. Andruskiewitsch, F. Fantino, G. García). The Humboldt Kolleg Colloquium on Hopf Algebras, Quantum Groups and Tensor Categories, _Rev. Un. Mat. Argentina 51 2(2010) 1-16_
 
@@ -91,7 +90,7 @@ Belgium
 
 *   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets
 *   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras  
-*   Python/Sage [script](files/der.tar.gz) for Nichols algebras and derivations  
+*   Python/Sage [script](files/der.tar.bz2) for Nichols algebras and derivations  
 *   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger)  
     Software written in Python to calculate the Arithmetic Root System associated to a braiding of diagonal type  
 
