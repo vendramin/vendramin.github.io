@@ -1,9 +1,9 @@
-Vrije Universiteit Brussel 
-Faculty of Sciences 
-Department of Mathematics 
-Pleinlaan 2 
-B-1050 Brussels 
-Belgium  
+Vrije Universiteit Brussel  
+Faculty of Sciences  
+Department of Mathematics   
+Pleinlaan 2  
+B-1050 Brussels   
+Belgium   
 
 <tt>lvendramin@dm.uba.ar</tt>  
 
@@ -83,7 +83,7 @@ Belgium
 
 ### Mathematics
 
-*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets.
+*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets
 *   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras  
 *   Python/Sage [script](http://mate.dm.uba.ar/~lvendram/software/der.tar.gz) for Nichols algebras and derivations  
 *   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger)  
@@ -103,20 +103,18 @@ Belgium
 
 *   [Some conferences](conferences.html)
 *   [Seminario QA](http://cms.dm.uba.ar/seminarios/QA/)
-*   [Nichols algebras over non-abelian groups](http://mate.dm.uba.ar/~matiasg/zoo.html)
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/)
 
 #### Software
 
 *   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/)
 *   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/)
-*   [GBNP, GAP Package for Gröbner Bases for Non-commutative Polynomials](http://www.gap-system.org/Packages/gbnp.html)
 *   [Sage: Open Source Mathematics Software](http://www.sagemath.org/)
 *   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
 
 #### PhD Students
 
-*   Emiliano Acri (from 2018)
+*   [Emiliano Acri](http://mate.dm.uba.ar/~eacri) (from 2018)
 *   Santiago Ramírez (from 2019)
 
 #### Postdocs
