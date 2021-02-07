@@ -20,11 +20,13 @@ Belgium
 ### Accepted for publication
 
 
+
 3.  [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
 2.  [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). Accepted for publication in _Adv. Math._
 3.  [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). Accepted for publication in _Exp. Math._
 
 ### Published
+
 
 
 6.  [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115._  
@@ -56,11 +58,11 @@ Belgium
 26.  [On the classification of quandles of low order](http://arxiv.org/abs/1105.5341). _J. Knot Theory Ramifications 21 (2012), no. 9, 1250088_
 27.  [Braided racks, Hurwitz actions and Nichols algebras with many cubic relations](http://arxiv.org/abs/1103.4526) (with I. Heckenberger, A. Lochmann). _Transform. Groups 17 (2012), no. 1, 157-194_
 28.  [Nichols algebras of group type with many quadratic relations](http://arxiv.org/abs/1004.3723) (with M. Graña, I. Heckenberger). _Adv. Math. 227 (2011), no. 5, 1956-1989_
-29.  [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_, [logs](afgv-sporadic/index.html)  
+29.  [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_, [logs](logs/JAlgebra2011.tar.bz2)  
 30.  [The logbook of Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1113) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 282-304_
 31.  [Finite-dimensional pointed Hopf algebras with alternating groups are trivial](http://arxiv.org/abs/0812.4628) (with N. Andruskiewitsch, F. Fantino, M. Graña). _Ann. Mat. Pura Appl. (4) 190 (2011), no. 2, 225-245_
 32.  [Pointed Hopf algebras over some sporadic simple groups](http://arxiv.org/abs/0906.1352) (with N. Andruskiewitsch, F. Fantino, M. Graña). _C. R. Math. Acad. Sci. Paris 348 (2010) 605-608_
-33.  [On Nichols algebras over PGL(2,q) and PSL(2,q)](http://arXiv.org/abs/0802.2567) (with S. Freyre, M. Graña). _J. Algebra Appl., Vol. 9, No. 2 (2010) 195-208_, [logs](trabajos/fgv.tar.gz)
+33.  [On Nichols algebras over PGL(2,q) and PSL(2,q)](http://arXiv.org/abs/0802.2567) (with S. Freyre, M. Graña). _J. Algebra Appl., Vol. 9, No. 2 (2010) 195-208_, [logs](logs/JAA.tar.bg2)
 34.  [On Nichols algebras over SL(2,q) and GL(2,q)](http://arXiv.org/abs/math/0703498) (with S. Freyre, M. Graña). _J. Math. Phys. 48, 123513 (2007)_
 
 ### Proceedings and others
@@ -69,7 +71,7 @@ Belgium
 1.  [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _A Concise Encyclopedia of Knot Theory_, CRC Press, [to appear](https://www.routledge.com/Encyclopedia-of-Knot-Theory/Adams-Flapan-Henrich-Kauffman-Ludwig-Nelson/p/book/9781138297845)
 2.  [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 3.  [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_
-4.  [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_, [logs](fv.tar.gz)
+4.  [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_, [logs](logs/CONM.tar.bg2)
 5.  [On Nichols algebras associated to simple racks](http://arxiv.org/abs/1006.5727) (with N. Andruskiewitsch, F. Fantino, G. García). Groups, Algebras and Applications, _Contemp. Math. 537 (2011) 31-56_
 6.  [On twisted homogeneous racks of type D](http://arxiv.org/abs/1007.1739) (with N. Andruskiewitsch, F. Fantino, G. García). The Humboldt Kolleg Colloquium on Hopf Algebras, Quantum Groups and Tensor Categories, _Rev. Un. Mat. Argentina 51 2(2010) 1-16_
 
