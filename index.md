@@ -1,11 +1,9 @@
-IMAS-Departamento de Matemática  
-Facultad de Ciencias Exactas y Naturales  
-Universidad de Buenos Aires  
-(1428) Pabellón I, Ciudad Universitaria  
-Buenos Aires, Argentina  
-
-(+5411) 5285-7616  
-(+5411) 5285-7400 #57616  
+Vrije Universiteit Brussel 
+Faculty of Sciences 
+Department of Mathematics 
+Pleinlaan 2 
+B-1050 Brussels 
+Belgium  
 
 <tt>lvendramin@dm.uba.ar</tt>  
 
@@ -85,12 +83,9 @@ Buenos Aires, Argentina
 
 ### Mathematics
 
-*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets...  
-
+*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets.
 *   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras  
-
 *   Python/Sage [script](http://mate.dm.uba.ar/~lvendram/software/der.tar.gz) for Nichols algebras and derivations  
-
 *   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger)  
     Software written in Python to calculate the Arithmetic Root System associated to a braiding of diagonal type  
 
@@ -118,8 +113,6 @@ Buenos Aires, Argentina
 *   [GBNP, GAP Package for Gröbner Bases for Non-commutative Polynomials](http://www.gap-system.org/Packages/gbnp.html)
 *   [Sage: Open Source Mathematics Software](http://www.sagemath.org/)
 *   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
-
-I use [Slackware](http://www.slackware.com). To build packages I use [slackbuilds.org](http://www.slackbuilds.org); the sources are available [here](http://slackware.org.uk/sbosrcarch/). Other sources for precompiled packages: [Eric Hameleers (Alien BOB)](http://www.slackware.com/~alien/) and [www.slackware.uk](http://slackware.uk/),
 
 #### PhD Students
 
