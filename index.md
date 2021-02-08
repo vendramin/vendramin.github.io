@@ -52,8 +52,8 @@ Email: `Leandro.Vendramin@vub.be`
 * [Nichols algebras associated to the transpositions of the symmetric group are twist-equivalent](http://arxiv.org/abs/1011.5267). _Proc. Amer. Math. Soc. 140 (2012), no. 11, 3715-3723_
 * [On the classification of quandles of low order](http://arxiv.org/abs/1105.5341). _J. Knot Theory Ramifications 21 (2012), no. 9, 1250088_
 * [Braided racks, Hurwitz actions and Nichols algebras with many cubic relations](http://arxiv.org/abs/1103.4526) (with I. Heckenberger, A. Lochmann). _Transform. Groups 17 (2012), no. 1, 157-194_
-* [Nichols algebras of group type with many quadratic relations](http://arxiv.org/abs/1004.3723) (with M. Graña, I. Heckenberger). _Adv. Math. 227 (2011), no. 5, *1956-1989_
- [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_, [logs](logs/JAlgebra2011.tar.bz2)  
+* [Nichols algebras of group type with many quadratic relations](http://arxiv.org/abs/1004.3723) (with M. Graña, I. Heckenberger). _Adv. Math. 227 (2011), no. 5, 1956-1989_
+* [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_, [logs](logs/JAlgebra2011.tar.bz2)  
 * [The logbook of Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1113) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 282-304_
 * [Finite-dimensional pointed Hopf algebras with alternating groups are trivial](http://arxiv.org/abs/0812.4628) (with N. Andruskiewitsch, F. Fantino, M. Graña). _Ann. Mat. Pura Appl. (4) 190 (2011), no. 2, 225-245_
 * [Pointed Hopf algebras over some sporadic simple groups](http://arxiv.org/abs/0906.1352) (with N. Andruskiewitsch, F. Fantino, M. Graña). _C. R. Math. Acad. Sci. Paris 348 (2010) 605-608_
