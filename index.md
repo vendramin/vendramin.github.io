@@ -71,7 +71,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Lecture notes
 
-*   [2020, Halifax] Algebra with GAP (minicourse) ([videos](http://www.mathstat.dal.ca/~selinger/minicourse-gap/), [slides and problems](notes/dalhousi.tar.gz) 
+*   [2020, Halifax] Algebra with GAP (minicourse) ([videos](http://www.mathstat.dal.ca/~selinger/minicourse-gap/), [slides and problems](notes/dalhousi.tar.gz))
 *   [2015, Talca] [Pecios y quandles](notes/talca2015.pdf)
 *   [2015, ERAG] [El grupoide de Weyl](notes/erag2015.pdf)
 *   [2014, Rauischholzhausen] [Nichols algebras](notes/rauischholzhausen2014.pdf)
