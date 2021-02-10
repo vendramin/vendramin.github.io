@@ -74,7 +74,7 @@ Email: `Leandro.Vendramin@vub.be`
 *   [2020, Halifax] [Algebra with GAP (minicourse)](http://www.mathstat.dal.ca/~selinger/minicourse-gap/)
 *   [2015, Talca] [Pecios y quandles](notes/talca2015.pdf)
 *   [2015, ERAG] [El grupoide de Weyl](notes/erag2015.pdf)
-*   [2014, Rauischholzhausen] [Nichols algebras](notes/rauischholzhausen.pdf)
+*   [2014, Rauischholzhausen] [Nichols algebras](notes/rauischholzhausen2014.pdf)
 *   [2014, Santiago de Chile] [Introducción al álgebra con GAP](notes/GAP.pdf)
 *   [2014, elENA VII] [Teoría combinatoria de nudos](notes/elENA7.pdf)
 
