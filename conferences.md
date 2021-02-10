@@ -31,15 +31,12 @@
 
 *   [ERAG - XXIV Encuentro Rioplatense de Álgebra y Geometría Algebraica](http://www.cmat.edu.uy/cmat/eventos/erag24), Montevideo, Uruguay
 *   [Nichols Algebras and Their Interactions with Lie Theory, Hopf Algebras and Tensor Categories](https://www.birs.ca/events/2015/5-day-workshops/15w5053), Banff, Canada [(video)](https://www.birs.ca/events/2015/5-day-workshops/15w5053/videos/watch/201509090901-Vendramin.html)
-*   [VII Jornada de Álgebra 2015](http://w3.ufsm.br/jornadadealgebra/hospedagem/hotel.html), Santa Maria, Brazil
 *   [Coloquio de Álgebras y Representaciones - Quantum 2015](http://www.famaf.unc.edu.ar/~vay/quantum2015/), Córdoba, Argentina
 
 ## 2014
 
 *   [XX Coloquio Latinoamericano de Álgebra](https://sites.google.com/site/xxcoloquiovillamayor/), Lima, Perú
-*   [Summer School: Conformal Field Theory and Nichols Algebras](http://www.uni-marburg.de/fb12/mathematik/arbeitsgebiete/algebraische_lietheorie/summerschool2014/), Rauischholzhausen, Germany
 *   [Quantum Day](https://sites.google.com/site/quantumdayfamaf/home), Córdoba, Argentina
-*   [elENA VII](http://www.famaf.unc.edu.ar/~ciem/elena7/), Córdoba, Argentina
 *   [Colóquio de Álgebra e Representações - Quantum 2014](http://coral.ufsm.br/quantum/), Santa María, Brazil
 
 ## 2013
