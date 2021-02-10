@@ -50,7 +50,7 @@
 
 ## 2012
 
-*   [Mini-Workshop: Nichols Algebras and Weyl Groupoids](https://www.mfo.de/occasion/1240a/www_view), Oberwolfach, Germany
+*   [Mini-Workshop: Nichols Algebras and Weyl Groupoids](https://www.mfo.de/occasion/1240a/www_view), Oberwolfach, Germany [(slides)](talks/2012/mfo.pdf)
 *   [69th Meeting of the Séminaire Lotharingien de Combinatoire](http://www.emis.de/journals/SLC/wpapers/s69preface.html), Strobl, Austria [(slides)](talks/2012/lotharingien.pdf)
 *   [Groups, Rings, Lie and Hopf Algebras. III](http://www.mun.ca/aac/Workshops/PastWork/GRLHA3/index.php), Newfoundland, Canada
 *   [AARMS Summer School](https://aarms.math.ca/summer/2012/), St. Johns, Canada [(slides)](talks/2012/aarms.pdf)
