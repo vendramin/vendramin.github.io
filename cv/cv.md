@@ -1,4 +1,5 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
+<link rel="stylesheet" type="text/css" media="all" href="cv.css" />
 # Richard Hendricks
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
