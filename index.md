@@ -100,7 +100,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 #### Mathematics
 
-*   [Some conferences](conferences.md)
+*   [Some talks/conferences](conferences.md)
 *   [QA Seminar](qa.md)
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/)
 
