@@ -2,7 +2,8 @@ Vrije Universiteit Brussel
 Faculty of Sciences  
 Department of Mathematics   
 Pleinlaan 2  
-B-1050 Brussel
+B-1050  
+Brussel  
 Belgium   
 
 Email: `Leandro.Vendramin@vub.be`
