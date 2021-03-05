@@ -29,10 +29,10 @@ Email: `lvendramin@dm.uba.ar`
 
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
 * [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). Accepted for publication in _Adv. Math._
-* [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). Accepted for publication in _Exp. Math._
 
 ### Published
 
+* [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_
 * [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115._  
 * [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston) _J. Algebra 549 (2020) 268-290_
 * [Factorization of skew braces](http://arxiv.org/abs/1905.05886) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Math. Ann. 375 (2019), no. 3-4, 1649–1663_
@@ -45,7 +45,7 @@ Email: `lvendramin@dm.uba.ar`
 * [On skew braces (with an appendix by N. Byott)](http://arxiv.org/abs/1705.06958) (with A. Smoktunowicz). _J. Comb. Algebra 2 (2018), no. 1, 47–86_
 * [Doubly transitive groups and cyclic quandles](http://arxiv.org/abs/1401.4574). _J. Math. Soc. Japan 69 (2017), no. 3, 1051–1057_
 * [An explicit description of the second cohomology group of a quandle](http://arxiv.org/abs/1512.01262) (with A. García Iglesias). _Math. Z. 286 (2017), no. 3-4, 1041-1063_
-* [The classification of Nichols algebras with finite root system of rank two](http://arxiv.org/abs/1311.2881) (with I. Heckenberger). _J. Eur. Math. Soc. (JEMS) 19 (2017), no. 7, 1977–2017\._
+* [The classification of Nichols algebras with finite root system of rank two](http://arxiv.org/abs/1311.2881) (with I. Heckenberger). _J. Eur. Math. Soc. (JEMS) 19 (2017), no. 7, 1977–2017_
 * [Skew braces and the Yang-Baxter equation](http://arxiv.org/abs/1511.03171) (with L. Guarnieri). _Math. Comp. 86 (2017), no. 307, 2519–2534_
 * [Hopf braces and Yang-Baxter operators](http://arxiv.org/abs/1604.02098) (with I. Angiono, C. Galindo). _Proc. Amer. Math. Soc. 145 (2017), no. 5, 1981-1995_
 * [A classification of Nichols algebras of semi-simple Yetter-Drinfeld modules over non-abelian groups](http://arxiv.org/abs/1412.0857) (with I. Heckenberger). _J. Eur. Math. Soc. (JEMS) 19 (2017), no. 2, 299-356_
