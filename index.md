@@ -70,6 +70,7 @@ Email: `lvendramin@dm.uba.ar`
 
 ### Proceedings and others
 
+* [Nudos, quandles, homología (Spanish)](notes/elENA7.pdf). Gac. R. Soc. Mat. Esp. to appear
 * [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _A Concise Encyclopedia of Knot Theory_, CRC Press, [to appear](https://www.routledge.com/Encyclopedia-of-Knot-Theory/Adams-Flapan-Henrich-Kauffman-Ludwig-Nelson/p/book/9781138297845)
 * [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 * [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_
@@ -84,7 +85,6 @@ Email: `lvendramin@dm.uba.ar`
 *   [2015, ERAG] [El grupoide de Weyl](notes/erag2015.pdf)
 *   [2014, Rauischholzhausen] [Nichols algebras](notes/rauischholzhausen2014.pdf)
 *   [2014, Santiago de Chile] [Introducción al álgebra con GAP](notes/GAP.pdf)
-*   [2014, elENA VII] [Teoría combinatoria de nudos](notes/elENA7.pdf)
 
 ## My software
 
