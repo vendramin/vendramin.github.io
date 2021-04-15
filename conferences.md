@@ -1,4 +1,5 @@
 ## 2021
+*   [CIMPA2021 Madagascar, Non-associative Algebras and their Applications](https://sites.google.com/view/cimpa2020madagascar/), Virtual Meeting
 *   [II Encuentro de Álgebra y Teoría de Nudos](https://matematica.uv.cl/grupoAtN/encuentro/2021/), Virtual meeting [(video)](https://www.youtube.com/watch?v=aJQvrkjlVeQ&list=PLP8BezBmokYvdMGHgSGVAiDi4hAHYmm6u&index=8)
 
 ## 2019
