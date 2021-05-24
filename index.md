@@ -103,7 +103,7 @@ Email: `lvendramin@dm.uba.ar`
 
 ## Links
 
-*   [Alexander von Humboldt Foundation](http://www.humboldt-foundation.de)
+*   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/)
 *   [DAAD](http://www.daad.org.ar)
 
 #### Mathematics
