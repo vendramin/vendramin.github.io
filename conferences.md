@@ -1,3 +1,7 @@
+## 2022
+
+*   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/bedlewo-conference-center/about-center), Stefan Banach International Mathematical Center, Bedlewo, Poland
+
 ## 2021
 *   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on Quantum Symmetries, Virtual Meeting 
 *   [CIMPA2021 Madagascar, Non-associative Algebras and their Applications](https://sites.google.com/view/cimpa2020madagascar/). Virtual Meeting 
