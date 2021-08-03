@@ -1,8 +1,9 @@
-<!--Vrije Universiteit Brussel  
+Vrije Universiteit Brussel  
 Faculty of Sciences  
 Department of Mathematics   
 Pleinlaan 2, B-1050  
-Brussel, Belgium-->
+Brussel, Belgium
+<!--
 IMAS-Departamento de Matem&aacute;tica  
 Facultad de Ciencias Exactas y Naturales  
 Universidad de Buenos Aires  
@@ -10,10 +11,10 @@ Universidad de Buenos Aires
 Buenos Aires, Argentina  
 
 (+5411) 5285-7616  
-(+5411) 5285-7400 #57616
+(+5411) 5285-7400 #57616-->
 
-<!-- Email: `Leandro.Vendramin@vub.be`-->
-Email: `lvendramin@dm.uba.ar`
+Email: `Leandro.Vendramin@vub.be`
+<!--Email: `lvendramin@dm.uba.ar`-->
 
 [CV](files/CV.pdf), [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
@@ -21,12 +22,12 @@ Email: `lvendramin@dm.uba.ar`
 
 ### Preprints
 
-* [Decomposition theorems for involutive solutions to the Yang-Baxter
-  equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez)
 * [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb)
 
 ### Accepted for publication
 
+* [Decomposition theorems for involutive solutions to the Yang-Baxter
+  equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez) Accepted for publication in _Int. Math. Res. Not. IMRN_
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
 
 ### Published
