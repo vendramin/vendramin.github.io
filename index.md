@@ -23,7 +23,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
-* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb)
+* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb. [![DOI](https://zenodo.org/badge/283301509.svg)](https://zenodo.org/badge/latestdoi/283301509)
 
 ### Accepted for publication
 
