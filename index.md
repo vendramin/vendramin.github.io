@@ -21,12 +21,11 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Publications
 
-### Preprints
-
-* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb) [code](https://zenodo.org/badge/latestdoi/283301509)
+<!--### Preprints-->
 
 ### Accepted for publication
 
+* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb) Accepted for publication in _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/283301509)
 * [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez) Accepted for publication in _Int. Math. Res. Not. IMRN_
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
