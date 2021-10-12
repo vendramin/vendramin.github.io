@@ -1,6 +1,7 @@
 ## 2022
 
 *   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/banach-center/conferences/21-algebraybaxter), Stefan Banach International Mathematical Center, Bedlewo, Poland
+*   [Braces in Bracelet Bay](https://sites.google.com/view/lmsmeetingbracesinbraceletbay/home), LMS Regional Meeting and Workshop, Swansea, UK
 
 ## 2021
 *   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on Quantum Symmetries, Virtual Meeting 
