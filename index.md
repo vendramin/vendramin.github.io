@@ -124,12 +124,11 @@ Email: `Leandro.Vendramin@vub.be`
 
 #### PhD Students
 
-*   [Emiliano Acri](http://mate.dm.uba.ar/~eacri) (from 2018)
-*   Santiago Ramírez (from 2019)
+*   [Emiliano Acri](http://mate.dm.uba.ar/~eacri) (CONICET, from 2018), Santiago Ramírez (CONICET, from 2019), Charlotte Verwimp (cosupervised with Eric Jespers, FWO, from 2020), Thomas Letourmy (cosupervised with Joost Vercruysse, ULB, from 2021), Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021)
 
 #### Postdocs
 
-*   [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020)
+*   [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020), Arne Van Antwerpen (FWO, from 2020)
 
 #### Personal homepages and coauthors
 
