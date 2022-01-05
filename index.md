@@ -1,6 +1,6 @@
 Vrije Universiteit Brussel  
 Faculty of Sciences  
-Department of Mathematics   
+Department of Mathematics and Data Science  
 Pleinlaan 2, B-1050  
 Brussel, Belgium
 
@@ -83,6 +83,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Lecture notes
 
+My courses are [here](notes.md). Other lecture notes:
 *   [2020, Halifax] Algebra with GAP ([videos](http://www.mathstat.dal.ca/~selinger/minicourse-gap/), [slides and problems](notes/dalhousi.tar.gz))
 *   [2015, Talca] [Pecios y quandles](notes/talca2015.pdf)
 *   [2015, ERAG] [El grupoide de Weyl](notes/erag2015.pdf)
@@ -124,7 +125,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 #### PhD Students
 
-[Emiliano Acri](http://mate.dm.uba.ar/~eacri) (CONICET, from 2018), Santiago Ramírez (CONICET, from 2019), Charlotte Verwimp (cosupervised with Eric Jespers, FWO, from 2020), Thomas Letourmy (cosupervised with Joost Vercruysse, ULB, from 2021), Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021)
+[Emiliano Acri](http://mate.dm.uba.ar/~eacri) (CONICET, from 2018), Santiago Ramírez (CONICET, from 2019), Charlotte Verwimp (cosupervised with Eric Jespers, FWO, from 2020), Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), ULB, from 2021), Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021)
 
 #### Postdocs
 
@@ -132,4 +133,5 @@ Email: `Leandro.Vendramin@vub.be`
 
 #### Personal homepages and coauthors
 
-[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [David Bachiler](https://www.researchgate.net/profile/David_Bachiller), [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](http://www.mathematik.uni-marburg.de/~heckenberger/), [Eric Jespers](http://homepages.vub.ac.be/~efjesper/), [Alexander Konovalov](https://alexk.host.cs.st-andrews.ac.uk), [Lucasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Simon Lentner](http://simon.lentner.net/), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Martín Mombelli](http://www.famaf.unc.edu.ar/~mombelli/), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](http://www.maths.ed.ac.uk/school-of-mathematics/people?person=67), [Arne Van Antwerpen](http://we.vub.ac.be/nl/arne-van-antwerpen), [Cristian Vay](http://www.famaf.unc.edu.ar/~vay/), [Robert Weston](http://www.macs.hw.ac.uk/~robertw/)
+[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [David Bachiler](https://www.researchgate.net/profile/David_Bachiller), [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](http://www.mathematik.uni-marburg.de/~heckenberger/), [Eric Jespers](http://homepages.vub.ac.be/~efjesper/), [Alexander Konovalov](https://alexk.host.cs.st-andrews.ac.uk), [Lucasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Simon Lentner](http://simon.lentner.net/), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Martín Mombelli](http://www.famaf.unc.edu.ar/~mombelli/), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](http://www.maths.ed.ac.uk/school-of-mathematics/people?person=67), [Arne Van Antwerpen](http://we.vub.ac.be/nl/arne-van-antwerpen), [Cristian Vay](http://www.famaf.unc.edu.ar/~vay/), 
+[Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), [Robert Weston](http://www.macs.hw.ac.uk/~robertw/)
