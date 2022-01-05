@@ -5,8 +5,8 @@
 
 ## 2021
 *   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on Quantum Symmetries, Virtual Meeting 
-*   [CIMPA2021 Madagascar, Non-associative Algebras and their Applications](https://sites.google.com/view/cimpa2020madagascar/). Virtual Meeting 
-*   [MCA2021, Mathematical Congress of the Americas](https://www.mca2021.org/en/). Session on [Quantum Symmetries](https://www.mca2021.org/en/special-sessions/item/46-quantum-symmetries). Virtual Meeting
+*   [CIMPA2021 Madagascar, Non-associative Algebras and their Applications](https://sites.google.com/view/cimpa2020madagascar/). Virtual Meeting [(video)](https://drive.google.com/file/d/1Ssf69M8rD_WvAJJfvyI_si-74okyz7la/view)
+*   [MCA2021, Mathematical Congress of the Americas](https://www.mca2021.org/en/). Session on [Quantum Symmetries](https://www.mca2021.org/en/special-sessions/item/46-quantum-symmetries). Virtual Meeting 
 *   [II Encuentro de Álgebra y Teoría de Nudos](https://matematica.uv.cl/grupoAtN/encuentro/2021/), Virtual meeting [(video)](https://www.youtube.com/watch?v=aJQvrkjlVeQ&list=PLP8BezBmokYvdMGHgSGVAiDi4hAHYmm6u&index=8)
 
 ## 2019
