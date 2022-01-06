@@ -74,7 +74,7 @@ Email: `Leandro.Vendramin@vub.be`
 ### Proceedings and others
 
 * [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). Gac. R. Soc. Mat. Esp. to appear [(GitHub)](https://github.com/vendramin/nudos)
-* [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _A Concise Encyclopedia of Knot Theory_, CRC Press, [to appear](https://www.routledge.com/Encyclopedia-of-Knot-Theory/Adams-Flapan-Henrich-Kauffman-Ludwig-Nelson/p/book/9781138297845)
+* [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _Adams, Colin (ed.), Flapan, Erica (ed.); Henrich, Allison (ed.); Kauffman, Louis H. (ed.); Ludwig, Lewis D. (ed.); Nelson, Sam (ed.) [Encyclopedia of knot theory](https://www.zbmath.org/?q=an%3A1468.57001). Boca Raton, FL: CRC Press. 795-800 (2021)_
 * [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 * [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_
 * [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_, [logs](logs/CONM2013.tar.bz2)
