@@ -2,7 +2,7 @@
 
 *   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/banach-center/conferences/21-algebraybaxter), Stefan Banach International Mathematical Center, Bedlewo, Poland
 *   [Algebra Days in Caen 2022: from Yang–Baxter to Garside](https://lebed.users.lmno.cnrs.fr/AlgebraDays2022.html), Caen, France
-*   [Braces in Bracelet Bay](https://sites.google.com/view/lmsmeetingbracesinbraceletbay/home), LMS Regional Meeting and Workshop, Swansea, UK [(slides)](talks/2022/LMS.pdf)
+*   [Braces in Bracelet Bay](https://sites.google.com/view/lmsmeetingbracesinbraceletbay/home), LMS Regional Meeting and Workshop, Swansea, UK [(slides)](talks/2022/LMS.pdf) [(video)](https://youtu.be/p1L4GTvMbQo)
 
 ## 2021
 *   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on [Quantum Symmetries](https://clam2021.cmat.edu.uy/sesiones/27), Virtual Meeting 
