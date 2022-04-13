@@ -33,10 +33,10 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Published
 
-* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb). _Math. Comp. 91 (2022), 1469-1481_ [code](https://zenodo.org/badge/latestdoi/283301509)
-* [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767._
+* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_ [code](https://zenodo.org/badge/latestdoi/283301509)
+* [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767_
 * [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_
-* [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115._  
+* [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115_  
 * [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston) _J. Algebra 549 (2020) 268-290_
 * [Factorization of skew braces](http://arxiv.org/abs/1905.05886) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Math. Ann. 375 (2019), no. 3-4, 1649–1663_
 * [PBW deformations of a Fomin-Kirillov algebra and other examples](http://arxiv.org/abs/1703.10632) (with I. Heckenberger). _Algebr. Represent. Theory 22 (2019), no. 6, 1513–1532_
