@@ -73,7 +73,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Proceedings and others
 
-* [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). La Gaceta de la RSME, Vol. 25 (2022), Núm. 1, Págs. 85-110 [(GitHub)](https://github.com/vendramin/nudos)
+* [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). La Gaceta de la RSME, vol. 25 (2022), núm. 1, 85-110 [(GitHub)](https://github.com/vendramin/nudos)
 * [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _Adams, Colin (ed.), Flapan, Erica (ed.); Henrich, Allison (ed.); Kauffman, Louis H. (ed.); Ludwig, Lewis D. (ed.); Nelson, Sam (ed.) [Encyclopedia of knot theory](https://www.zbmath.org/?q=an%3A1468.57001). Boca Raton, FL: CRC Press. 795-800 (2021)_
 * [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 * [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_
