@@ -35,7 +35,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 * [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün and M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_ [code](https://zenodo.org/badge/latestdoi/283301509)
 * [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767_
-* [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_ [errata](https://doi.org/10.1080/10586458.2021.1980466)
+* [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_, [errata](https://doi.org/10.1080/10586458.2021.1980466)
 * [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115_  
 * [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston) _J. Algebra 549 (2020) 268-290_
 * [Factorization of skew braces](http://arxiv.org/abs/1905.05886) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Math. Ann. 375 (2019), no. 3-4, 1649–1663_
@@ -73,7 +73,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Proceedings and others
 
-* [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). Gac. R. Soc. Mat. Esp. to appear [(GitHub)](https://github.com/vendramin/nudos)
+* [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). La Gaceta de la RSME, Vol. 25 (2022), Núm. 1, Págs. 85-110 [(GitHub)](https://github.com/vendramin/nudos)
 * [Quantum invariants via Hopf algebras and solutions to the Yang-Baxter equation](https://arxiv.org/abs/1811.09345). _Adams, Colin (ed.), Flapan, Erica (ed.); Henrich, Allison (ed.); Kauffman, Louis H. (ed.); Ludwig, Lewis D. (ed.); Nelson, Sam (ed.) [Encyclopedia of knot theory](https://www.zbmath.org/?q=an%3A1468.57001). Boca Raton, FL: CRC Press. 795-800 (2021)_
 * [Some problems on skew braces and the Yang-Baxter equation](https://doi.org/10.4171/owr/2019/51). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 * [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_
