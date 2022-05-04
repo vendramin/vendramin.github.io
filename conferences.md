@@ -1,3 +1,8 @@
+## 2023
+
+* [Mini-workshop 2309a: Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany
+
+
 ## 2022
 
 *   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/banach-center/conferences/21-algebraybaxter), Stefan Banach International Mathematical Center, Bedlewo, Poland
