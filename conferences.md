@@ -1,11 +1,12 @@
 ## 2023
 
+* [2023 CIMPA School Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/), Puerto Madryn, Argentina
 * [Mini-workshop 2309a: Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany
 
 
 ## 2022
 
-* [Hopf algebras, monoidal categories and related topics](https://hopfconferencebuch.wixsite.com/website), Bucharest, Bulgaria
+*   [Hopf algebras, monoidal categories and related topics](https://hopfconferencebuch.wixsite.com/website), Bucharest, Bulgaria
 *   [The algebra of the Yang–Baxter equation](https://www.impan.pl/en/activities/banach-center/conferences/21-algebraybaxter), Stefan Banach International Mathematical Center, Bedlewo, Poland
 *   [Algebra Days in Caen 2022: from Yang–Baxter to Garside](https://lebed.users.lmno.cnrs.fr/AlgebraDays2022.html), Caen, France
 *   [Braces in Bracelet Bay](https://sites.google.com/view/lmsmeetingbracesinbraceletbay/home), LMS Regional Meeting and Workshop, Swansea, UK [(slides)](talks/2022/LMS.pdf) [(video)](https://youtu.be/p1L4GTvMbQo)
