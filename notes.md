@@ -10,6 +10,7 @@
 
 #### Other
 
+* Trusses: between braces and rings, by T. Brzezinski ([GitHub](https://github.com/vendramin/trusses))
 * Radford's bosonization theorem ([GitHub](https://github.com/vendramin/radford))
 * Algebra with GAP ([GitHub](https://github.com/vendramin/gap))
 
