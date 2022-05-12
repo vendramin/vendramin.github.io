@@ -1,7 +1,7 @@
 ## 2023
 
-* [2023 CIMPA School Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/), Puerto Madryn, Argentina
-* [Mini-workshop 2309a: Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany
+* [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/), Puerto Madryn, Argentina
+* [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany
 
 
 ## 2022
@@ -13,13 +13,13 @@
 
 ## 2021
 *   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on [Quantum Symmetries](https://clam2021.cmat.edu.uy/sesiones/27), Virtual Meeting 
-*   [CIMPA2021 Madagascar, Non-associative Algebras and their Applications](https://sites.google.com/view/cimpa2020madagascar/). Virtual Meeting [(video)](https://drive.google.com/file/d/1Ssf69M8rD_WvAJJfvyI_si-74okyz7la/view)
+*   [CIMPA--Madagascar: Non-associative Algebras and their Applications](https://sites.google.com/view/cimpa2020madagascar/). Virtual Meeting [(video)](https://drive.google.com/file/d/1Ssf69M8rD_WvAJJfvyI_si-74okyz7la/view)
 *   [MCA2021, Mathematical Congress of the Americas](https://www.mca2021.org/en/). Session on [Quantum Symmetries](https://www.mca2021.org/en/special-sessions/item/46-quantum-symmetries). Virtual Meeting 
 *   [II Encuentro de Álgebra y Teoría de Nudos](https://matematica.uv.cl/grupoAtN/encuentro/2021/), Virtual meeting [(video)](https://www.youtube.com/watch?v=aJQvrkjlVeQ&list=PLP8BezBmokYvdMGHgSGVAiDi4hAHYmm6u&index=8)
 
 ## 2019
 
-*   [Mini-workshop 1946a: Algebraic Tools for Solving the Yang–Baxter Equation](https://www.mfo.de/occasion/1946a/www_view), Oberwolfach, Germany
+*   [Oberwolfach mini-workshop (1946a): Algebraic Tools for Solving the Yang–Baxter Equation](https://www.mfo.de/occasion/1946a/www_view), Oberwolfach, Germany
 *   [ICTP-SAIFR Workshop on quantum symmetries](http://www.ictp-saifr.org/workshop-on-quantum-symmetries/), São Paulo, Brazil
 *   [Advances in Group Theory and Applications](http://www.advgrouptheory.com/agta2019/), Lecce, Italy
 *   [Groups, rings and associated structures](http://homepages.vub.ac.be/~abachle/gras2019/), Spa, Belgium [(slides)](talks/2019/spa.pdf)
