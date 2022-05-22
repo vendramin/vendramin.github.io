@@ -8,7 +8,7 @@
 * Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021)
 
 ### Former:
-* Charlotte Verwimp (cosupervised with Eric Jespers, 2018-2020), [thesis](files/verwimp.pdf) 
+* Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf) 
 
 ## Postdocs
 
