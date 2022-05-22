@@ -12,5 +12,5 @@
 
 ## Postdocs
 
-* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2022)
+* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020)
 * Arne Van Antwerpen (FWO, from 2020)
