@@ -126,13 +126,9 @@ My courses are [here](notes.md). Other lecture notes:
 *   [Sage: Open Source Mathematics Software](http://www.sagemath.org/)
 *   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
 
-#### PhD Students
+#### PhD Students/Postdocs
 
-[Emiliano Acri](http://mate.dm.uba.ar/~eacri) (CONICET, from 2018), Santiago Ramírez (CONICET, from 2019), Charlotte Verwimp (cosupervised with Eric Jespers, FWO, from 2020), Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), ULB, from 2021), Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021)
-
-#### Postdocs
-
-[Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020), Arne Van Antwerpen (FWO, from 2020)
+[Here](students.md) you find my list of Phd students and postdocs
 
 #### Personal homepages and coauthors
 
