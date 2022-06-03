@@ -12,5 +12,6 @@
 
 ## Postdocs
 
-* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020)
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (FWO, from 2023)
 * Arne Van Antwerpen (FWO, from 2020)
+* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020)
