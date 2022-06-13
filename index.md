@@ -25,7 +25,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
-* [On the enumeration of finite L-algebras](http://arxiv.org/abs/) (with C. Dietzel, P. Menchón), [code](https://zenodo.org/badge/latestdoi/417288153)
+* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón), [code](https://zenodo.org/badge/latestdoi/417288153)
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump)
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen)
