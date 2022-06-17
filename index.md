@@ -34,10 +34,10 @@ Email: `Leandro.Vendramin@vub.be`
 
 * [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez) Accepted for publication in _Int. Math. Res. Not. IMRN_
-* [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed) Accepted for publication in _J. Algebra_
 
 ### Published
 
+* [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed). _J. Algebra 607 (2022), 360-380_
 * [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_, [code](https://zenodo.org/badge/latestdoi/283301509)
 * [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767_
 * [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_, [errata](https://doi.org/10.1080/10586458.2021.1980466)
