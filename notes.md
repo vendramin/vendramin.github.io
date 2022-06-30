@@ -7,6 +7,7 @@
 * Associative algebras ([GitHub](https://github.com/vendramin/associative))
 * Galois theory ([GitHub](https://github.com/vendramin/galois))
 * Non-commutative algebra ([GitHub](https://github.com/vendramin/noncommutative))
+* Representatio theory of algebras ([Github](https://github.com/vendramin/representation))
 
 #### Other
 
