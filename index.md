@@ -89,6 +89,7 @@ Email: `Leandro.Vendramin@vub.be`
 ## Lecture notes
 
 My courses are [here](notes.md). Other lecture notes:
+*   [2022, Brussels] Algebra with GAP - with Jan de Beule ([slides](notes/vub.tar.gz))
 *   [2020, Halifax] Algebra with GAP ([videos](http://www.mathstat.dal.ca/~selinger/minicourse-gap/), [slides and problems](notes/dalhousi.tar.gz))
 *   [2015, Talca] [Pecios y quandles](notes/talca2015.pdf)
 *   [2015, ERAG] [El grupoide de Weyl](notes/erag2015.pdf)
