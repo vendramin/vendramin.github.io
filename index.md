@@ -25,6 +25,8 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
+* [Bosonization of friendly Lie bialgebras]() (with I. Heckenberger)
+* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class]() (with V. Lebed, S. Ramírez)
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón), [code](https://zenodo.org/badge/latestdoi/417288153)
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump)
 
