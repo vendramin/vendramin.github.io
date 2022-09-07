@@ -25,8 +25,8 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
-* [Bosonization of friendly Lie bialgebras]() (with I. Heckenberger)
-* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class]() (with V. Lebed, S. Ramírez)
+* [Bosonization of friendly Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger)
+* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez)
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón), [code](https://zenodo.org/badge/latestdoi/417288153)
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump)
 
@@ -42,7 +42,7 @@ Email: `Leandro.Vendramin@vub.be`
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed). _J. Algebra 607 (2022), 360–380_
 * [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_, [code](https://zenodo.org/badge/latestdoi/283301509)
 * [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767_
-* [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with A. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_, [errata](https://doi.org/10.1080/10586458.2021.1980466)
+* [On skew braces and their ideals](https://arxiv.org/abs/1804.04106) (with O. Konovalov, A. Smoktunowicz). _Exp. Math. 30 (2021), no. 1, 95–104_, [errata](https://doi.org/10.1080/10586458.2021.1980466)
 * [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115_  
 * [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston) _J. Algebra 549 (2020) 268-290_
 * [Factorization of skew braces](http://arxiv.org/abs/1905.05886) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Math. Ann. 375 (2019), no. 3-4, 1649–1663_
@@ -102,7 +102,7 @@ My courses are [here](notes.md). Other lecture notes:
 
 ### Mathematics
 
-*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with A. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets
+*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with O. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets
 *   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras  
 *   Python/Sage [script](files/der.tar.bz2) for Nichols algebras and derivations  
 *   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger)  
@@ -137,5 +137,5 @@ My courses are [here](notes.md). Other lecture notes:
 
 #### Personal homepages and coauthors
 
-[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [David Bachiler](https://www.researchgate.net/profile/David_Bachiller), [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](http://www.mathematik.uni-marburg.de/~heckenberger/), [Eric Jespers](http://homepages.vub.ac.be/~efjesper/), [Alexander Konovalov](https://alexk.host.cs.st-andrews.ac.uk), [Lucasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Simon Lentner](http://simon.lentner.net/), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Paula Menchón](https://sites.google.com/view/paulamenchon), [Martín Mombelli](http://www.famaf.unc.edu.ar/~mombelli/), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=67), [Arne Van Antwerpen](https://vanantwerpen.github.io/), [Cristian Vay](http://www.famaf.unc.edu.ar/~vay/), 
+[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [David Bachiler](https://www.researchgate.net/profile/David_Bachiller), [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](http://www.mathematik.uni-marburg.de/~heckenberger/), [Eric Jespers](http://homepages.vub.ac.be/~efjesper/), [Olexandr Konovalov](https://alex-konovalov.github.io/), [Lucasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Simon Lentner](http://simon.lentner.net/), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Paula Menchón](https://sites.google.com/view/paulamenchon), [Martín Mombelli](http://www.famaf.unc.edu.ar/~mombelli/), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=67), [Arne Van Antwerpen](https://vanantwerpen.github.io/), [Cristian Vay](http://www.famaf.unc.edu.ar/~vay/), 
 [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), [Robert Weston](http://www.macs.hw.ac.uk/~robertw/)
