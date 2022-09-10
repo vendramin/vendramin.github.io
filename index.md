@@ -25,7 +25,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
-* [Bosonization of friendly Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger)
+* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger)
 * [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez)
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón), [code](https://zenodo.org/badge/latestdoi/417288153)
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump)
@@ -102,11 +102,10 @@ My courses are [here](notes.md). Other lecture notes:
 
 ### Mathematics
 
-*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with O. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets
-*   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras  
-*   Python/Sage [script](files/der.tar.bz2) for Nichols algebras and derivations  
-*   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger)  
-    Software written in Python to calculate the Arithmetic Root System associated to a braiding of diagonal type  
+*   [YangBaxter](http://gap-packages.github.io/YangBaxter/) (with O. Konovalov). A GAP package for set-theoretical solutions of the YBE, braces, racks and quandles, cycle sets.
+*   [Rig](http://github.com/vendramin/rig) (with M. Graña). A GAP package for racks, quandles, and Nichols algebras. 
+*   Python/Sage [script](files/der.tar.bz2) for Nichols algebras and derivations.
+*   [Sarna](http://github.com/vendramin/sarna) (with M. Graña and I. Heckenberger). Software written in Python to calculate the Arithmetic Root System associated to a braiding of diagonal type.  
 
 ### Just for fun
 
@@ -133,7 +132,7 @@ My courses are [here](notes.md). Other lecture notes:
 
 #### PhD Students/Postdocs
 
-[Here](students.md) you find my list of Phd students and postdocs
+[Here](students.md) you find my list of Phd students and postdocs.
 
 #### Personal homepages and coauthors
 
