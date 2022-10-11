@@ -1,9 +1,9 @@
 ## Phd students
 
 ### Current:
-* [Emiliano Acri](http://mate.dm.uba.ar/~eacri) (CONICET, from 2018)
+* Emiliano Acri (CONICET, from 2018)
 * Santiago Ramírez (CONICET, from 2019)
-* Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), ULB, from 2021)
+* Thomas Letourmy (cosupervised with Joost Vercruysse, ULB, from 2021)
 * Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021)
 * Silvia Properzi (VUB, from 2022)
 
@@ -13,6 +13,6 @@
 ## Postdocs
 
 * Carsten Dietzel (Humboldt, from 2023)
-* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (FWO, from 2023)
+* Kevin Piterman (FWO, from 2023)
 * Arne Van Antwerpen (FWO, from 2020)
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020)
