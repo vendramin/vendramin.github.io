@@ -1,5 +1,6 @@
 ## 2023
 
+* [Young Researchers Algebra Conference 2023](https://www.advgrouptheory.com/yrac2023/#), L'Aquila, Italy
 * [Workshop on Geometric Methods in Physics](https://wgmp.uwb.edu.pl), Białowieża, Poland
 * [Advances in Group Theory and Applications 2023](https://www.advgrouptheory.com/agta2023/), Lecce, Italy 
 * [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/), Puerto Madryn, Argentina
