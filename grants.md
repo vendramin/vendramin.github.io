@@ -7,6 +7,6 @@
 ## Others
 
 * 2023-2025. London Mathematical Society: [The Interplay Between Skew Braces and Hopf-Galois Theory (InterplaySbHG)](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK).  
-* 2023-2024. OZR Backup Mandate: Skew braces, quivers and applications to the Yang--Baxter equation. Supervisor of Silvia Properzi. 
+* 2023-2024. OZR4014 (backup mandate): Skew braces, quivers and applications to the Yang-Baxter equation. Supervisor of Silvia Properzi. 
 * 2023-2025. Alexander von Humboldt Postdoc Grant. Supervisor of Carsten Dietzel.
-* 2021-2025. OZR3762: Algebraic structures associated with the Yang—Baxter equation. 
+* 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation. 
