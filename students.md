@@ -10,16 +10,25 @@
 ### Former:
 * Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf).
 
-Do you want to do your _PhD_ at VUB in Brussels? Consdier an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
+#### Do you want to do your _PhD_ at VUB in Brussels? 
+
+Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
 
 ## Postdocs
+
+### Current:
 
 * Carsten Dietzel (Humboldt, from 2023).
 * Kevin Piterman (FWO, from 2023).
 * Arne Van Antwerpen (FWO, from 2020).
+
+### Former:
+
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020).
 
-Are you considering doing a _postdoc_ with me at VUB? Here you will find possible funding schemes: 
+#### Are you considering doing a _postdoc_ at VUB? 
+
+Here you will find possible funding schemes: 
 
 * [Marie Skłodowska Curie (MSCA) Individual Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
