@@ -21,7 +21,7 @@ Do you want to do your _PhD_ at VUB in Brussels? Consdier an [FWO PhD Fellowship
 
 Are you considering doing a _postdoc_ with me at VUB? Here you will find possible funding schemes: 
 
-* [Marie Skłodowska Curie (MSCA) Individual Fellowships](https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual).
+* [Marie Skłodowska Curie (MSCA) Individual Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
 * [Feodor Lynen Research Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship): Only if you obtained your PhD in Germany.
 
