@@ -6,7 +6,7 @@
 
 ## Others
 
-* 2023-2025. London Mathematical Society: [The Interplay Between Skew Braces and Hopf-Galois Theory (InterplaySbHG)](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK).  
+* 2023-2025. London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK).  
 * 2023-2024. OZR4014 (backup mandate): Skew braces, quivers and applications to the Yang-Baxter equation. Supervisor of Silvia Properzi. 
-* 2023-2025. Alexander von Humboldt Postdoc Grant. Supervisor of Carsten Dietzel.
+* 2023-2025. [Feodor Lynen Research Postdoctoral Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Supervisor of Carsten Dietzel.
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation. 
