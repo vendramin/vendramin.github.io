@@ -10,7 +10,7 @@
 ### Former:
 * Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf).
 
-#### Do you want to do your _PhD_ at VUB in Brussels? 
+#### Do you want to do your PhD at VUB? 
 
 Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
 
@@ -26,7 +26,7 @@ Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-f
 
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020).
 
-#### Are you considering doing a _postdoc_ at VUB? 
+#### Are you considering doing a postdoc at VUB? 
 
 Here you will find possible funding schemes: 
 
@@ -35,5 +35,7 @@ Here you will find possible funding schemes:
 * [Feodor Lynen Research Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship): Only if you obtained your PhD in Germany.
 
 * [FWO Postdoctoral Fellowships](https://www.fwo.be/en/fellowships-funding/postdoctoral-fellowships/).
+
+
 
 
