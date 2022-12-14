@@ -35,11 +35,11 @@ Email: `Leandro.Vendramin@vub.be`
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón) Accepted for publication in _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen) Accepted for publication in _Commun. Contemp. Math._
-* [Decomposition theorems for involutive solutions to the Yang-Baxter
-  equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez) Accepted for publication in _Int. Math. Res. Not. IMRN_.
 
 ### Published
 
+* [Decomposition theorems for involutive solutions to the Yang-Baxter
+  equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez) _Int. Math. Res. Not. IMRN 2022, no. 22, 18078–18091_.
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed). _J. Algebra 607 (2022), 360–380_.
 * [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_, [code](https://zenodo.org/badge/latestdoi/283301509).
 * [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767_.
