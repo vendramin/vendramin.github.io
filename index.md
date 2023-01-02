@@ -115,6 +115,7 @@ My courses are [here](notes.md). Other lecture notes:
 
 ## Links
 
+*   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php)
 *   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/)
 *   [DAAD](http://www.daad.org.ar)
 
