@@ -121,20 +121,21 @@ My courses are [here](notes.md). Other lecture notes:
 
 #### Mathematics
 
-*   [Some talks/conferences](conferences.md)
-*   [QA Seminar](qa.md)
-*   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/)
+*   [VUB Algebra Research Group](https://leandrovendramin.org/team/).
+*   [Some talks/conferences](conferences.md).
+*   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
 
 #### Software
 
-*   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/)
-*   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/)
-*   [Sage: Open Source Mathematics Software](http://www.sagemath.org/)
 *   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
+*   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/)
+*   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/)
+*   [OSCAR Computer Algebra System](https://oscar.computeralgebra.de)
+*   [Sage: Open Source Mathematics Software](http://www.sagemath.org/)
 
 #### PhD Students/Postdocs
 
-[Here](students.md) you find my list of Phd students and postdocs.
+[Here](students.md) you find my list of PhD students and postdocs.
 
 #### Personal homepages and coauthors
 
