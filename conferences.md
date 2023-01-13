@@ -1,4 +1,4 @@
-## 2024
+## 2024
 
 * Skew braces, braids and the Yang-Baxter equation, Banff, Canada. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin.
 
