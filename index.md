@@ -27,12 +27,12 @@ Email: `Leandro.Vendramin@vub.be`
 
 * [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy).
 * [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy).
-* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger).
 * [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez).
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump).
 
 ### Accepted for publication
 
+* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger) Accepted for publication in _Bull. Belg. Math. Soc. Simon Stevin_.
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón) Accepted for publication in _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen) Accepted for publication in _Commun. Contemp. Math._
@@ -116,9 +116,9 @@ My courses are [here](notes.md). Other lecture notes:
 
 ## Links
 
-*   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php)
-*   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/)
-*   [DAAD](http://www.daad.org.ar)
+*   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php).
+*   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
+*   [DAAD](http://www.daad.org.ar).
 
 #### Mathematics
 
