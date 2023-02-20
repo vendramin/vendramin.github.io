@@ -7,6 +7,7 @@
 * [Young Researchers Algebra Conference 2023](https://www.advgrouptheory.com/yrac2023/#), L'Aquila, Italy.
 * [Workshop on Geometric Methods in Physics](https://wgmp.uwb.edu.pl), Białowieża, Poland.
 * [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium.
+* [Zelmanov's honorary doctorate at VUB](https://leandrovendramin.org/zelmanov/), Brussels, Belgium. 
 * [Advances in Group Theory and Applications 2023](https://www.advgrouptheory.com/agta2023/), Lecce, Italy.
 * [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/), Puerto Madryn, Argentina.
 * [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany.
