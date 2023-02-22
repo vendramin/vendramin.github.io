@@ -33,12 +33,13 @@ Email: `Leandro.Vendramin@vub.be`
 ### Accepted for publication
 
 * [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger) Accepted for publication in _Bull. Belg. Math. Soc. Simon Stevin_.
-* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón) Accepted for publication in _Math. Comp._ [code](https://zenodo.org/badge/latestdoi/417288153).
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen) Accepted for publication in _Commun. Contemp. Math._
 
 ### Published
 
+* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_, 
+ [code](https://zenodo.org/badge/latestdoi/417288153).
 * [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez) _Int. Math. Res. Not. IMRN 2022, no. 22, 18078–18091_.
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed). _J. Algebra 607 (2022), 360–380_.
