@@ -94,6 +94,7 @@ Email: `Leandro.Vendramin@vub.be`
 ## Lecture notes
 
 My courses are [here](notes.md). Other lecture notes:
+*   [2023, Puerto Madryn] Algebra with GAP ([notes](https://crossroads-2023.github.io/vendramin/gap.pdf)).
 *   [2022, Brussels] Algebra with GAP - with Jan de Beule ([slides](notes/vub.tar.bz2)).
 *   [2020, Halifax] Algebra with GAP ([videos](http://www.mathstat.dal.ca/~selinger/minicourse-gap/), [slides and problems](notes/dalhousi.tar.gz)).
 *   [2015, Talca] [Pecios y quandles](notes/talca2015.pdf).
