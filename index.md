@@ -21,12 +21,9 @@ Email: `Leandro.Vendramin@vub.be`
 
 [CV](files/CV.pdf), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Vendramin%2C+L), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
-<!---
 ## Editorial work
 
 * I am editor of the Bulletin of the [Belgian Mathematical Society - Simon Stevin](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin). Please submit articles [here](https://ef.msp.org/submit/bbelgianms).
---->
-
 
 ## Publications
 
