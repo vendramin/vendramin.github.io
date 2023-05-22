@@ -19,7 +19,7 @@ Buenos Aires, Argentina
 Email: `Leandro.Vendramin@vub.be`
 <!--Email: `lvendramin@dm.uba.ar`-->
 
-[CV](files/CV.pdf), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Vendramin%2C+L), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
+[CV](files/CV.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
 ## Editorial work
 
@@ -135,11 +135,11 @@ My courses are [here](notes.md). Other lecture notes:
 
 #### Software
 
-*   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
-*   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/)
-*   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/)
-*   [OSCAR Computer Algebra System](https://oscar.computeralgebra.de)
-*   [Sage: Open Source Mathematics Software](http://www.sagemath.org/)
+*   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/).
+*   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/).
+*   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/).
+*   [OSCAR Computer Algebra System](https://oscar.computeralgebra.de).
+*   [Sage: Open Source Mathematics Software](http://www.sagemath.org/).
 
 #### PhD Students/Postdocs
 
