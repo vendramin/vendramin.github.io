@@ -4,7 +4,7 @@
 * Emiliano Acri (CONICET, from 2018).
 * Santiago Ramírez (CONICET, from 2019).
 * Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), ULB, from 2021).
-* Senne Treppeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021).
+* Senne Trappeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021).
 * Silvia Properzi (VUB, from 2022).
 
 ### Former:
