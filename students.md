@@ -3,16 +3,16 @@
 ### Current:
 * Emiliano Acri (CONICET, from 2018).
 * Santiago Ramírez (CONICET, from 2019).
-* Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), ULB, from 2021).
+* Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), FRNS, from 2021).
 * Senne Trappeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021).
 * Silvia Properzi (VUB, from 2022).
 
 ### Former:
 * Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf).
 
-#### Do you want to do your PhD at VUB? 
+#### Do you want to do your Ph.D. at VUB? 
 
-Consider an [FWO PhD Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
+Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
 
 ## Postdocs
 
