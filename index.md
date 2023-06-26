@@ -36,11 +36,11 @@ Email: `Leandro.Vendramin@vub.be`
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 * [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy).
 * [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy).
-* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez).
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump).
 
 ### Accepted for publication
 
+* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez) Accepted for publication in _Rev. Mat. Iberoam._
 * [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger) Accepted for publication in _Bull. Belg. Math. Soc. Simon Stevin_.
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen) Accepted for publication in _Commun. Contemp. Math._
