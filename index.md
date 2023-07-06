@@ -31,6 +31,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti).  
 * [Simple Yetter-Drinfeld modules over groups with prime dimension and a
  finite-dimensional Nichols algebra](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir).
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
