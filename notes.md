@@ -4,8 +4,9 @@
 
 #### VUB
 * Rings and modules ([GitHub](https://github.com/vendramin/rings))
-* Associative algebras ([GitHub](https://github.com/vendramin/associative))
+* Group theory ([GitHub](https://github.com/vendramin/group))
 * Galois theory ([GitHub](https://github.com/vendramin/galois))
+* Associative algebras ([GitHub](https://github.com/vendramin/associative))
 * Non-commutative algebra ([GitHub](https://github.com/vendramin/noncommutative))
 * Representation theory of algebras ([Github](https://github.com/vendramin/representation))
 
