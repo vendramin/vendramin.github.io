@@ -40,11 +40,11 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Accepted for publication
 
-* [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy). Accepted for publication in _Bull. London Math. Soc._
-* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041). (with V. Lebed, S. Ramírez) Accepted for publication in _Rev. Mat. Iberoam._
-* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115). (with I. Heckenberger) Accepted for publication in _Bull. Belg. Math. Soc. Simon Stevin_.
+* [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy). _Bull. London Math. Soc._
+* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam._
+* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin_.
 * [Nilpotency of skew braces and multipermutation solutions of the
-  Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). Accepted for publication in _Commun. Contemp. Math._
+  Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math._
 
 ## Lecture notes
 
