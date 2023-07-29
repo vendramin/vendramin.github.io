@@ -7,3 +7,5 @@
 5. I. Heckenberger, L. Vendramin. [A classification of Nichols algebras of semi-simple Yetter-Drinfeld modules over non-abelian groups](http://arxiv.org/abs/1412.0857). _J. Eur. Math. Soc. (JEMS) 19 (2017), no. 2, 299-356_.
 6. V. Lebed, L. Vendramin. [Homology of left non-degenerate set-theoretic solutions to the Yang-Baxter equation](http://arxiv.org/abs/1509.07067). _Adv. Math. 304 (2017), 1219-1261_.
 7. M. Graña, I. Heckenberger, L. Vendramin. [Nichols algebras of group type with many quadratic relations](http://arxiv.org/abs/1004.3723). _Adv. Math. 227 (2011), no. 5, 1956-1989_.
+
+Click [here](publications.md) for my full list of publications.  
