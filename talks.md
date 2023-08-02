@@ -6,12 +6,13 @@
 * Some problems on skew braces. [Advances in Group Theory and Applications](https://www.advgrouptheory.com/agta2023/). Lecce, Italy.
 * Nichols algebras. [European Quantum Algebra Lectures (EQuAL)](https://sites.google.com/view/equalseminar/home). Virtual seminar.
 * Some problems on skew braces. [The Interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io). Keele University, UK. 
-* Algebra with GAP (mini-course). [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io). Puerto Madryn, Argentina. 
+* Algebra with GAP (mini-course). [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io). Puerto Madryn, Argentina. [[notes]](https://crossroads-2023.github.io/vendramin/gap.pdf)
 * Skew braces, cabling and indecomposable solutions to the Yang-Baxter equation. [Categories, Rings and Modules, a conference in honor of Alberto Facchini](https://events.math.unipd.it/CRaM/). Padova, Italy.
 * Pre-Lie algebras and braces. [Oberwolfach mini-workshop: Skew braces and the Yang-Baxter equation](https://www.mfo.de/occasion/2309a/www_view), Germany. 
 
 #### 2022
 
+* Algebra with GAP (minicourse, 6 hours). Vrije Universiteit Brussel. With Jan de Beule. [[slides]](notes/vub.tar.bz2)
 * Multipermutation solutions and the Yang-Baxter equation. [Hopf algebras, monoidal categories and related topics](https://hopfconferencebuch.wixsite.com/website). Bucharest, Romania. 
 * Left-ordered groups, Garside groups and structure groups of solutions. [Algebra days in Caen](https://lebed.users.lmno.cnrs.fr/AlgebraDays2022.html), France.
 * The Yang-Baxter equation and algebraic logic. Nicolaus Copernicus University, Toruń, Poland. 
@@ -28,7 +29,7 @@
 
 * Problems on skew braces. Harish-Chandra Research Institute, India. Virtual seminar.
 * Radical rings and the Yang-Baxter equation. [Grupo de teoría de Lie](http://teoriadelie.famaf.unc.edu.ar/seminario/). Virtual seminar.
-* Algebra with GAP. [AARMS mini-course](https://aarms.math.ca/event/mini-course-on-gap/), Dalhousie University, Halifax, Canada. 
+* Algebra with GAP. [AARMS mini-course](https://aarms.math.ca/event/mini-course-on-gap/), Dalhousie University, Halifax, Canada. [[videos]](http://www.mathstat.dal.ca/~selinger/minicourse-gap/) [[slides and problems]](notes/dalhousi.tar.gz)
  
 #### 2019
 
@@ -65,24 +66,31 @@
 
 #### 2015
 
-* Nichols algebras over non-abelian groups. Nichols Algebras and their interactions with Lie theory, Hopf Algebras and Tensor Categories, Banff, Canada.
+* Pecios y quandles (mini-course, Spanish). Universidad de Talca, Chile. [[notes]](notes/talca2015.pdf)
+* El grupoide de Weyl (mini-course, Spanish). Encuentro Rioplatense de Álgebra y Geometría. [[notes]](notes/erag2015.pdf)
+* Nichols algebras over non-abelian groups. [Nichols Algebras and their interactions with Lie theory, Hopf Algebras and Tensor Categories](https://www.birs.ca/events/2015/5-day-workshops/15w5053), Banff, Canada. [[video]](https://www.birs.ca/events/2015/5-day-workshops/15w5053/videos/watch/201509090901-Vendramin.html)
 
 #### 2014
 
 * Nichols algebras over non-abelian groups. Coloquio Latinoamericano de Álgebra, Lima, Perú. 
-* Introducción al álgebra con GAP (mini-course, 8 hours), Universidad de Chile, Santiago de Chile. 
-* The classification of Nichols algebras (mini-course, 6 hours). Summer School on Conformal Field Theories and Nichols algebras, Rauischholzhausen, Germany.
+* Introducción al álgebra con GAP (mini-course, 8 hours), Universidad de Chile, Santiago de Chile. [[notes]](notes/GAP.pdf)
+* The classification of Nichols algebras (mini-course, 6 hours). Summer School on Conformal Field Theories and Nichols algebras, Rauischholzhausen, Germany. [[notes]](notes/rauischholzhausen2014.pdf)
 * Introducción a la teoría combinatoria de nudos (mini-course, 3 hours). ElENA VII, Córdoba, Argentina. 
 * Nichols algebras. Universidad de Talca, Talca, Chile.
 * Nichols algebras and Weyl groupoids of rank two. Colóquio de Álgebra e Representações - Quantum 2014, Santa Maria, Brazil. 
 * Doubly transitive groups and cyclic quandles. Università di Ferrara, Italy. 
 * Nichols algebras and a combinatorial model for Schubert calculus. ICTP, Trieste, Italy.
 
+#### 2013
+
+* Nichols algebras with root systems of rank two. Quantum day. Facultad de Matemática, Astronomía, Física y Computación, Córdoba, Argentina.  
+
 #### 2012
 
-* Fomin-Kirillov algebras. Nichols algebras and Weyl groupoids, Oberwolfach, Germany. 
-* Nichols algebras. Séminaire Lotharingien de Combinatoire 69, Strobl, Austria. 
-* About the classification of finite-dimensional pointed Hopf algebras. Groups, Rings, Lie and Hopf Algebras. III, Deer Lake, Canada. 
+* Fomin-Kirillov algebras. [Nichols algebras and Weyl groupoids](https://www.mfo.de/occasion/1240a/www_view), Oberwolfach, Germany. [[slides]](https://leandrovendramin.org/talks/2012/oberwolfach.pdf)
+* Nichols algebras. [Séminaire Lotharingien de Combinatoire 69](https://www.emis.de/journals/SLC/wpapers/s69preface.html), Strobl, Austria. 
+* About the classification of finite-dimensional pointed Hopf algebras. [Groups, Rings, Lie and Hopf Algebras. III](https://www.mun.ca/aac/workshops/past-workshops/2012/), Deer Lake, Canada.
+* Hopf algebras and applications (mini-course). With N. Andruskiewitsch. AARMS Summer School, St. Johns, Canada. 
 * Nichols algebras and Weyl groupoids of rank two. Oberseminar Kombinatorik und Algebra, Philipps Universität, Marburg, Germany. 
 * Introduction to cluster algebras. [Forschungsseminar Mathematische Physik](https://www.mathematik.uni-marburg.de/~agricola/FS-Archiv.html), Philipps Universität, Marburg, Germany. 
 * Nichols algebras and quadratic relations. Universidad de Almería, Spain. 
