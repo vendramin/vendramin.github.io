@@ -46,16 +46,13 @@ Email: `Leandro.Vendramin@vub.be`
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math._
 
+## Talks
+
+Click [here](talks.md) for my talks. 
+
 ## Lecture notes
 
-My courses are [here](notes.md). Other lecture notes:
-*   [2023, Puerto Madryn] Algebra with GAP ([notes](https://crossroads-2023.github.io/vendramin/gap.pdf)).
-*   [2022, Brussels] Algebra with GAP - with Jan de Beule ([slides](notes/vub.tar.bz2)).
-*   [2020, Halifax] Algebra with GAP ([videos](http://www.mathstat.dal.ca/~selinger/minicourse-gap/), [slides and problems](notes/dalhousi.tar.gz)).
-*   [2015, Talca] [Pecios y quandles](notes/talca2015.pdf).
-*   [2015, ERAG] [El grupoide de Weyl](notes/erag2015.pdf).
-*   [2014, Rauischholzhausen] [Nichols algebras](notes/rauischholzhausen2014.pdf).
-*   [2014, Santiago de Chile] [Introducción al álgebra con GAP](notes/GAP.pdf).
+My courses are [here](notes.md). 
 
 ## My software
 
