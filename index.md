@@ -21,10 +21,6 @@ Email: `Leandro.Vendramin@vub.be`
 
 [CV](files/CV.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
-## Editorial work
-
-* I am editor of the Bulletin of the [Belgian Mathematical Society - Simon Stevin](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin). Please submit articles [here](https://ef.msp.org/submit/bbelgianms).
-
 ## Publications
 
 * [Here](selected.md) is list of selected publications. Click [here](publications.md) for the full list. 
@@ -67,6 +63,10 @@ My courses are [here](notes.md).
 
 *   [pysolita](http://github.com/vendramin/pysolita), simple solitaire game written in Python. Requires [Pygame](http://www.pygame.org), [screenshot](files/pysolita.jpg).
 *   [tetris4sdl](http://github.com/vendramin/tetris4sdl), my own tetris game written in C. Requires [SDL](http://libsdl.org), [screenshot](files/tetris4sdl.jpg).
+
+## Editorial work
+
+* I am an editor of the Bulletin of the [Belgian Mathematical Society - Simon Stevin](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin). Please submit articles [here](https://ef.msp.org/submit/bbelgianms).
 
 ## Links
 
