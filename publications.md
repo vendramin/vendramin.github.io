@@ -26,7 +26,7 @@
 
 * [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115_.  
 * [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston). _J. Algebra 549 (2020) 268-290_.
-* [Some problems on skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/3705/OWR_2019_51.pdf?sequence=4&isAllowed=y). Algebraic Tools for Solving the YangBaxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
+* [Some problems on skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/3705/OWR_2019_51.pdf?sequence=4&isAllowed=y). Algebraic Tools for Solving the Yang-Baxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
 
 #### 2019
 
