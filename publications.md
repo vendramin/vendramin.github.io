@@ -1,20 +1,34 @@
 ### Leandro Vendramin's publication list
 
-#### 2023
+#### Preprints
 
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). 
+* [Simple Yetter-Drinfeld modules over groups with prime dimension and a
+ finite-dimensional Nichols algebra](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir).
+* [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
+* [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy).
+* [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump).
+
+#### Accepted for publication
+
+* [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy). _Bull. London Math. Soc._
+* [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam._
+* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin_.
+
+#### 2023
 
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
-* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_, 
- [code](https://zenodo.org/badge/latestdoi/417288153).
+* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_
+ [[code]](https://zenodo.org/badge/latestdoi/417288153).
 
 #### 2022
 
-* [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). Gac. R. Soc. Mat. Esp. 25 (2022), no. 1, 85-110,  [GitHub](https://github.com/vendramin/nudos).
+* [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). Gac. R. Soc. Mat. Esp. 25 (2022), no. 1, 85-110. [[GitHub]](https://github.com/vendramin/nudos).
 * [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez). _Int. Math. Res. Not. IMRN 2022, no. 22, 18078–18091_.
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed). _J. Algebra 607 (2022), 360–380_.
-* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_, [code](https://zenodo.org/badge/latestdoi/283301509).
+* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_ [[code]](https://zenodo.org/badge/latestdoi/283301509).
 
 #### 2021
 
@@ -71,7 +85,7 @@
 #### 2013
 
 * [Fomin-Kirillov algebras](http://arxiv.org/abs/1210.5423). Nichols algebras and Weyl groupoids, _Oberwolfach Rep. 9 (2013), no. 4, 2889–2891_.
-* [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_, [logs](logs/CONM2013.tar.bz2).
+* [On twisted conjugacy classes of type D in sporadic simple groups](http://arxiv.org/abs/1107.0310) (with F. Fantino). Hopf Algebras and Tensor Categories, _Contemp. Math. 585 (2013) 247-259_. [[logs]](logs/CONM2013.tar.bz2)
 
 #### 2012
 
@@ -83,7 +97,7 @@
 
 * [On Nichols algebras associated to simple racks](http://arxiv.org/abs/1006.5727) (with N. Andruskiewitsch, F. Fantino, G. García). Groups, Algebras and Applications, _Contemp. Math. 537 (2011) 31-56_.
 * [Nichols algebras of group type with many quadratic relations](http://arxiv.org/abs/1004.3723) (with M. Graña, I. Heckenberger). _Adv. Math. 227 (2011), no. 5, 1956-1989_.
-* [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_, [logs](logs/JAlgebra2011.tar.bz2). 
+* [Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1108) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 305-320_. [[logs]](logs/JAlgebra2011.tar.bz2)
 * [The logbook of Pointed Hopf algebras over the sporadic simple groups](http://arxiv.org/abs/1001.1113) (with N. Andruskiewitsch, F. Fantino, M. Graña). _J. Algebra 325 (2011) 282-304_.
 * [Finite-dimensional pointed Hopf algebras with alternating groups are trivial](http://arxiv.org/abs/0812.4628) (with N. Andruskiewitsch, F. Fantino, M. Graña). _Ann. Mat. Pura Appl. (4) 190 (2011), no. 2, 225-245_.
 
@@ -91,7 +105,7 @@
 
 * [On twisted homogeneous racks of type D](http://arxiv.org/abs/1007.1739) (with N. Andruskiewitsch, F. Fantino, G. García). The Humboldt Kolleg Colloquium on Hopf Algebras, Quantum Groups and Tensor Categories, _Rev. Un. Mat. Argentina 51 2(2010) 1-16_.
 * [Pointed Hopf algebras over some sporadic simple groups](http://arxiv.org/abs/0906.1352) (with N. Andruskiewitsch, F. Fantino, M. Graña). _C. R. Math. Acad. Sci. Paris 348 (2010) 605-608_.
-* [On Nichols algebras over PGL(2,q) and PSL(2,q)](http://arXiv.org/abs/0802.2567) (with S. Freyre, M. Graña). _J. Algebra Appl., Vol. 9, No. 2 (2010) 195-208_, [logs](logs/JAA2010.tar.bz2).
+* [On Nichols algebras over PGL(2,q) and PSL(2,q)](http://arXiv.org/abs/0802.2567) (with S. Freyre, M. Graña). _J. Algebra Appl., Vol. 9, No. 2 (2010) 195-208_. [[logs]](logs/JAA2010.tar.bz2)
 
 #### 2007
 
