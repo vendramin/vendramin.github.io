@@ -6,7 +6,7 @@
 * Rings and modules. [DOI:10.5281/zenodo.8289695](https://zenodo.org/badge/latestdoi/401966965).
 * Group theory [[GitHub]](https://github.com/vendramin/group)
 * Galois theory [[GitHub]](https://github.com/vendramin/galois)
-* Associative algebras [[GitHub]](https://github.com/vendramin/associative)
+* Associative algebras. [DOI:10.5281/zenodo.8289845](https://zenodo.org/badge/latestdoi/402196172).
 * Non-commutative algebra [[GitHub]](https://github.com/vendramin/noncommutative)
 * Representation theory of algebras [[GitHub]](https://github.com/vendramin/representation)
 
