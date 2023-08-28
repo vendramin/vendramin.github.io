@@ -3,8 +3,7 @@
 ### In English
 
 #### VUB
-* Rings and modules [[GitHub]](https://github.com/vendramin/rings)  
-  [![DOI](https://zenodo.org/badge/401966965.svg)](https://zenodo.org/badge/latestdoi/401966965) 
+* Rings and modules. [DOI:10.5281/zenodo.8289695](https://zenodo.org/badge/latestdoi/401966965).
 * Group theory [[GitHub]](https://github.com/vendramin/group)
 * Galois theory [[GitHub]](https://github.com/vendramin/galois)
 * Associative algebras [[GitHub]](https://github.com/vendramin/associative)
