@@ -4,11 +4,11 @@
 
 #### VUB
 * Rings and modules. [DOI:10.5281/zenodo.8289695](https://zenodo.org/badge/latestdoi/401966965).
-* Group theory [[GitHub]](https://github.com/vendramin/group)
-* Galois theory [[GitHub]](https://github.com/vendramin/galois)
+* Group theory. [[GitHub]](https://github.com/vendramin/group) 
+* Galois theory. [DOI:10.5281/zenodo.8297596](https://zenodo.org/badge/latestdoi/425450147).
 * Associative algebras. [DOI:10.5281/zenodo.8289845](https://zenodo.org/badge/latestdoi/402196172).
-* Non-commutative algebra [[GitHub]](https://github.com/vendramin/noncommutative)
-* Representation theory of algebras [[GitHub]](https://github.com/vendramin/representation)
+* Non-commutative algebra. [[GitHub]](https://github.com/vendramin/noncommutative)
+* Representation theory of algebras. [DOI:10.5281/zenodo.8297587](https://zenodo.org/badge/latestdoi/497315314).
 
 #### Other
 
