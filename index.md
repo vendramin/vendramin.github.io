@@ -55,7 +55,7 @@ My courses are [here](notes.md).
 
 ## Editorial work
 
-* I am an editor of the Bulletin of the [Belgian Mathematical Society - Simon Stevin](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin). Please submit articles [here](https://ef.msp.org/submit/bbelgianms).
+I am an editor of the Bulletin of the [Belgian Mathematical Society - Simon Stevin](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin). Please submit articles [here](https://ef.msp.org/submit/bbelgianms).
 
 ## Links
 
