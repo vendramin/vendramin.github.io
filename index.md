@@ -23,7 +23,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Publications
 
-[Here](selected.md) is list of selected publications. Click [here](publications.md) for the full list. 
+[Here](selected.md) is my list of selected publications. Click [here](publications.md) for the full list. 
 
 ### Preprints
 
