@@ -1,6 +1,7 @@
 ## 2024
 
-* Algebraic structures in Yang-Baxter equation, Edinburgh, UK.  
+* Biracks and Biquandles: theory, applications and new perspective, Leeds, UK.
+* [Algebraic structures in Yang-Baxter equation](https://sites.google.com/view/yang-baxter-algebras/home), Edinburgh, UK.  
 * [Skew braces, braids and the Yang-Baxter equation](https://www.birs.ca/events/2024/5-day-workshops/24w5201), Banff, Canada.
 * [Oberwolfach Mini-workshop (2405b): Bridging Number Theory and Nichols Algebras via Deformations](https://www.mfo.de/occasion/2405b/www_view), Oberwolfach, Germany. 
 
