@@ -18,6 +18,7 @@
 
 #### 2023
 
+* [Mini-workshop: Skew braces and the Yang-Baxter equation. Abstracts from the mini-workshop. 2023](https://publications.mfo.de/bitstream/handle/mfo/4027/OWR_2023_09.pdf?sequence=4&isAllowed=y) (with T. Brzezinski, I. Colazzo, A. Doikou). _Oberwolfach Rep. 20 (2023), no. 1, 537-563._
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_
@@ -41,7 +42,7 @@
 
 * [Retractability of solutions to the Yang-Baxter equation and p-nilpotency of skew braces](https://arxiv.org/abs/1904.11657) (with E. Acri, R. Lutowski). _Internat. J. Algebra Comput. 30 (2020), no. 1, 91–115_.  
 * [Combinatorial solutions to the reflection equation](https://arxiv.org/abs/1810.03341) (with A. Smoktunowicz, R. Weston). _J. Algebra 549 (2020) 268-290_.
-* [Some problems on skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/3705/OWR_2019_51.pdf?sequence=4&isAllowed=y). Algebraic Tools for Solving the Yang-Baxter Equation, _Oberwolfach Rep. 16 (2020), no. 4, 3207–3242._
+* [Mini-workshop: Algebraic tools for solving the Yang-Baxter equation. Abstracts from the mini-workshop held November 10–16, 2019](https://publications.mfo.de/bitstream/handle/mfo/3705/OWR_2019_51.pdf?sequence=4&isAllowed=y) (with E. Jespers, V. Lebed, W. Rump). _Oberwolfach Rep. 16 (2020), no. 4, 3207-3242._
 
 #### 2019
 
