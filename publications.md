@@ -18,7 +18,7 @@
 
 #### 2023
 
-* [Mini-workshop: Skew braces and the Yang-Baxter equation. Abstracts from the mini-workshop. 2023](https://publications.mfo.de/bitstream/handle/mfo/4027/OWR_2023_09.pdf?sequence=4&isAllowed=y) (with T. Brzezinski, I. Colazzo, A. Doikou). _Oberwolfach Rep. 20 (2023), no. 1, 537-563._
+* [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/4027/OWR_2023_09.pdf?sequence=4&isAllowed=y) (with T. Brzezinski, I. Colazzo, A. Doikou). _Oberwolfach Rep. 20 (2023), no. 1, 537-563._
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
 * [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_
