@@ -5,7 +5,8 @@
 * Santiago Ramírez (CONICET, from 2019).
 * Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), FRNS, from 2021).
 * Senne Trappeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021).
-* Silvia Properzi (VUB, from 2022).
+* Silvia Properzi (FWO, from 2022).
+* Davide Ferri (cusupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/), from 2023).
 
 ### Former:
 * Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf).
