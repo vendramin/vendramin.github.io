@@ -19,6 +19,7 @@
 
 #### 2023
 
+* T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). Bull. Lond. Math. Soc. 55 (2023), no. 6, 2891–2906.
 * [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/4027/OWR_2023_09.pdf?sequence=4&isAllowed=y) (with T. Brzezinski, I. Colazzo, A. Doikou). _Oberwolfach Rep. 20 (2023), no. 1, 537-563._
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
