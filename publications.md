@@ -13,7 +13,6 @@
 #### Accepted for publication
 
 * What is... a skew brace? _Notices Amer. Math. Soc._
-* [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy). _Bull. London Math. Soc._
 * [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam._
 * [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin_.
 
