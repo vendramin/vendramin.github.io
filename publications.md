@@ -7,11 +7,11 @@
 * [Simple Yetter-Drinfeld modules over groups with prime dimension and a
  finite-dimensional Nichols algebra](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir).
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
-* [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy).
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump).
 
 #### Accepted for publication
 
+* [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy) _J. Algebra_.
 * [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
 * [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam._
 * [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin_.
