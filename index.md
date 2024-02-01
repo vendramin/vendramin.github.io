@@ -27,7 +27,6 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Preprints
 
-* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti).  
 * [Simple Yetter-Drinfeld modules over groups with prime dimension and a
  finite-dimensional Nichols algebra](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir).
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
@@ -35,6 +34,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Accepted for publication
 
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl._ 
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 * [Schur covers of skew braces](https://arxiv.org/abs/2302.03970) (with T. Letourmy) _J. Algebra_.
 * [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
