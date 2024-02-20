@@ -13,7 +13,6 @@
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 * [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
 * [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam._
-* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin_.
 
 #### 2024 
 
@@ -21,7 +20,8 @@
     
 #### 2023
 
-* T. Letourmy, L. Vendramin. [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414). Bull. Lond. Math. Soc. 55 (2023), no. 6, 2891–2906.
+* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin 30 (2023), no. 5, 577–600_.
+* [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy). _Bull. Lond. Math. Soc. 55 (2023), no. 6, 2891–2906_.
 * [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/4027/OWR_2023_09.pdf?sequence=4&isAllowed=y) (with T. Brzezinski, I. Colazzo, A. Doikou). _Oberwolfach Rep. 20 (2023), no. 1, 537-563._
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
