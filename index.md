@@ -17,7 +17,6 @@ Buenos Aires, Argentina
 (+5411) 5285-7400 #57616-->
 
 Email: `Leandro.Vendramin@vub.be`
-<!--Email: `lvendramin@dm.uba.ar`-->
 
 [CV](files/cv.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
@@ -38,7 +37,6 @@ Email: `Leandro.Vendramin@vub.be`
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 * [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc._
 * [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam._
-* [Bosonization of curved Lie bialgebras](http://arxiv.org/abs/2209.02115) (with I. Heckenberger). _Bull. Belg. Math. Soc. Simon Stevin_.
 
 ### Software 
 
