@@ -2,12 +2,11 @@
 
 #### Preprints
 
-* [Simple Yetter-Drinfeld modules over groups with prime dimension and a
- finite-dimensional Nichols algebra](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir).
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
 #### Accepted for publication
 
+* [Finite-dimensional Nichols algebras of simple Yetter-Drinfeld modules (over groups) of prime dimension](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir). _Adv. Math._
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump). _Proc. Amer. Math. Soc._
 * [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl_. 
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
