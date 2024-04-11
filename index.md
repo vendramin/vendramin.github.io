@@ -18,11 +18,11 @@ Buenos Aires, Argentina
 
 Email: `Leandro.Vendramin@vub.be`
 
-[CV](files/cv.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
+[Brief CV](files/cv.pdf), [CV](files/cv-full.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785)
 
 ## Publications
 
-[Here](selected.md) is my list of selected publications. Click [here](publications.md) for the full list. 
+Click [here](publications.md) for my full list of publications. 
 
 ### Preprints
 
@@ -30,7 +30,6 @@ Email: `Leandro.Vendramin@vub.be`
 
 ### Accepted for publication
 
-* [Finite-dimensional Nichols algebras of simple Yetter-Drinfeld modules (over groups) of prime dimension](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir). _Adv. Math._
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump). _Proc. Amer. Math. Soc._
 * [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl._ 
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
