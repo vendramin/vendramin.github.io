@@ -1,5 +1,8 @@
 ### Talks 
 
+#### 2024 
+
+* Nichols algebras: an overview. [Oberwolfach mini-workshop: Bridging Number Theory and Nichols Algebras via Deformations](https://www.mfo.de/occasion/2405b/www_view), Germany.
 #### 2023
 
 * Groups, rings and the Yang-Baxter equation. [Workshop on Geometric Methods in Physics](https://wgmp.uwb.edu.pl). Bialowieza, Poland.
