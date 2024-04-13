@@ -2,10 +2,13 @@
 
 #### 2024 
 
+* What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway.
+* Nichols algebras. [Algebraic structures in the Yang-Baxter equation](https://sites.google.com/view/yang-baxter-algebras/home), Edinburgh, UK.
 * Nichols algebras: an overview. [Oberwolfach mini-workshop: Bridging Number Theory and Nichols Algebras via Deformations](https://www.mfo.de/occasion/2405b/www_view), Germany.
 
 #### 2023
 
+* On the classification of Nichols Algebras. Algebra Seminar, The University of Edinburgh, UK. 
 * Groups, rings and the Yang-Baxter equation. [Workshop on Geometric Methods in Physics](https://wgmp.uwb.edu.pl). Bialowieza, Poland.
 * Some problems on skew braces. [Advances in Group Theory and Applications](https://www.advgrouptheory.com/agta2023/). Lecce, Italy.
 * Nichols algebras. [European Quantum Algebra Lectures (EQuAL)](https://sites.google.com/view/equalseminar/home). Virtual seminar.
