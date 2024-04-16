@@ -29,6 +29,7 @@
   
 #### 2021
 
+* Groups, rings and the Yang-Baxter equation. [Seminar on Quantum groups, Hopf algebras and monoidal categories](https://hopfalgb.ulb.be/schedule.html), Brussels, Belgium. 
 * Groups, rings and the Yang-Baxter equation. Geometry and Algebra Seminar in Newcastle, UK.
 * Radical rings, braces and the Yang-Baxter equation. [ECOLE CIMPA: Non-associative algebras and their applications](https://sites.google.com/view/cimpa2020madagascar/), Virtual meeting.
 * Set theoretical solutions to the Yang-Baxter equation. [II Encuentro de Álgebra y Teoría de Nudos](https://matematica.uv.cl/grupoAtN/encuentro/2021/), Virtual meeting.
