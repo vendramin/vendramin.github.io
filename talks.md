@@ -4,6 +4,7 @@
 
 * What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway.
 * Nichols algebras. [Algebraic structures in the Yang-Baxter equation](https://sites.google.com/view/yang-baxter-algebras/home), Edinburgh, UK.
+* L-algebras: The Yang-Baxter equation and algebraic logic. [The Interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io), Exeter, UK.
 * Nichols algebras: an overview. [Oberwolfach mini-workshop: Bridging Number Theory and Nichols Algebras via Deformations](https://www.mfo.de/occasion/2405b/www_view), Germany.
 
 #### 2023
