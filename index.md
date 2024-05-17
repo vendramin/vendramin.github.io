@@ -53,6 +53,7 @@ My courses are [here](notes.md).
 
 ## Links
 
+*   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php).
 *   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 *   [DAAD](http://www.daad.org.ar).
