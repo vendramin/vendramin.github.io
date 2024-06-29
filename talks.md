@@ -2,6 +2,8 @@
 
 #### 2024 
 
+* [Biracks and Biquandles: Theory, applications, and new perspectives](https://conferences.leeds.ac.uk/artin/), Leeds, UK.
+* Nichols algebras over groups. [Algebra Seminar](https://sites.google.com/view/crt-leeds/activities-in-leeds), Leeds, UK.
 * What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway.
 * Nichols algebras. [Algebraic structures in the Yang-Baxter equation](https://sites.google.com/view/yang-baxter-algebras/home), Edinburgh, UK.
 * Nichols algebras over groups. [Seminar on Quantum groups, Hopf algebras and monoidal categories](https://hopfalgb.ulb.be/schedule.html), Brussels, Belgium. 
