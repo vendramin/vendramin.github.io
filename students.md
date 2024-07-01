@@ -1,12 +1,13 @@
 ## Phd students
 
 ### Current:
-* Emiliano Acri (CONICET, from 2018).
-* Santiago Ramírez (CONICET, from 2019).
-* Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), FRNS, from 2021).
-* Senne Trappeniers (cosupervised with Arne Van Antwerpen, FWO, from 2021).
-* Silvia Properzi (FWO, from 2022).
-* Davide Ferri (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/), from 2023).
+* Charlotte Roelandts. 
+* Davide Ferri (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
+* Silvia Properzi.
+* Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
+* Senne Trappeniers (cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
+* Santiago Ramírez.
+* Emiliano Acri.
 
 ### Former:
 * Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf).
