@@ -55,7 +55,7 @@ My courses are [here](notes.md).
 *   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php).
 *   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
-*   [DAAD](http://www.daad.org.ar).
+*   [Deutscher Akademischer Austauschdienst (DAAD)](https://www.daad.de/en/).
 
 #### Mathematics
 
