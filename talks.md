@@ -63,7 +63,7 @@
 * Nichols algebras. Seminario de álgebra, Universidad Autónoma de Barcelona, Spain. 
 * Set-theoretical solutions of the Yang-Baxter equation. University of St Andrews, UK.
 * Skew braces. [Groups, rings and the Yang–Baxter equation](http://www.ilariacolazzo.info/spa2017/). Spa, Belgium.
-* Set-theoretical solutions of the Yang–Baxter equation. MIT, Massachusetts, USA. 
+* Set-theoretical solutions of the Yang–Baxter equation. MIT, USA. 
 * The combinatorics of the Yang–Baxter equation. MAXIMALS Seminar, University of Edinburgh, UK. 
 * Nichols algebras. Warsaw University, Poland. 
 * Set-theoretical solutions of the Yang–Baxter equation. Warsaw University, Poland. 
