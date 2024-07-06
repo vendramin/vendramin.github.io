@@ -25,7 +25,7 @@
 
 #### 2022
 
-* Algebra with GAP (minicourse, 6 hours). Vrije Universiteit Brussel. With Jan de Beule. [[slides]](notes/vub.tar.bz2)
+* Algebra with GAP (mini-course, 6 hours). Vrije Universiteit Brussel. With Jan de Beule. [[slides]](notes/vub.tar.bz2)
 * Multipermutation solutions and the Yang-Baxter equation. [Hopf algebras, monoidal categories and related topics](https://hopfconferencebuch.wixsite.com/website). Bucharest, Romania. 
 * Left-ordered groups, Garside groups and structure groups of solutions. [Algebra days in Caen](https://lebed.users.lmno.cnrs.fr/AlgebraDays2022.html), France.
 * The Yang-Baxter equation and algebraic logic. Nicolaus Copernicus University, Toruń, Poland. 
@@ -43,7 +43,7 @@
 
 * Problems on skew braces. Harish-Chandra Research Institute, India. Virtual seminar.
 * Radical rings and the Yang-Baxter equation. [Grupo de teoría de Lie](http://teoriadelie.famaf.unc.edu.ar/seminario/). Virtual seminar.
-* Algebra with GAP. [AARMS mini-course](https://aarms.math.ca/event/mini-course-on-gap/), Dalhousie University, Halifax, Canada. [[videos]](http://www.mathstat.dal.ca/~selinger/minicourse-gap/) [[slides and problems]](notes/dalhousi.tar.gz)
+* Algebra with GAP. [AARMS mini-course](https://aarms.math.ca/event/mini-course-on-gap/), Dalhousie University, Halifax, Canada. [[videos]](http://www.mathstat.dal.ca/~selinger/mini-course-gap/) [[slides and problems]](notes/dalhousi.tar.gz)
  
 #### 2019
 
