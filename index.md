@@ -30,7 +30,6 @@ Click [here](publications.md) for my full list of publications.
 
 ### Accepted for publication
 
-* [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump). _Proc. Amer. Math. Soc._
 * [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl._ 
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 
