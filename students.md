@@ -25,7 +25,7 @@ Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd
 
 ### Former:
 
-* Carsten Dietzel (Humboldt, from 2021-2023).
+* Carsten Dietzel (Humboldt, 2021-2023).
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020).
 
 #### Are you considering doing a postdoc at VUB? 
