@@ -10,7 +10,7 @@
 * Emiliano Acri.
 
 ### Former:
-* Charlotte Verwimp (cosupervised with Eric Jespers, FWO, 2018-2022), [thesis](files/verwimp.pdf).
+* Charlotte Verwimp (cosupervised with Eric Jespers, 2018-2022), [thesis](files/verwimp.pdf).
 
 #### Do you want to do your Ph.D. at VUB? 
 
@@ -20,13 +20,13 @@ Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd
 
 ### Current:
 
-* Kevin Piterman (FWO, from 2023).
-* Arne Van Antwerpen (FWO, from 2020).
+* Kevin Piterman (from 2023).
+* Arne Van Antwerpen (from 2020).
 
 ### Former:
 
-* Carsten Dietzel (Humboldt, 2021-2023).
-* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (Conicet, 2019-2020).
+* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Feodor Lynen Research Fellow, 2021-2023).
+* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020).
 
 #### Are you considering doing a postdoc at VUB? 
 
@@ -44,7 +44,7 @@ Here you will find possible funding schemes:
 ## Bachelor students
 
 * Janis Gathot. Gromov’s theorem.  Defended: June 2024.
-* Mattias Vancauteren. Skolem—Noether theoren. Co-supervised with [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite). Defended: 1/2024.
+* Mattias Vancauteren. Skolem—Noether theoren. Co-supervised with Carsten Dietzel. Defended: 1/2024.
 * Mattias Vancauteren. Commuting probability in finite groups. Defended: 6/2023. 
 * Luca Descheemaeker. Groups with unique products. Defended: 6/2023. 
 * Lukas Simons. The Chermak—Delgado lattice. Defended: 1/2023.
