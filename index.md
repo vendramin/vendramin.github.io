@@ -59,7 +59,7 @@ My courses are [here](notes.md).
 
 #### Mathematics
 
-*   [VUB Algebra Research Group](https://leandrovendramin.org/team/).
+*   [My research group](https://leandrovendramin.org/team/). Click [here](https://leandrovendramin.org/team/conferences.html) for the conferences I organized.
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
 
 #### Software
