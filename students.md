@@ -3,9 +3,9 @@
 ### Current:
 * Charlotte Roelandts. 
 * Davide Ferri (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
-* Silvia Properzi.
-* Thomas Letourmy (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
-* Senne Trappeniers (cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
+* [Silvia Properzi](https://properzi.github.io).
+* [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
+* [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage) (cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
 * Santiago Ramírez.
 * Emiliano Acri.
 
@@ -20,8 +20,8 @@ Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd
 
 ### Current:
 
-* Kevin Piterman (from 2023).
-* Arne Van Antwerpen (from 2020).
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (from 2023).
+* [Arne Van Antwerpen](https://vanantwerpen.github.io) (from 2020).
 
 ### Former:
 
@@ -43,7 +43,7 @@ Here you will find possible funding schemes:
 
 ## Bachelor students
 
-* Janis Gathot. Gromov’s theorem.  Defended: June 2024.
+* Janis Gathot. Gromov’s theorem.  Defended: 6/2024.
 * Mattias Vancauteren. Skolem—Noether theoren. Co-supervised with Carsten Dietzel. Defended: 1/2024.
 * Mattias Vancauteren. Commuting probability in finite groups. Defended: 6/2023. 
 * Luca Descheemaeker. Groups with unique products. Defended: 6/2023. 
