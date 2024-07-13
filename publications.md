@@ -25,9 +25,6 @@ Click [here](selected.md) for a selection of papers.
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
 1. [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_
  [[code]](https://zenodo.org/badge/latestdoi/417288153).
-
-    #### 2022
-
 1. [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). Gac. R. Soc. Mat. Esp. 25 (2022), no. 1, 85-110. [[GitHub]](https://github.com/vendramin/nudos).
 1. [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez). _Int. Math. Res. Not. IMRN 2022, no. 22, 18078–18091_.
@@ -44,9 +41,6 @@ Click [here](selected.md) for a selection of papers.
 1. [Skew left braces of nilpotent type](https://arxiv.org/abs/1806.01127) (with F. Cedó, A. Smoktunowicz). _Proc. Lond. Math. Soc. (3) 118 (2019), no. 6, 1367-1392_.
 1. [On structure groups of set-theoretic solutions to the Yang-Baxter equation](http://arxiv.org/abs/1707.00633) (with V. Lebed). _Proc. Edinb. Math. Soc. (2) 62 (2019), no. 3, 683-717_.
 1. [Problems on skew left braces](https://arxiv.org/abs/1807.06411). _Adv. Group Theory Appl. 7 (2019), 15-37_.
-
-    #### 2018
-
 1. [A characterization of multipermutation solutions of the Yang-Baxter equation](http://arxiv.org/abs/1701.09109) (with D. Bachiller and F. Cedó). _Publ. Mat. 62 (2018), no. 2, 641-649_.
 1. [Yang-Baxter operators in symmetric categories](http://arxiv.org/abs/1610.05999) (with J. Guccione and J. Guccione). _Comm. Algebra 46 (2018), no. 7, 2811--2845_.
 1. [On skew braces (with an appendix by N. Byott)](http://arxiv.org/abs/1705.06958) (with A. Smoktunowicz). _J. Comb. Algebra 2 (2018), no. 1, 47–86_.
@@ -60,9 +54,6 @@ Click [here](selected.md) for a selection of papers.
 1. [Cohomology and extensions of braces](http://arxiv.org/abs/1601.01633) (with V. Lebed). _Pacific J. Math. 284 (2016), no. 1, 191-212_.
 1. [Quandle coloring and cocycle invariants of composite knots and abelian extensions](http://arxiv.org/abs/1407.5803) (with W. E. Clark, M. Saito). _J. Knot Theory Ramifications 25 (2016), no. 5, 1650024, 34 pp._.
 1. [Extensions of set-theoretic solutions of the Yang-Baxter equation and a conjecture of Gateva-Ivanova](http://arxiv.org/abs/1502.00790). _J. Pure Appl. Alg. 220 (2016), no. 5, 2064-2076_.
-
-    #### 2015
-
 1. [Nichols algebras with many cubic relations](http://arxiv.org/abs/1212.4330) (with I. Heckenberger, A. Lochmann). _Trans. Amer. Math. Soc. 367 (2015), no. 9, 6315-6356_.
 1. [Nichols algebras over groups with finite root system of rank two III](http://arxiv.org/abs/1309.4634) (with. I. Heckenberger). _J. Algebra 422 (2015), 223–256_.
 1. [Frobenius property for fusion categories of small integral dimension](http://arxiv.org/abs/1209.1726) (with J. Dong, S. Natale). _J. Algebra Appl. 14 (2015), no. 2, 1550011 (17 pages)_.
