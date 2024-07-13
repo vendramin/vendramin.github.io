@@ -1,6 +1,6 @@
 ### Leandro Vendramin's publication list
 
-Click [here](selected.md) for my list of selected papers.  
+Click [here](selected.md) for a selection of papers.  
 
 #### Preprints
 
