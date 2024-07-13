@@ -8,8 +8,10 @@ Click [here](selected.md) for a selection of papers.
 
 #### Accepted for publication
 
-1. [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl_. 
-1. [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl_. 
+* [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
+
+#### Published papers 
 1. [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump). _Proc. Amer. Math. Soc. 152 (2024), 3197-3207._
 1. [Finite-dimensional Nichols algebras of simple Yetter-Drinfeld modules (over groups) of prime dimension](http://arxiv.org/abs/2306.02989) (with I. Heckenberger, E. Meir). _Adv. Math. 444 (2024), Paper No. 109637._
 1. [Involutive Yang-Baxter: cabling, decomposability, Dehornoy class](http://arxiv.org/abs/2209.02041) (with V. Lebed, S. Ramírez). _Rev. Mat. Iberoam. 40 (2024), no. 2, pp. 623–635._
