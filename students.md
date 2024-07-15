@@ -14,7 +14,8 @@
 
 #### Do you want to do your Ph.D. at VUB? 
 
-Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/). 
+* Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
+* If you are a PhD student in the US and want to spend one year in Brussels, consider a [BAEF fellowship](https://baef.be/graduate-study-fellowships-us/).
 
 ## Postdocs
 
