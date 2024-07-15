@@ -45,7 +45,7 @@ Here you will find possible funding schemes:
 ## Bachelor students
 
 * Janis Gathot. Gromov’s theorem.  Defended: 6/2024.
-* Mattias Vancauteren. Skolem—Noether theoren. Co-supervised with Carsten Dietzel. Defended: 1/2024.
+* Mattias Vancauteren. The Skolem—Noether theoren. Co-supervised with Carsten Dietzel. Defended: 1/2024.
 * Mattias Vancauteren. Commuting probability in finite groups. Defended: 6/2023. 
 * Luca Descheemaeker. Groups with unique products. Defended: 6/2023. 
 * Lukas Simons. The Chermak—Delgado lattice. Defended: 1/2023.
