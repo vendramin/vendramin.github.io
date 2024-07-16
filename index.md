@@ -45,6 +45,14 @@ Click [here](talks.md) for my talks.
 
 My courses are [here](notes.md). 
 
+## PhD Students/Postdocs
+
+[Here](students.md) you find my list of PhD students and postdocs.
+
+## Grants 
+
+[Here](grants.md) you find the list of grants obtained by my research team.
+
 ## Editorial work
 
 * [Open Mathematics](https://www.degruyter.com/journal/key/math/html#overview). Please submit articles [here](https://www2.cloud.editorialmanager.com/openmath/default2.aspx).
@@ -69,10 +77,6 @@ My courses are [here](notes.md).
 *   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/).
 *   [OSCAR Computer Algebra System](https://oscar.computeralgebra.de).
 *   [Sage: Open Source Mathematics Software](http://www.sagemath.org/).
-
-#### PhD Students/Postdocs
-
-[Here](students.md) you find my list of PhD students and postdocs.
 
 #### Personal homepages and coauthors
 
