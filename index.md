@@ -12,7 +12,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Publications
 
-Click [here](publications.md) for my full list of publications. 
+Click [here](publications.md) for my list of publications. 
 
 ##### Preprints
 
@@ -37,11 +37,11 @@ My courses are [here](notes.md).
 
 ## PhD Students/Postdocs
 
-[Here](students.md) you find my list of PhD students and postdocs.
+[Here](students.md) is the list of my PhD students and postdocs.
 
 ## Grants 
 
-[Here](grants.md) you find the list of grants obtained by my research team.
+[Here](grants.md) is the list of grants obtained by my research group.
 
 ## Editorial work
 
