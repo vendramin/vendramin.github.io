@@ -1,10 +1,11 @@
 ## Grants
 
-* 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications. €310K. 
-* 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation. €100K.
-* 2023-2025. London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). With I. Colazzo (UK) and P. Truman (UK).
+* 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications. PI: L. Vendramin. €310K. 
+* 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation. PI: L. Vendramin. €100K.
 
 ## Others
+
+* 2023 and 2024. London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). PIs: I. Colazzo, P. Truman, L. Vendramin. 
 
 ### PhD candidates
 * 2023-2027. FWO Predoc Grant (FWOTM1206). Supervisor of Silvia Properzi.
