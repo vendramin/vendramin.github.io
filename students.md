@@ -40,13 +40,21 @@ Here you will find possible funding schemes:
 
 ## Master students
 
-* Daimy Van Caudenberg. SAT-based Enumeration of Solutions to the Yang-Baxter Equation. Co-supervised with [Bart Bogaerts](https://www.bartbogaerts.eu). Defended: 7/2024. 
+Are you looking for topics for your master's thesis? [Here](files/master.pdf) is a list of possible topics. 
+
+#### Theses supervised
+
+* Daimy Van Caudenberg. SAT-based Enumeration of Solutions to the Yang-Baxter Equation. Cosupervised with [Bart Bogaerts](https://www.bartbogaerts.eu). Defended: 7/2024. 
 * Charlotte Roelandts. Fourier analysis on finite groups. Defended: 6/2024.
 
 ## Bachelor students
 
+Are you looking for topics for your bachelor's thesis? [Here](files/bachelor.pdf) is a list of possible topics. 
+
+#### Theses supervised
+
 * Janis Gathot. Gromov’s theorem.  Defended: 6/2024.
-* Mattias Vancauteren. The Skolem—Noether theoren. Co-supervised with Carsten Dietzel. Defended: 1/2024.
+* Mattias Vancauteren. The Skolem—Noether theoren. Cosupervised with [Carsten Dietzel](. Defended: 1/2024.
 * Mattias Vancauteren. Commuting probability in finite groups. Defended: 6/2023. 
 * Luca Descheemaeker. Groups with unique products. Defended: 6/2023. 
 * Lukas Simons. The Chermak—Delgado lattice. Defended: 1/2023.
