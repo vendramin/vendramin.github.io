@@ -2,7 +2,7 @@
 
 ### Current:
 * Charlotte Roelandts. 
-* Davide Ferri (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
+* [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io).
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
 * [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage) (cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
