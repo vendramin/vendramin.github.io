@@ -56,7 +56,7 @@ My courses are [here](notes.md).
 
 #### Mathematics
 
-*   [My research group](https://leandrovendramin.org/team/). Click [here](https://leandrovendramin.org/team/conferences.html) for the conferences I organized.
+*   [My research group](https://leandrovendramin.org/team/). Click [here](https://leandrovendramin.org/organized.html) for the conferences I organized.
 *   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
 
