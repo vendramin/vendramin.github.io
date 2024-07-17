@@ -4,17 +4,7 @@ Department of Mathematics and Data Science
 Pleinlaan 2, B-1050  
 Brussel, Belgium
 
- (+32) 2 629 3493
-
-<!--
-IMAS-Departamento de Matem&aacute;tica  
-Facultad de Ciencias Exactas y Naturales  
-Universidad de Buenos Aires  
-(1428) Pabell&oacute;n I, Ciudad Universitaria  
-Buenos Aires, Argentina  
-
-(+5411) 5285-7616  
-(+5411) 5285-7400 #57616-->
+(+32) 2 629 3493
 
 Email: `Leandro.Vendramin@vub.be`
 
@@ -60,7 +50,6 @@ My courses are [here](notes.md).
 
 ## Links
 
-*   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php).
 *   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 *   [Deutscher Akademischer Austauschdienst (DAAD)](https://www.daad.de/en/).
@@ -68,6 +57,7 @@ My courses are [here](notes.md).
 #### Mathematics
 
 *   [My research group](https://leandrovendramin.org/team/). Click [here](https://leandrovendramin.org/team/conferences.html) for the conferences I organized.
+*   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
 
 #### Software
