@@ -1,6 +1,6 @@
 ## Phd students
 
-### Current:
+### Current
 * Charlotte Roelandts. 
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io).
@@ -9,7 +9,7 @@
 * Santiago Ramírez.
 * Emiliano Acri.
 
-### Former:
+### Former
 * Charlotte Verwimp (cosupervised with Eric Jespers, 2018-2022), [thesis](files/verwimp.pdf).
 
 #### Do you want to do your Ph.D. at VUB? 
@@ -19,12 +19,12 @@
 
 ## Postdocs
 
-### Current:
+### Current
 
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (from 2023).
 * [Arne Van Antwerpen](https://vanantwerpen.github.io) (from 2020).
 
-### Former:
+### Former
 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Feodor Lynen Research Fellow, 2021-2023).
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020).
@@ -42,7 +42,7 @@ Here you will find possible funding schemes:
 
 Are you looking for topics for your master's thesis? [Here](files/master.pdf) is a list of possible topics. 
 
-#### Theses supervised:
+#### Theses supervised
 
 * Daimy Van Caudenberg. SAT-based Enumeration of Solutions to the Yang-Baxter Equation. Cosupervised with [Bart Bogaerts](https://www.bartbogaerts.eu). Defended: 7/2024. 
 * Charlotte Roelandts. Fourier analysis on finite groups. Defended: 6/2024.
@@ -51,7 +51,7 @@ Are you looking for topics for your master's thesis? [Here](files/master.pdf) is
 
 Are you looking for topics for your bachelor's thesis? [Here](files/bachelor.pdf) is a list of possible topics. 
 
-#### Theses supervised:
+#### Theses supervised
 
 * Janis Gathot. Gromov’s theorem.  Defended: 6/2024.
 * Mattias Vancauteren. The Skolem—Noether theoren. Cosupervised with [Carsten Dietzel](. Defended: 1/2024.
