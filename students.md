@@ -1,6 +1,7 @@
 ## Phd students
 
 ### Current
+* Yufei Qin (cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)).
 * Charlotte Roelandts. 
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io).
@@ -13,19 +14,16 @@
 * Charlotte Verwimp (cosupervised with Eric Jespers, 2018-2022), [thesis](files/verwimp.pdf).
 
 #### Do you want to do your Ph.D. at VUB? 
-
 * Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
 * If you are a PhD student in the US and want to spend one year in Brussels, consider a [BAEF fellowship](https://baef.be/graduate-study-fellowships-us/).
 
 ## Postdocs
 
 ### Current
-
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (from 2023).
 * [Arne Van Antwerpen](https://vanantwerpen.github.io) (from 2020).
 
 ### Former
-
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Feodor Lynen Research Fellow, 2021-2023).
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020).
 
