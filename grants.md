@@ -15,9 +15,9 @@
 * 2022-2024. FWO Postdoc Grant (FWOTM1118). Supervisor of Kevin Piterman.
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowships](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Supervisor of Carsten Dietzel.
 
-## Funding obtained for organizing conferences
+### Funding obtained for organizing conferences
 
+* 2023 and 2024: London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). Organizers: I. Colazzo, P. Truman, L. Vendramin. 
 * 2023: Groups, rings and the Yang-Baxter equation. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin.
     * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen. €5000.
     * Foundation Compositio Mathematica. €5000.
-* 2023 and 2024: London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). Organizers: I. Colazzo, P. Truman, L. Vendramin. 
