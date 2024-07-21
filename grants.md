@@ -1,7 +1,7 @@
 ## Grants
 
 * 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications. PI: L. Vendramin. €310K. 
-* 2023-2026. FWO Cooperation with France – CNRS. €6000. 
+* 2023-2026. FWO Cooperation with France – CNRS. PIs: V. Lebed, L. Vendramin. €6000. 
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation. PI: L. Vendramin. €100K.
 
 ### Funding obtained for PhD candidates
