@@ -1,4 +1,4 @@
-## Phd students
+## Ph.D. students
 
 ### Current
 * Yufei Qin (cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)).
