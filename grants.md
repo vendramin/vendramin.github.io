@@ -3,12 +3,13 @@
 * 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications. PI: L. Vendramin. €310K. 
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation. PI: L. Vendramin. €100K.
 
-### PhD candidates
+### Funding obtained for PhD candidates
+* 2024-2025. China Scholarship Council. Supervisor of Yufei Qin.
 * 2023-2027. FWO Predoc Grant (FWOTM1206). Supervisor of Silvia Properzi.
 * 2021-2025. FWO Predoc Grant (FWOTM1085). Supervisor of Senne Trappeniers.
 * 2023-2024. OZR4014 (VUB Backup Mandate): Supervisor of Silvia Properzi. 
 
-### Postdocs 
+### Funding obtained for postdocs 
 
 * 2024-2027. FWO PostDoc Grant. Supervisor of Carsten Dietzel.   
 * 2021-2023. FWO PostDoc Grant (FWOTM992). Supervisor of Arne Van Antwerpen. 
