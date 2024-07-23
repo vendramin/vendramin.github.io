@@ -52,7 +52,7 @@ Are you looking for topics for your bachelor's thesis? [Here](files/bachelor.pdf
 #### Theses supervised
 
 * Janis Gathot. Gromov’s theorem.  Defended: 6/2024.
-* Mattias Vancauteren. The Skolem—Noether theoren. Cosupervised with [Carsten Dietzel](. Defended: 1/2024.
+* Mattias Vancauteren. The Skolem—Noether theoren. Cosupervised with [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite). Defended: 1/2024.
 * Mattias Vancauteren. Commuting probability in finite groups. Defended: 6/2023. 
 * Luca Descheemaeker. Groups with unique products. Defended: 6/2023. 
 * Lukas Simons. The Chermak—Delgado lattice. Defended: 1/2023.
