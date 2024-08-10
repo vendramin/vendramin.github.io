@@ -1,5 +1,7 @@
 # Lecture notes
 
+Dyslexic-friendly versions of my lecture notes are available upon request. Please feel free to reach out if needed.
+
 ### In English
 
 #### VUB
