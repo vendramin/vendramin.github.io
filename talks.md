@@ -3,6 +3,7 @@
 #### 2024 
 
 * TBA. [Biracks and Biquandles: Theory, applications, and new perspectives](https://conferences.leeds.ac.uk/artin/), Leeds, UK.
+* Nichols algebras over groups. [Noncommutative Geometry and Topology Group in Prague](https://ncgandtprague.wordpress.com), Prague,  Czech Republic.
 * Nichols algebras over groups. [Algebra Seminar](https://sites.google.com/view/crt-leeds/activities-in-leeds), Leeds, UK.
 * What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway.
 * L-algebras: The Yang-Baxter equation and algebraic logic. [From Garside to Yang-Baxter](https://godelle.users.lmno.cnrs.fr/conf2024/), Caen, France.
