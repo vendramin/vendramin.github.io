@@ -22,7 +22,6 @@ Click [here](publications.md) for my list of publications.
 ##### Accepted for publication
 
 * [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl._ 
-* [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL. Trends Math_.
 
 ##### Software 
 
