@@ -97,6 +97,7 @@ Click [here](selected.md) for a selection of papers.
 
 #### Conference proceedings, reports and other publications 
 
+* [Mini-workshop:Bridging number theory and Nichols algebras via deformations](https://ems.press/content/serial-article-files/48647) (With G. Carnovale, I. Heckenberger). _Oberwolfach Rep. 21, No. 1, 235-272 (2024)._
 * [What is... a skew brace?](https://www.ams.org/notices/202401/rnoti-p65.pdf) _Notices Amer. Math. Soc. 71 (2024), no. 1, 65-67._
 * [Nudos, quandles y homología (Spanish)](https://github.com/vendramin/nudos/raw/main/nudos.pdf). Gac. R. Soc. Mat. Esp. 25 (2022), no. 1, 85-110. [[GitHub]](https://github.com/vendramin/nudos).
 * [Mini-workshop: Skew braces and the Yang-Baxter equation](https://publications.mfo.de/bitstream/handle/mfo/4027/OWR_2023_09.pdf?sequence=4&isAllowed=y) (with T. Brzezinski, I. Colazzo, A. Doikou). _Oberwolfach Rep. 20 (2023), no. 1, 537-563._
