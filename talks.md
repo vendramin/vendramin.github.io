@@ -4,10 +4,10 @@
 
 * TBA. [Biracks and Biquandles: Theory, applications, and new perspectives](https://conferences.leeds.ac.uk/artin/), Leeds, UK.
 * Nichols algebras over solvable groups. [Noncommutative Geometry and Topology Group in Prague](https://ncgandtprague.wordpress.com), Prague,  Czech Republic.
-* Nichols algebras over solvable groups. [University of Warsaw: Algebra Seminar](https://www.mimuw.edu.pl/en/seminars/seminar-algebra/), Warsaw, Poland. 
+* Nichols algebras over solvable groups. [University of Warsaw: Algebra Seminar](https://www.mimuw.edu.pl/en/seminars/seminar-algebra/), Warsaw, Poland.
+* L-algebras: The Yang-Baxter equation and algebraic logic. [From Garside to Yang-Baxter](https://godelle.users.lmno.cnrs.fr/conf2024/Conf_algebre_2024.html), Caen, France.
 * Nichols algebras over groups. [University of Leeds: Algebra Seminar](https://sites.google.com/view/crt-leeds/activities-in-leeds), Leeds, UK.
 * What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway.
-* L-algebras: The Yang-Baxter equation and algebraic logic. [From Garside to Yang-Baxter](https://godelle.users.lmno.cnrs.fr/conf2024/), Caen, France.
 * On the classification of Nichols algebras over groups. Seminario de Teoría de Lie, Córdoba, Argentina. 
 * Convex sets and sums of squares. [Brussels Summer School of Mathematics](https://bssm.ulb.ac.be/en/program.php), Brussels, Belgium. 
 * Nichols algebras. [Algebraic structures in the Yang-Baxter equation](https://sites.google.com/view/yang-baxter-algebras/home), Edinburgh, UK.
