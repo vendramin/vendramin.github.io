@@ -35,9 +35,10 @@ Click [here](talks.md) for my talks.
 
 My courses are [here](notes.md). 
 
-## PhD Students/Postdocs
+## Mentoring
 
-[Here](students.md) is the list of my PhD students and postdocs.
+For a list of my PhD students and postdocs, click [here](students.md). If you're looking for a topic for your Master's thesis, click [here](master.md), 
+or if you're a Bachelor's student, click [here](bachelor).
 
 ## Grants 
 
