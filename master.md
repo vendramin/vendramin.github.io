@@ -5,6 +5,6 @@ Are you looking for topics for your master's thesis? [Here](files/master.pdf) is
 ## Theses supervised
 
 * Lukas Simmons. Yetter-Drinfeld modules. In progress. 
-* Daimy Van Caudenberg. SAT-based Enumeration of Solutions to the Yang-Baxter Equation. Cosupervised with [Bart Bogaerts](https://www.bartbogaerts.eu). Defended: 7/2024. 
+* Daimy Van Caudenberg. SAT-based Enumeration of Solutions to the Yang-Baxter Equation. Cosupervised with [Bart Bogaerts](https://www.bartbogaerts.eu).  Daimy won the [BrEA](https://www.brea.be/aboutbrea?lang=en) student prize for best master thesis in computer science. Defended: 7/2024.
 * Charlotte Roelandts. Fourier analysis on finite groups. Defended: 6/2024.
 
