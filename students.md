@@ -11,7 +11,7 @@
 * Emiliano Acri.
 
 ### Former
-* Charlotte Verwimp (cosupervised with Eric Jespers, 2018-2022), [thesis](files/verwimp.pdf).
+* Charlotte Verwimp (cosupervised with Eric Jespers), [thesis](files/verwimp.pdf). Defended: 5/22. 
 
 #### Do you want to do your Ph.D. at VUB? 
 * Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
