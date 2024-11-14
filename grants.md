@@ -22,7 +22,7 @@
   
 ### Funding obtained for organizing conferences
 * 2025: [Conference on Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/). Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K701825N): €4500
-* 2023, 2024, 2025: London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). Organizers: I. Colazzo, P. Truman, L. Vendramin.  
+* 2023, 2024, 2025: London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). Organizers: I. Colazzo, P. Truman, L. Vendramin. £1500 per year.  
 * 2023: Groups, rings and the Yang-Baxter equation, Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin.
     * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen. €5000.
     * Foundation Compositio Mathematica. €5000.
