@@ -20,6 +20,7 @@
 ## Postdocs
 
 ### Current
+* Andrew Darlington (from 2025). 
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (from 2023).
 * [Arne Van Antwerpen](https://vanantwerpen.github.io) (from 2020).
 
