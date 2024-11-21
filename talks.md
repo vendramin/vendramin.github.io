@@ -2,7 +2,8 @@
 
 #### 2024 
 
-* TBA. [Biracks and Biquandles: Theory, applications, and new perspectives](https://conferences.leeds.ac.uk/artin/), Leeds, UK.
+* What is a Nichols algebra? [Biracks and Biquandles: Theory, applications, and new perspectives](https://conferences.leeds.ac.uk/artin/), Leeds, UK.
+* The Yang-Baxter equation and all that. [MaDS Seminar](https://wids.research.vub.be/en), Brussels, Belgium. 
 * Nichols algebras over solvable groups. [Noncommutative Geometry and Topology Group in Prague](https://ncgandtprague.wordpress.com), Prague,  Czech Republic.
 * Nichols algebras over solvable groups. [University of Warsaw: Algebra Seminar](https://www.mimuw.edu.pl/en/seminars/seminar-algebra/), Warsaw, Poland.
 * L-algebras: The Yang-Baxter equation and algebraic logic. [From Garside to Yang-Baxter](https://godelle.users.lmno.cnrs.fr/conf2024/Conf_algebre_2024.html), Caen, France.
