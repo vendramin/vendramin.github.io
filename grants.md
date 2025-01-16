@@ -22,8 +22,10 @@
 * 2023: Ilaria Colazzo, Scientific Stay in Flanders (V512223N), from 9/11 to 17/12.
   
 ### Funding obtained for organizing conferences
-* 2025: [Conference on Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/). Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K701825N): €4500
+* 2025: [Conference on Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/). Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K701825N): €4500.
+* 2025: [GAP Days Spring 2025](https://www.gapdays.de/gapdays2025-spring/). VUB Doctoral School: €750.
 * 2023, 2024, 2025: London Mathematical Society Scheme 3: [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html). Organizers: I. Colazzo, P. Truman, L. Vendramin. £1500 per year.  
-* 2023: Groups, rings and the Yang-Baxter equation, Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin.
+* 2023: [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin.
     * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen. €5000.
     * Foundation Compositio Mathematica. €5000.
+    * VUB Doctoral School: €750.
