@@ -11,6 +11,7 @@
 * 2023-2024. OZR4014 (VUB Backup Mandate): Supervisor of Silvia Properzi. 
 
 ### Funding obtained for postdocs 
+* 2025-2027. NAWA Bekker Fellowship. Supervisor of Magdalena Wiertel. 
 * 2024-2027. FWO PostDoc Grant. Supervisor of Carsten Dietzel.   
 * 2021-2023. FWO PostDoc Grant (FWOTM992). Supervisor of Arne Van Antwerpen. 
 * 2022-2024. FWO Postdoc Grant (FWOTM1118). Supervisor of Kevin Piterman.
