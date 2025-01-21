@@ -5,6 +5,7 @@
 * [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe/home-page). Bedlewo, Poland. Organizers: I. Colazzo, T. Brzezinski, L. Vendramin.  
 * [Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/), Brussels, Belgium. Organizers: S. Caenepeel, K. De Commer, P. Saracco, P. Vaz, L. Vendramin, J. Vercruysse.
 * [GAP Days in Brussels](https://www.gapdays.de). VUB, Brussels, Belgium. Organizers: J. De Beule, P. Cara, L. Vendramin.
+* [The interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io). Brussels, Belgium. Organizers: I. Colazzo, P. Truman, A. Van Antwerpen, L. Vendramin. 
 
 ## 2024
 
