@@ -16,7 +16,7 @@ Dyslexic-friendly versions of my lecture notes are available upon request. Pleas
 
 * Trusses: between braces and rings, by T. Brzezinski [[GitHub]](https://github.com/vendramin/trusses)
 * Radford's bosonization theorem [[GitHub]](https://github.com/vendramin/radford)
-* Algebra with GAP [[GitHub]](https://github.com/vendramin/gap)
+* [Computer Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman). Oberwolfach Preprint. 
 
 ### In Spanish
 
