@@ -24,6 +24,7 @@ I decided to become an official collector.
 * Malle, Gunter; Matzat, B. Heinrich. Inverse Galois theory. Springer Monographs in Mathematics. Springer-Verlag, Berlin, 1999. xvi+436 pp. ISBN: 3-540-62890-8.
 * Marsh, Robert J. Lecture notes on cluster algebras. Zurich Lectures in Advanced Mathematics. European Mathematical Society (EMS), Zürich, 2013. ii+117 pp. ISBN: 978-3-03719-130-9. 
 * Navarro, Gabriel. Character theory and the McKay conjecture. Cambridge Studies in Advanced Mathematics, 175. Cambridge University Press, Cambridge, 2018. xviii+234 pp. ISBN: 978-1-108-42844-6.
+* Navas, Andrés. Groups of circle diffeomorphisms. Translation of the 2007 Spanish edition. Chicago Lectures in Mathematics. University of Chicago Press, Chicago, IL, 2011. xviii+290 pp. ISBN: 978-0-226-56951-2; 0-226-56951-9.
 * Procesi, Claudio. Lie groups. An approach through invariants and representations. Universitext. Springer, New York, 2007. xxiv+596 pp. ISBN: 978-0-387-26040-2; 0-387-26040-4.
 * Serre, Jean-Pierre. Linear representations of finite groups. Translated from the second French edition by Leonard L. Scott. Graduate Texts in Mathematics, Vol. 42. Springer-Verlag, New York-Heidelberg, 1977. x+170 pp. ISBN: 0-387-90190-6.
 
