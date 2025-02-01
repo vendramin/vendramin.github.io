@@ -61,6 +61,7 @@ or if you're a Bachelor's student, click [here](bachelor.md).
 #### Mathematics
 
 *   [My research group](https://leandrovendramin.org/team/). Click [here](https://leandrovendramin.org/organized.html) for the conferences I organized.
+*   [This](signatures.md) is my collection of mathematics books signed by their authors. 
 *   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
 
