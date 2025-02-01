@@ -27,4 +27,4 @@ I decided to become an official collector.
 1.  Procesi, Claudio. [Lie groups. An approach through invariants and representations](signatures/procesi.jpg). Universitext. Springer, New York, 2007. xxiv+596 pp. ISBN: 978-0-387-26040-2; 0-387-26040-4.
 1.  Serre, Jean-Pierre. [Linear representations of finite groups](signatures/serre.jpg). Translated from the second French edition by Leonard L. Scott. Graduate Texts in Mathematics, Vol. 42. Springer-Verlag, New York-Heidelberg, 1977. x+170 pp. ISBN: 0-387-90190-6.
 
-More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, and Kevin Piterman— and, of course, to everyone who kindly agreed to sign my books!
+More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, Kevin Piterman, Arne Van Antwerpen— and, of course, to everyone who kindly agreed to sign my books!
