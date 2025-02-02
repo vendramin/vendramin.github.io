@@ -30,9 +30,10 @@ Click [here](publications.md) for my list of publications.
 
 My software is [here](software.md).
 
-## Talks
+## Conferences/Talks
 
-Click [here](talks.md) for my talks. 
+* Click [here](https://leandrovendramin.org/organized.html) for the conferences I organized.
+* Click [here](talks.md) for my talks.
 
 ## Lecture notes
 
@@ -41,7 +42,10 @@ My courses are [here](notes.md).
 ## Mentoring
 
 For a list of my PhD students and postdocs, click [here](students.md). If you're looking for a topic for your Master's thesis, click [here](master.md), 
-or if you're a Bachelor's student, click [here](bachelor.md).
+or if you're a Bachelor's student, click [here](bachelor.md).  
+
+Click [here ](https://leandrovendramin.org/team/) for my research group at the VUB.
+
 
 ## Grants 
 
@@ -60,7 +64,6 @@ or if you're a Bachelor's student, click [here](bachelor.md).
 
 #### Mathematics
 
-*   [My research group](https://leandrovendramin.org/team/). Click [here](https://leandrovendramin.org/organized.html) for the conferences I organized.
 *   [This](signatures.md) is my collection of mathematics books signed by their authors. 
 *   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
