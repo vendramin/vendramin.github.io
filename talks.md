@@ -1,5 +1,9 @@
 ### Talks 
 
+#### 2025
+
+* Nichols algebras over solvable groups [European Non-Associative Algebra Seminar](https://sites.google.com/view/enaaw/home), online.
+  
 #### 2024 
 
 * What is a Nichols algebra? [Biracks and Biquandles: Theory, applications, and new perspectives](https://conferences.leeds.ac.uk/artin/), Leeds, UK.
