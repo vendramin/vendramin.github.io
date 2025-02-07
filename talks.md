@@ -2,6 +2,7 @@
 
 #### 2025
 
+* Nichols algebras over solvable groups [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), online.  
 * Nichols algebras over solvable groups [European Non-Associative Algebra Seminar](https://sites.google.com/view/enaaw/home), online.
   
 #### 2024 
