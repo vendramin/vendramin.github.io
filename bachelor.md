@@ -4,6 +4,7 @@ Are you looking for topics for your bachelor's thesis? [Here](files/bachelor.pdf
 
 ## Theses supervised
 
+* Steen Sodemann. Ore's conjecture. Cosupervised with [Silvia Properzi](https://properzi.github.io). In progress.
 * Nina Seydoux. Combinatorial knot theory. Cosupervised with Kevin Piterman. Defended: 12/2024.
 * Steen Sodemann. Derangements. Defended: 12/2024.
 * Janis Gathot. Gromov’s theorem.  Defended: 6/2024.
