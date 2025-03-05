@@ -22,6 +22,7 @@ I decided to become an official collector.
 1.  Majid, Shahn. [Foundations of quantum group theory](signatures/majid.jpg). Cambridge University Press, Cambridge, 1995. x+607 pp. 
 1.  Malle, Gunter; Matzat, B. Heinrich. [Inverse Galois theory](signatures/malle.jpg). Springer Monographs in Mathematics. Springer-Verlag, Berlin, 1999. xvi+436 pp. 
 1.  Marsh, Robert J. [Lecture notes on cluster algebras](signatures/marsh.jpg). Zurich Lectures in Advanced Mathematics. European Mathematical Society (EMS), Zürich, 2013. ii+117 pp.
+1.  Marubayashi, Hidetoshi; Van Oystaeyen, Fred. [Prime divisors and noncommutative valuation theory](signatures/fred.jpg). Lecture Notes in Mathematics, 2059. Springer, Heidelberg, 2012. x+218 pp. 
 1.  Navarro, Gabriel. [Character theory and the McKay conjecture](signatures/navarro.jpg). Cambridge Studies in Advanced Mathematics, 175. Cambridge University Press, Cambridge, 2018. xviii+234 pp. 
 1.  Navas, Andrés. [Groups of circle diffeomorphisms](signatures/navas.jpg). Translation of the 2007 Spanish edition. Chicago Lectures in Mathematics. University of Chicago Press, Chicago, IL, 2011. xviii+290 pp. 
 1.  Procesi, Claudio. [Lie groups. An approach through invariants and representations](signatures/procesi.jpg). Universitext. Springer, New York, 2007. xxiv+596 pp.
