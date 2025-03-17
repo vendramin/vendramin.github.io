@@ -5,12 +5,12 @@ Dyslexic-friendly versions of my lecture notes are available upon request. Pleas
 ### In English
 
 #### VUB
-* Rings and modules. [DOI:10.5281/zenodo.8289695](https://zenodo.org/badge/latestdoi/401966965).
-* Group theory. [DOI:10.5281/zenodo.11262328](https://zenodo.org/doi/10.5281/zenodo.11262327).
-* Galois theory. [DOI:10.5281/zenodo.8297596](https://zenodo.org/badge/latestdoi/425450147).
-* Associative algebras. [DOI:10.5281/zenodo.8289845](https://zenodo.org/badge/latestdoi/402196172).
-* Non-commutative algebra. [DOI:10.5281/zenodo.11262313](https://zenodo.org/doi/10.5281/zenodo.11262312).
-* Representation theory of algebras. [DOI:10.5281/zenodo.8297587](https://zenodo.org/badge/latestdoi/497315314).
+* Rings and modules. [DOI:10.5281/zenodo.8289694](https://zenodo.org/doi/10.5281/zenodo.8289694).
+* Group theory. [DOI:10.5281/zenodo.11262327](https://zenodo.org/doi/10.5281/zenodo.11262327).
+* Galois theory. [DOI:10.5281/zenodo.8297595](https://zenodo.org/doi/10.5281/zenodo.8297595).
+* Associative algebras. [DOI:10.5281/zenodo.8289844](https://doi.org/10.5281/zenodo.8289844).
+* Non-commutative algebra. [DOI:10.5281/zenodo.11262312](https://zenodo.org/doi/10.5281/zenodo.11262312).
+* Representation theory of algebras. [DOI:10.5281/zenodo.8297586](https://zenodo.org/doi/10.5281/zenodo.8297586).
 
 #### Other
 
