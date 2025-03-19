@@ -16,7 +16,6 @@ Click [here](publications.md) for my list of publications.
 
 ##### Preprints
 
-* [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg). 
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy).
@@ -24,6 +23,7 @@ Click [here](publications.md) for my list of publications.
 
 ##### Accepted for publication
 
+* [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg), _31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)._
 * [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl._ 
 
 ##### Software 
