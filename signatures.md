@@ -6,6 +6,7 @@ I decided to become an official collector.
 1. Adams, Colin C. [The knot book. An elementary introduction to the mathematical theory of knots](signatures/adams.jpg). Revised reprint of the 1994 original. American Mathematical Society, Providence, RI, 2004. xiv+307 pp. 
 1.  Amberg, Bernhard; Franciosi, Silvana; de Giovanni, Francesco. [Products of groups](signatures/amberg.jpg). Oxford Mathematical Monographs. Oxford Science Publications. The Clarendon Press, Oxford University Press, New York, 1992. xii+220 pp.
 1.  Ballester-Bolinches, Adolfo; Ezquerro, Luis M. [Classes of finite groups](signatures/adolfo.jpg). Mathematics and Its Applications, 584. Springer, Dordrecht, 2006. xii+385 pp.
+2.  Brešar, Matej. [Introduction to noncommutative algebra](signatures/bresar.jpg). Universitext. Springer, Cham, 2014. xxxviii+199 pp. 
 1.  Caenepeel, Stefaan; Militaru, Gigel; Zhu, Shenglin. [Frobenius and separable functors for generalized module categories and nonlinear equations](signatures/caenepeel.jpg). Lecture Notes in Mathematics, 1787. Springer-Verlag, Berlin, 2002. xiv+354 pp. 
 1.  Cameron, Peter J. [Permutation groups](signatures/cameron.jpg). London Mathematical Society Student Texts, 45. Cambridge University Press, Cambridge, 1999. x+220 pp.
 1.  Childs, Lindsay N.; Greither, Cornelius; Keating, Kevin P.; Koch, Alan; Kohl, Timothy; Truman, Paul J.; Underwood, Robert G. [Hopf algebras and Galois module theory](signatures/truman.jpg). Mathematical Surveys and Monographs, 260. American Mathematical Society, Providence, RI, 2021. vii+311 pp. 
@@ -28,4 +29,4 @@ I decided to become an official collector.
 1.  Procesi, Claudio. [Lie groups. An approach through invariants and representations](signatures/procesi.jpg). Universitext. Springer, New York, 2007. xxiv+596 pp.
 1.  Serre, Jean-Pierre. [Linear representations of finite groups](signatures/serre.jpg). Translated from the second French edition by Leonard L. Scott. Graduate Texts in Mathematics, Vol. 42. Springer-Verlag, New York-Heidelberg, 1977. x+170 pp. 
 
-More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, Kevin Piterman, Arne Van Antwerpen— and, of course, to everyone who kindly agreed to sign my books!
+More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, Geoffrey Janssens, Kevin Piterman, Arne Van Antwerpen, and, of course, to everyone who kindly agreed to sign my books!
