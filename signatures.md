@@ -3,10 +3,12 @@
 I enjoy collecting signatures in my mathematics books. After gathering several interesting ones, 
 I decided to become an official collector. 
 
-1. Adams, Colin C. [The knot book. An elementary introduction to the mathematical theory of knots](signatures/adams.jpg). Revised reprint of the 1994 original. American Mathematical Society, Providence, RI, 2004. xiv+307 pp. 
+1.  Adams, Colin C. [The knot book. An elementary introduction to the mathematical theory of knots](signatures/adams.jpg). Revised reprint of the 1994 original. American Mathematical Society, Providence, RI, 2004. xiv+307 pp. 
 1.  Amberg, Bernhard; Franciosi, Silvana; de Giovanni, Francesco. [Products of groups](signatures/amberg.jpg). Oxford Mathematical Monographs. Oxford Science Publications. The Clarendon Press, Oxford University Press, New York, 1992. xii+220 pp.
+1.  Baker, Andrew. Matrix groups. [An introduction to Lie group theory](signatures/baker.jpg). Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2002. 
 1.  Ballester-Bolinches, Adolfo; Ezquerro, Luis M. [Classes of finite groups](signatures/adolfo.jpg). Mathematics and Its Applications, 584. Springer, Dordrecht, 2006. xii+385 pp.
-2.  Brešar, Matej. [Introduction to noncommutative algebra](signatures/bresar.jpg). Universitext. Springer, Cham, 2014. xxxviii+199 pp. 
+1.  Brešar, Matej. [Introduction to noncommutative algebra](signatures/bresar.jpg). Universitext. Springer, Cham, 2014. xxxviii+199 pp.
+1.  Brown, Ken A.; Goodearl, Ken R. [Lectures on algebraic quantum groups](signatures/brown.kpg). Advanced Courses in Mathematics. CRM Barcelona. Birkhäuser Verlag, Basel, 2002. x+348 pp. 
 1.  Caenepeel, Stefaan; Militaru, Gigel; Zhu, Shenglin. [Frobenius and separable functors for generalized module categories and nonlinear equations](signatures/caenepeel.jpg). Lecture Notes in Mathematics, 1787. Springer-Verlag, Berlin, 2002. xiv+354 pp. 
 1.  Cameron, Peter J. [Permutation groups](signatures/cameron.jpg). London Mathematical Society Student Texts, 45. Cambridge University Press, Cambridge, 1999. x+220 pp.
 1.  Childs, Lindsay N.; Greither, Cornelius; Keating, Kevin P.; Koch, Alan; Kohl, Timothy; Truman, Paul J.; Underwood, Robert G. [Hopf algebras and Galois module theory](signatures/truman.jpg). Mathematical Surveys and Monographs, 260. American Mathematical Society, Providence, RI, 2021. vii+311 pp. 
