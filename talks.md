@@ -2,7 +2,9 @@
 
 #### 2025
 
-* Nichols algebras over solvable groups [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), online.  
+* What is a skew brace? [Colloquium MATH](https://www.uclouvain.be/fr/instituts-recherche/irmp/colloquium), Louvain-la-Neuve, Belgium.
+* Nichols algebras over solvable groups [Algebra, Geometry, and Number Theory Seminar](https://www.uantwerpen.be/en/research-groups/pure-mathematics/research/ongoing-scientific-events/antwerp-algebra-colloquium/). Antwerpen, Belgium.
+* Nichols algebras over solvable groups [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), Paris, France.
 * Nichols algebras over solvable groups [European Non-Associative Algebra Seminar](https://sites.google.com/view/enaaw/home), online.
   
 #### 2024 
