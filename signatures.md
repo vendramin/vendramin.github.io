@@ -30,6 +30,7 @@ I decided to become an official collector.
 1.  Navarro, Gabriel. [Character theory and the McKay conjecture](signatures/navarro.jpg). Cambridge Studies in Advanced Mathematics, 175. Cambridge University Press, Cambridge, 2018. xviii+234 pp. 
 1.  Navas, Andrés. [Groups of circle diffeomorphisms](signatures/navas.jpg). Translation of the 2007 Spanish edition. Chicago Lectures in Mathematics. University of Chicago Press, Chicago, IL, 2011. xviii+290 pp. 
 1.  Procesi, Claudio. [Lie groups. An approach through invariants and representations](signatures/procesi.jpg). Universitext. Springer, New York, 2007. xxiv+596 pp.
-1.  Serre, Jean-Pierre. [Linear representations of finite groups](signatures/serre.jpg). Translated from the second French edition by Leonard L. Scott. Graduate Texts in Mathematics, Vol. 42. Springer-Verlag, New York-Heidelberg, 1977. x+170 pp. 
+1.  Serre, Jean-Pierre. [Linear representations of finite groups](signatures/serre.jpg). Translated from the second French edition by Leonard L. Scott. Graduate Texts in Mathematics, Vol. 42. Springer-Verlag, New York-Heidelberg, 1977. x+170 pp.
+1.  Walton, Chelsea. [Symmetries of algebras](signatures/walton.jpg). Vol. 1. 619 Wreath Publishing, Oklahoma City, OK, 2024. xvi+307 pp. 
 
 More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, Geoffrey Janssens, Kevin Piterman, Arne Van Antwerpen, and, of course, to everyone who kindly agreed to sign my books!
