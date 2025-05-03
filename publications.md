@@ -4,18 +4,22 @@ Click [here](selected.md) for a selection of papers.
 
 #### Preprints
 
-* [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg). 
+
+
+
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy).
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
-#### Accepted for publication
+<!--- #### Accepted for publication--->
 
-* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl_. 
-  
 #### Published papers 
 
+##### 2025
+* [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl. 24, No. 9, Article ID 2550215, 42 p. (2025)_.
+   
 ##### 2024
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL, 153-175, Trends Math., Birkhäuser/Springer, Cham, 2024._
 * [The prime spectrum of an L-algebra](http://arxiv.org/abs/2206.01001) (with W. Rump). _Proc. Amer. Math. Soc. 152 (2024), 3197-3207._
