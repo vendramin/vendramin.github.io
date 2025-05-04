@@ -21,10 +21,7 @@ Click [here](publications.md) for my list of publications.
 * [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy).
 * [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
-##### Accepted for publication
-
-* [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg), _31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)._
-* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl._ 
+<!---##### Accepted for publication--->
 
 ##### Software 
 
