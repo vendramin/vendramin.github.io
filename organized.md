@@ -30,6 +30,6 @@
 
 ___
 
-### Recurring workshop series on sew braces and Hopf-Galois theory
+### Recurring workshop series on skew braces and Hopf-Galois theory
 
 Since 2023, together with I. Colazzo and P. Truman, I have regularly organized [The Interplay between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io). We hold at least two events per year in the UK, sponsored by the London Mathematical Society, the University of Leeds, Keele University, and the Vrije Universiteit Brussel (VUB). Past editions are available [here](https://interplaysbhg.github.io/editions.html).
