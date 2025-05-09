@@ -28,7 +28,7 @@
 *   [CLAM VI, Congreso Latinoamericano de Matemáticos](https://clam2021.cmat.edu.uy). Session on [Quantum Symmetries](https://clam2021.cmat.edu.uy/sesiones/27). Virtual Meeting. Organizers: C. Galindo, J. Plavnik, L. Vendramin. 
 *   [MCA2021, Mathematical Congress of the Americas](https://www.mca2021.org/en/). Session on [Quantum Symmetries](https://www.mca2021.org/en/special-sessions/item/46-quantum-symmetries). Virtual Meeting. Organizers: M. Müller, J. Plavnik, L. Vendramin.
 
-##
+___
 
 ### Recurring workshop series on sew braces and Hopf-Galois theory
 
