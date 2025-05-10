@@ -18,7 +18,7 @@ Click [here](selected.md) for a selection of papers.
 
 ##### 2025
 * [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._
-* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl. 24, No. 9, Article ID 2550215, 42 p. (2025)_.
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._
    
 ##### 2024
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL, 153-175, Trends Math., Birkhäuser/Springer, Cham, 2024._
