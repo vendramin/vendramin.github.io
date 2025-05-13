@@ -2,6 +2,7 @@
 
 #### 2025
 
+* What is a skew brace? Hopf orders & Galois module theory, Connecticut, USA. 
 * What is a skew brace? [Colloquium MATH](https://www.uclouvain.be/fr/instituts-recherche/irmp/colloquium), Louvain-la-Neuve, Belgium.
 * Nichols algebras over solvable groups [Algebra, Geometry, and Number Theory Seminar](https://www.uantwerpen.be/en/research-groups/pure-mathematics/research/ongoing-scientific-events/antwerp-algebra-colloquium/). Antwerpen, Belgium.
 * Nichols algebras over solvable groups [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), Paris, France.
