@@ -20,8 +20,5 @@ Dyslexic-friendly versions of my lecture notes are available upon request. Pleas
 
 ### In Spanish
 
-* Teoría de grupos. [[GitHub]](https://github.com/vendramin/grupos).
-* Estructuras algebraicas. [[GitHub]](https://github.com/vendramin/estructuras).
-* Curvas y superficies. [[GitHub]](https://github.com/vendramin/curvas).
 * Historia de la matemática. [[GitHub]](https://github.com/vendramin/historia).
 
