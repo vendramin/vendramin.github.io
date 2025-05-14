@@ -8,7 +8,7 @@ Brussels, Belgium
 
 Email: `Leandro.Vendramin@vub.be`
 
-[Brief CV](files/cv.pdf), [CV](files/cv-full.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=23104610300)
+[Brief CV](files/cv.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=23104610300)
 
 ## Publications
 
