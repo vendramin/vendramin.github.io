@@ -62,7 +62,7 @@ Click [here ](https://leandrovendramin.org/team/) for my research group at the V
 #### Mathematics
 
 *   [This](signatures.md) is my collection of mathematics books signed by their authors. 
-*   [What is...? Short, non-technical articles offering orientation to varied subjects](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis).
+*   [What is...?](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis) Short, non-technical articles offering orientation to varied subjects.
 *   [Kourovka Notebook, Collection of unsolved problems in group theory](https://kourovka-notebook.org/). 
 
 #### Software
