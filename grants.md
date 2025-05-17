@@ -5,7 +5,7 @@
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
 ### Funding obtained by PhD candidates
-* 2024-2025. China Scholarship Council. Candidate: Yufei Qin.
+* 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin.
 * 2023-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi.
 * 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi.
 * 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. 
