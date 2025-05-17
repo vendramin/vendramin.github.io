@@ -4,18 +4,19 @@
 * 2023-2026. FWO & CNRS: International Emerging Actions (IEA) project 328226 (V. Lebed and L. Vendramin). €12000. 
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
-### Funding obtained for PhD candidates
-* 2024-2025. China Scholarship Council. Supervisor of Yufei Qin.
-* 2023-2027. FWO Predoc Grant (11PIO24N). Supervisor of Silvia Properzi.
-* 2021-2025. FWO Predoc Grant (1160522N). Supervisor of Senne Trappeniers.
-* 2023-2024. OZR4014 (VUB Backup Mandate): Supervisor of Silvia Properzi. 
+### Funding obtained by PhD candidates
+* 2024-2025. China Scholarship Council. Candidate: Yufei Qin.
+* 2023-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi.
+* 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi.
+* 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. 
+* 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers.
 
-### Funding obtained for postdocs 
-* 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Supervisor of Magdalena Wiertel. 
-* 2024-2027. FWO PostDoc Grant (1244625N). Supervisor of Carsten Dietzel.   
-* 2021-2023. FWO PostDoc Grant (1229724N). Supervisor of Arne Van Antwerpen. 
-* 2022-2024. FWO Postdoc Grant (12K1223N). Supervisor of Kevin Piterman.
-* 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Supervisor of Carsten Dietzel.
+### Funding obtained by postdocs 
+* 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Host of Magdalena Wiertel. 
+* 2024-2027. FWO PostDoc Grant (1244625N). Carsten Dietzel.   
+* 2021-2023. FWO PostDoc Grant (1229724N). Arne Van Antwerpen. 
+* 2022-2024. FWO Postdoc Grant (12K1223N). Kevin Piterman.
+* 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel.
 
 ### Funding obtained for visitors  
 * 2024: Be'eri Greenfeld, Scientific Stay in Flanders (V507824N), from 24/11 to 05/1.
