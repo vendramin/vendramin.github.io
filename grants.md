@@ -1,5 +1,6 @@
 ## Grants
 
+* 2025-2028. International Joint Research Group (OZR/2025/0492) (I. Colazzo, L. Vendramin). €10K.
 * 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications (L. Vendramin). €310K. 
 * 2023-2026. FWO & CNRS: International Emerging Actions (IEA) project 328226 (V. Lebed and L. Vendramin). €12000. 
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
