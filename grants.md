@@ -6,14 +6,14 @@
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
 ### Funding obtained by PhD candidates
-* 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin.
-* 2023-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi.
-* 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi.
-* 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. 
-* 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers.
+* 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Co-supervised with G. Zhou. 
+* 2023-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. 
+* 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi. 
+* 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. Co-supervised with J. Vercruysse.
+* 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Co-supervised with A. Van Antwerpen. 
 
-### Funding obtained by postdocs 
-* 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Host of Magdalena Wiertel. 
+### Postdoctoral fellowships hosted
+* 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Magdalena Wiertel. 
 * 2024-2027. FWO PostDoc Grant (1244625N). Carsten Dietzel.   
 * 2021-2023. FWO PostDoc Grant (1229724N). Arne Van Antwerpen. 
 * 2022-2024. FWO Postdoc Grant (12K1223N). Kevin Piterman.
