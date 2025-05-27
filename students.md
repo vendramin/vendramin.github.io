@@ -3,7 +3,7 @@
 ### Current
 * Lukas Simons (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
 * Yufei Qin (cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)).
-* [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) (cosupervised with [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/). 
+* [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) (cosupervised with [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/)). 
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io).
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
