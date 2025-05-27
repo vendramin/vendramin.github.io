@@ -9,9 +9,9 @@
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
 * [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage) (cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
 * Santiago Ramírez.
-* Emiliano Acri.
 
 ### Former
+* Emiliano Acri, [thesis (in Spanish)](files/acri.pdf). Defended: 5/25.
 * Charlotte Verwimp (cosupervised with Eric Jespers), [thesis](files/verwimp.pdf). Defended: 5/22. 
 
 #### Do you want to do your Ph.D. at VUB? 
