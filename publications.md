@@ -4,7 +4,7 @@ Click [here](selected.md) for a selection of papers.
 
 #### Preprints
 
-* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono).
+* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy).
@@ -16,7 +16,8 @@ Click [here](selected.md) for a selection of papers.
 
 ##### 2025
 * [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._
-* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._
+* [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._ GAP code DOI: [10.5281/zenodo.8113634](https://doi.org/10.5281/zenodo.8113634).
+
    
 ##### 2024
 * [Skew braces: a brief survey](https://arxiv.org/abs/2311.07112). _Geometric methods in physics XL, 153-175, Trends Math., Birkhäuser/Springer, Cham, 2024._
@@ -31,13 +32,13 @@ Click [here](selected.md) for a selection of papers.
 * [Isoclinism of skew braces](https://arxiv.org/abs/2211.14414) (with T. Letourmy). _Bull. Lond. Math. Soc. 55 (2023), no. 6, 2891–2906_.
 * [Nilpotency of skew braces and multipermutation solutions of the
   Yang-Baxter equation](http://arxiv.org/abs/2205.01572) (with E. Jespers, A. Van Antwerpen). _Commun. Contemp. Math. 25 (2023), no. 09, Paper No. 2250064_.
-* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381_ [[code]](https://zenodo.org/badge/latestdoi/417288153).
+* [On the enumeration of finite L-algebras](http://arxiv.org/abs/2206.04955) (with C. Dietzel, P. Menchón). _Math. Comp. 92 (2023), no. 341, 1363–1381._ Code DOI: [10.5281/zenodo.417288153](https://zenodo.org/badge/latestdoi/417288153).
 
 ##### 2022
 * [Decomposition theorems for involutive solutions to the Yang-Baxter
   equation](http://arxiv.org/abs/2101.04239) (with S. Ramírez). _Int. Math. Res. Not. IMRN 2022, no. 22, 18078–18091_.
 * [Reflection equation as a tool for studying solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.01752) (with V. Lebed). _J. Algebra 607 (2022), 360–380_.
-* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481_ [[code]](https://zenodo.org/badge/latestdoi/283301509).
+* [Enumeration of set-theoretic solutions to the Yang-Baxter equation](https://arxiv.org/abs/2008.04483) (with Ö. Akgün, M. Mereb). _Math. Comp. 91 (2022), no. 335, 1469–1481._ GAP code DOI: [10.5281/zenodo.5180744](https://doi.org/10.5281/zenodo.5180744).
 
 ##### 2021
 * [Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation](https://arxiv.org/abs/2001.10967) (with E. Jespers, L. Kubat, A. Van Antwerpen). _Adv. Math. 385 (2021), 107767_.
