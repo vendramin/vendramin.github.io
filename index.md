@@ -20,7 +20,7 @@ Click [here](publications.md) for my list of publications.
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy).
-* [Algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
+* [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
 <!---##### Accepted for publication--->
 
