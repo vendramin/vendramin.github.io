@@ -4,11 +4,11 @@
 
 * What is a skew brace? [Weekly A3G Seminars: Advances in Applied, Algorithmic and Combinatorial Algebraic Geometry Seminars
 ](https://sites.google.com/view/solvingpolynomialsystems/home), Leuven, Belgium.
-* What is a skew brace? Hopf orders & Galois module theory, Connecticut, USA. 
+* What is a skew brace? [Hopf orders & Galois module theory](http://hopf-galois.org/2025UConn/index.html), Connecticut, USA. [Video](http://hopf-galois.org/2025UConn/Videos2025/HAGMT-2025-LV.mp4).
 * What is a skew brace? [Colloquium MATH](https://www.uclouvain.be/fr/instituts-recherche/irmp/colloquium), Louvain-la-Neuve, Belgium.
 * Nichols algebras over solvable groups [Algebra, Geometry, and Number Theory Seminar](https://www.uantwerpen.be/en/research-groups/pure-mathematics/research/ongoing-scientific-events/antwerp-algebra-colloquium/). Antwerpen, Belgium.
-* Nichols algebras over solvable groups [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), Paris, France.
-* Nichols algebras over solvable groups [European Non-Associative Algebra Seminar](https://sites.google.com/view/enaaw/home), online.
+* Nichols algebras over solvable groups [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), Paris, France. [Video](https://u-paris.zoom.us/rec/share/X7oYSE_qwCZfXDG8SZlZe3QHvchElXb4HnrnDXL90e9P72a_P3OaDaTTpdCjO6z_.dEFJ6qaUriOU2GnO).
+* Nichols algebras over solvable groups [European Non-Associative Algebra Seminar](https://sites.google.com/view/enaaw/home), online. [Video](https://youtu.be/VPumhOFJIOs).
   
 #### 2024 
 
@@ -18,7 +18,7 @@
 * Nichols algebras over solvable groups. [University of Warsaw: Algebra Seminar](https://www.mimuw.edu.pl/en/seminars/seminar-algebra/), Warsaw, Poland.
 * L-algebras: The Yang-Baxter equation and algebraic logic. [From Garside to Yang-Baxter](https://godelle.users.lmno.cnrs.fr/conf2024/Conf_algebre_2024.html), Caen, France.
 * Nichols algebras over groups. [University of Leeds: Algebra Seminar](https://sites.google.com/view/crt-leeds/activities-in-leeds), Leeds, UK.
-* What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway.
+* What is a skew brace? [Algebraic and combinatorial perspectives in the mathematical sciences](https://www.math.ntnu.no/acpms/), Oslo, Norway. [Video](https://www.math.ntnu.no/acpms/view_talk.html?id=165).
 * On the classification of Nichols algebras over groups. Seminario de Teoría de Lie, Córdoba, Argentina. 
 * Convex sets and sums of squares. [Brussels Summer School of Mathematics](https://bssm.ulb.ac.be/en/program.php), Brussels, Belgium. 
 * Nichols algebras. [Algebraic structures in the Yang-Baxter equation](https://sites.google.com/view/yang-baxter-algebras/home), Edinburgh, UK.
@@ -34,31 +34,31 @@
 * Some problems on skew braces. [Advances in Group Theory and Applications](https://www.advgrouptheory.com/agta2023/). Lecce, Italy.
 * Nichols algebras. [European Quantum Algebra Lectures (EQuAL)](https://sites.google.com/view/equalseminar/home). Virtual seminar.
 * Some problems on skew braces. [The Interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io). Keele University, UK. 
-* Algebra with GAP (mini-course). [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io). Puerto Madryn, Argentina. [[notes]](https://crossroads-2023.github.io/vendramin/gap.pdf)
+* Algebra with GAP (mini-course). [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io). Puerto Madryn, Argentina. [Notes](https://crossroads-2023.github.io/vendramin/gap.pdf).
 * Skew braces, cabling and indecomposable solutions to the Yang-Baxter equation. [Categories, Rings and Modules, a conference in honor of Alberto Facchini](https://events.math.unipd.it/CRaM/). Padova, Italy.
 * Pre-Lie algebras and braces. [Oberwolfach mini-workshop: Skew braces and the Yang-Baxter equation](https://www.mfo.de/occasion/2309a/www_view), Germany. 
 
 #### 2022
 
-* Algebra with GAP (mini-course, 6 hours). Vrije Universiteit Brussel. With Jan de Beule. [[slides]](notes/vub.tar.bz2)
+* Algebra with GAP (mini-course, 6 hours). Vrije Universiteit Brussel. With Jan de Beule. [Slides](notes/vub.tar.bz2).
 * Multipermutation solutions and the Yang-Baxter equation. [Hopf algebras, monoidal categories and related topics](https://hopfconferencebuch.wixsite.com/website). Bucharest, Romania. 
 * Left-ordered groups, Garside groups and structure groups of solutions. [Algebra days in Caen](https://lebed.users.lmno.cnrs.fr/AlgebraDays2022.html), France.
 * The Yang-Baxter equation and algebraic logic. Nicolaus Copernicus University, Toruń, Poland. 
 * Multipermutation solutions of the Yang-Baxter equation, Ferran Cedó retirement. Barcelona, Spain.
-* Radical rings, braces and the Yang-Baxter equation. [Braces in Bracelets Bay. LMS Regional Meeting](https://sites.google.com/view/lmsmeetingbracesinbraceletbay/home). Swansea, UK.
+* Radical rings, braces and the Yang-Baxter equation. [Braces in Bracelets Bay. LMS Regional Meeting](https://sites.google.com/view/lmsmeetingbracesinbraceletbay/home). Swansea, UK. [Video](https://youtu.be/p1L4GTvMbQo).
   
 #### 2021
 
 * Groups, rings and the Yang-Baxter equation. [Seminar on Quantum groups, Hopf algebras and monoidal categories](https://hopfalgb.ulb.be/schedule.html), Brussels, Belgium. 
 * Groups, rings and the Yang-Baxter equation. Geometry and Algebra Seminar in Newcastle, UK.
-* Radical rings, braces and the Yang-Baxter equation. [ECOLE CIMPA: Non-associative algebras and their applications](https://sites.google.com/view/cimpa2020madagascar/), Virtual meeting.
+* Radical rings, braces and the Yang-Baxter equation. [ECOLE CIMPA: Non-associative algebras and their applications](https://sites.google.com/view/cimpa2020madagascar/), Virtual meeting. [Video](https://drive.google.com/file/d/1Ssf69M8rD_WvAJJfvyI_si-74okyz7la/view).
 * Set theoretical solutions to the Yang-Baxter equation. [II Encuentro de Álgebra y Teoría de Nudos](https://matematica.uv.cl/grupoAtN/encuentro/2021/), Virtual meeting.
 
 #### 2020
 
 * Problems on skew braces. Harish-Chandra Research Institute, India. Virtual seminar.
 * Radical rings and the Yang-Baxter equation. [Grupo de teoría de Lie](http://teoriadelie.famaf.unc.edu.ar/seminario/). Virtual seminar.
-* Algebra with GAP. [AARMS mini-course](https://aarms.math.ca/event/mini-course-on-gap/), Dalhousie University, Halifax, Canada. [[videos]](http://www.mathstat.dal.ca/~selinger/mini-course-gap/) [[slides and problems]](notes/dalhousi.tar.gz)
+* Algebra with GAP. [AARMS mini-course](https://aarms.math.ca/event/mini-course-on-gap/), Dalhousie University, Halifax, Canada. [Videos](http://www.mathstat.dal.ca/~selinger/mini-course-gap/). [Slides and problems](notes/dalhousi.tar.gz).
  
 #### 2019
 
@@ -95,15 +95,15 @@
 
 #### 2015
 
-* Pecios y quandles (mini-course, Spanish). Universidad de Talca, Chile. [[notes]](notes/talca2015.pdf)
-* El grupoide de Weyl (mini-course, Spanish). Encuentro Rioplatense de Álgebra y Geometría. [[notes]](notes/erag2015.pdf)
-* Nichols algebras over non-abelian groups. [Nichols Algebras and their interactions with Lie theory, Hopf Algebras and Tensor Categories](https://www.birs.ca/events/2015/5-day-workshops/15w5053), Banff, Canada. [[video]](https://www.birs.ca/events/2015/5-day-workshops/15w5053/videos/watch/201509090901-Vendramin.html)
+* Pecios y quandles (mini-course, Spanish). Universidad de Talca, Chile. [Notes](notes/talca2015.pdf).
+* El grupoide de Weyl (mini-course, Spanish). Encuentro Rioplatense de Álgebra y Geometría. [Notes](notes/erag2015.pdf).
+* Nichols algebras over non-abelian groups. [Nichols Algebras and their interactions with Lie theory, Hopf Algebras and Tensor Categories](https://www.birs.ca/events/2015/5-day-workshops/15w5053), Banff, Canada. [Video](https://www.birs.ca/events/2015/5-day-workshops/15w5053/videos/watch/201509090901-Vendramin.html).
 
 #### 2014
 
 * Nichols algebras over non-abelian groups. Coloquio Latinoamericano de Álgebra, Lima, Perú. 
-* Introducción al álgebra con GAP (mini-course, 8 hours), Universidad de Chile, Santiago de Chile. [[notes]](notes/GAP.pdf)
-* The classification of Nichols algebras (mini-course, 6 hours). Summer School on Conformal Field Theories and Nichols algebras, Rauischholzhausen, Germany. [[notes]](notes/rauischholzhausen2014.pdf)
+* Introducción al álgebra con GAP (mini-course, 8 hours), Universidad de Chile, Santiago de Chile. [Notes](notes/GAP.pdf).
+* The classification of Nichols algebras (mini-course, 6 hours). Summer School on Conformal Field Theories and Nichols algebras, Rauischholzhausen, Germany. [Notes](notes/rauischholzhausen2014.pdf).
 * Introducción a la teoría combinatoria de nudos (mini-course, 3 hours). ElENA VII, Córdoba, Argentina. 
 * Nichols algebras. Universidad de Talca, Talca, Chile.
 * Nichols algebras and Weyl groupoids of rank two. Colóquio de Álgebra e Representações - Quantum 2014, Santa Maria, Brazil. 
@@ -116,7 +116,7 @@
 
 #### 2012
 
-* Fomin-Kirillov algebras. [Nichols algebras and Weyl groupoids](https://www.mfo.de/occasion/1240a/www_view), Oberwolfach, Germany. [[slides]](https://leandrovendramin.org/talks/2012/oberwolfach.pdf)
+* Fomin-Kirillov algebras. [Nichols algebras and Weyl groupoids](https://www.mfo.de/occasion/1240a/www_view), Oberwolfach, Germany. [Slides](https://leandrovendramin.org/talks/2012/oberwolfach.pdf).
 * Nichols algebras. [Séminaire Lotharingien de Combinatoire 69](https://www.emis.de/journals/SLC/wpapers/s69preface.html), Strobl, Austria. 
 * About the classification of finite-dimensional pointed Hopf algebras. [Groups, Rings, Lie and Hopf Algebras. III](https://www.mun.ca/aac/workshops/past-workshops/2012/), Deer Lake, Canada.
 * Hopf algebras and applications (mini-course). With N. Andruskiewitsch. AARMS Summer School, St. Johns, Canada. 
