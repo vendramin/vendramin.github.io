@@ -2,7 +2,7 @@
 
 #### 2025
 
-* Nichols algebras over solvable groups. [XV Ukraine Algebra Conference](https://xvuac.mmf.com.ua), Ukraine. 
+* Nichols algebras over solvable groups. [XV Ukraine Algebra Conference](https://xvuac.mmf.com.ua), Lviv, Ukraine. 
 * What is a skew brace? [Weekly A3G Seminars: Advances in Applied, Algorithmic and Combinatorial Algebraic Geometry Seminars
 ](https://sites.google.com/view/solvingpolynomialsystems/home), Leuven, Belgium.
 * What is a skew brace? [Hopf orders & Galois module theory](http://hopf-galois.org/2025UConn/index.html), Connecticut, USA. [Video](http://hopf-galois.org/2025UConn/Videos2025/HAGMT-2025-LV.mp4).
