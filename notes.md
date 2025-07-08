@@ -5,8 +5,8 @@ Dyslexic-friendly versions of my lecture notes are available upon request. Pleas
 ### In English
 
 #### VUB
-* Rings and modules. [DOI:10.5281/zenodo.8289694](https://zenodo.org/doi/10.5281/zenodo.8289694).
-* Group theory. [DOI:10.5281/zenodo.11262327](https://zenodo.org/doi/10.5281/zenodo.11262327).
+* Rings and modules. [DOI:10.5281/zenodo.8289694](https://zenodo.org/doi/10.5281/zenodo.8289694), [AMS Open Math Notes](https://www.ams.org/open-math-notes/omn-view-listing?listingId=111466).
+* Group theory. [DOI:10.5281/zenodo.11262327](https://zenodo.org/doi/10.5281/zenodo.11262327). 
 * Galois theory. [DOI:10.5281/zenodo.8297595](https://zenodo.org/doi/10.5281/zenodo.8297595).
 * Associative algebras. [DOI:10.5281/zenodo.8289844](https://doi.org/10.5281/zenodo.8289844).
 * Non-commutative algebra. [DOI:10.5281/zenodo.11262312](https://zenodo.org/doi/10.5281/zenodo.11262312).
