@@ -4,9 +4,8 @@
 
 * An introduction to Nichols algebras. [Cohomology in Algebra, Geometry, Physcis and Statistics](https://www.math.cas.cz/index.php/events/seminar/16), Prague, Czech Republic.
 * A bridge between algebraic logic and the Yang-Baxter equation. [Panglobal Algebra and Logic Seminar](https://math.colorado.edu/algebralogic/), Colorado, USA. 
-* Nichols algebras over solvable groups. [XV Ukraine Algebra Conference](https://xvuac.mmf.com.ua), Lviv, Ukraine. 
-* What is a skew brace? [Weekly A3G Seminars: Advances in Applied, Algorithmic and Combinatorial Algebraic Geometry Seminars
-](https://sites.google.com/view/solvingpolynomialsystems/home), Leuven, Belgium.
+* Nichols algebras over solvable groups. [XV Ukraine Algebra Conference](https://xvuac.mmf.com.ua), Lviv, Ukraine. [Video](https://www.youtube.com/watch?v=7BjPVqIWqVY).
+* What is a skew brace? [Weekly A3G Seminars: Advances in Applied, Algorithmic and Combinatorial Algebraic Geometry Seminars](https://sites.google.com/view/solvingpolynomialsystems/home), Leuven, Belgium.
 * What is a skew brace? [Hopf orders & Galois module theory](http://hopf-galois.org/2025UConn/index.html), Connecticut, USA. [Video](http://hopf-galois.org/2025UConn/Videos2025/HAGMT-2025-LV.mp4).
 * What is a skew brace? [Colloquium MATH](https://www.uclouvain.be/fr/instituts-recherche/irmp/colloquium), Louvain-la-Neuve, Belgium.
 * Nichols algebras over solvable groups. [Algebra, Geometry, and Number Theory Seminar](https://www.uantwerpen.be/en/research-groups/pure-mathematics/research/ongoing-scientific-events/antwerp-algebra-colloquium/). Antwerpen, Belgium.
