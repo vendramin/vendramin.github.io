@@ -1,11 +1,13 @@
 ## Grants
 
+* 2025-2028. ULB-VUB joint research group (OZR/2025/0523) (J. Vercruysse and L. Vendramin). €2500.
 * 2025-2028. International Joint Research Group (OZR/2025/0492) (I. Colazzo and L. Vendramin). €30000.
 * 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications (L. Vendramin). €310K. 
 * 2023-2026. FWO & CNRS: International Emerging Actions (IEA) project 328226 (V. Lebed and L. Vendramin). €12000. 
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
 ### Funding obtained by PhD candidates
+* 2023-2026. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Co-supervised with J. Vercruysse.
 * 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Co-supervised with G. Zhou. 
 * 2023-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. 
 * 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi. 
