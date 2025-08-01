@@ -7,9 +7,9 @@
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
 ### Funding obtained by PhD candidates
-* 2023-2026. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Co-supervised with J. Vercruysse.
+* 2025-2028. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Co-supervised with J. Vercruysse.
 * 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Co-supervised with G. Zhou. 
-* 2023-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. 
+* 2024-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. 
 * 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi. 
 * 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. Co-supervised with J. Vercruysse.
 * 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Co-supervised with A. Van Antwerpen. 
