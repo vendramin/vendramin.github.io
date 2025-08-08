@@ -15,7 +15,7 @@
 * 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Supervisors: L. Vendramin, A. Van Antwerpen. 
 
 ### Postdoctoral fellowships hosted
-* 2025-2027. China Scholarship Counci. Meijun Liu. 
+* 2025-2026. China Scholarship Council. Meijun Liu. 
 * 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Magdalena Wiertel. 
 * 2024-2027. FWO PostDoc Grant (1244625N). Carsten Dietzel.   
 * 2022-2024. FWO Postdoc Grant (12K1223N). Kevin Piterman.
