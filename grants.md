@@ -7,17 +7,17 @@
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
 ### Funding obtained by PhD candidates
-* 2025-2028. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Co-supervised with J. Vercruysse.
-* 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Co-supervised with G. Zhou. 
-* 2024-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. 
-* 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi. 
-* 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. Co-supervised with J. Vercruysse.
-* 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Co-supervised with A. Van Antwerpen. 
+* 2025-2028. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Supervisors: L. Vendramin, J. Vercruysse.
+* 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Supervisors: L. Vendramin, G. Zhou. 
+* 2024-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. Supervisor: L. Vendramin. 
+* 2023-2024. OZR4014 (VUB Backup Mandate). Candidate: Silvia Properzi. Supervisor: L. Vendramin. 
+* 2023-2026. FNRS Predoc Grant (40017081). Candidate: Thomas Letourmy. Supervisors: L. Vendramin, J. Vercruysse.
+* 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Supervisors: L. Vendramin, A. Van Antwerpen. 
 
 ### Postdoctoral fellowships hosted
+* 2025-2027. China Scholarship Counci. Meijun Liu. 
 * 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Magdalena Wiertel. 
 * 2024-2027. FWO PostDoc Grant (1244625N). Carsten Dietzel.   
-* 2021-2023. FWO PostDoc Grant (1229724N). Arne Van Antwerpen. 
 * 2022-2024. FWO Postdoc Grant (12K1223N). Kevin Piterman.
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel.
 
