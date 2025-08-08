@@ -22,7 +22,8 @@ I decided to become an official collector.
 1.  Holt, Derek F.; Eick, Bettina; O'Brien, Eamonn A. [Handbook of computational group theory](signatures/holt.jpg). Discrete Mathematics and its Applications (Boca Raton). Chapman & Hall/CRC, Boca Raton, FL, 2005. xvi+514 pp. 
 1.  Jespers, Eric; del Río, Ángel. [Group ring groups. Vol. 1](signatures/jespers1.jpg). Orders and generic constructions of units. De Gruyter Graduate. De Gruyter, Berlin, 2016. xii+447 pp.
 1.  Jespers, Eric; del Río, Ángel. [Group ring groups. Vol. 2](signatures/jespers2.jpg). Structure theorems of unit groups. De Gruyter Graduate. De Gruyter, Berlin, 2016. x+217 pp.
-1.  Jespers, Eric; Okniński, Jan. [Noetherian semigroup algebras](signatures/okninski.jpg). Algebra and Applications, 7. Springer, Dordrecht, 2007. x+361 pp. 
+1.  Jespers, Eric; Okniński, Jan. [Noetherian semigroup algebras](signatures/okninski.jpg). Algebra and Applications, 7. Springer, Dordrecht, 2007. x+361 pp.
+1.  Kac, Victor. [Vertex algebras for beginners](signatures/kac.jpg). Second edition. University Lecture Series, 10. American Mathematical Society, Providence, RI, 1998. vi+201 pp.  
 1.  Kassel, Christian. [Quantum groups](signatures/kassel.jpg). Graduate Texts in Mathematics, 155. Springer-Verlag, New York, 1995. xii+531 pp.
 1.  Majid, Shahn. [Foundations of quantum group theory](signatures/majid.jpg). Cambridge University Press, Cambridge, 1995. x+607 pp. 
 1.  Malle, Gunter; Matzat, B. Heinrich. [Inverse Galois theory](signatures/malle.jpg). Springer Monographs in Mathematics. Springer-Verlag, Berlin, 1999. xvi+436 pp. 
