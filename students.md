@@ -1,13 +1,13 @@
 ## Ph.D. students
 
 ### Current
-* Lukas Simons (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
-* Yufei Qin (cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)).
+* Lukas Simons (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)). 
+* Yufei Qin (CSC, cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)).
 * [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) (cosupervised with [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/)). 
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
-* [Silvia Properzi](https://properzi.github.io).
-* [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
-* [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage) (cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
+* [Silvia Properzi](https://properzi.github.io) (FWO).
+* [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
+* [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage) (FWO, cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
 * Santiago Ramírez.
 
 ### Former
@@ -21,12 +21,13 @@
 ## Postdocs
 
 ### Current
-* Magdalena Wiertel (NAWA Bekker fellowship, from 2025).
+* Meijun Liu (CSC, from 2025).
+* Magdalena Wiertel (NAWA Bekker, from 2025).
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0) (from 2025). 
-* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (from 2023).
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (FWO, from 2023).
 
 ### Former
-* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Feodor Lynen Research Fellow, 2021-2023).
+* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Humboldt, 2021-2023).
 * [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020).
 
 #### Are you considering doing a postdoc at VUB? 
