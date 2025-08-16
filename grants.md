@@ -22,8 +22,8 @@
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel.
 
 ### Funding obtained for visitors  
-* 2025: Francqui VUB-Leerstoel for István Heckenberger, from 2025 to 2026. 
-* 2025: VUB-Leerstoel for Nicolás Andruskiewitsch, from 2025 to 2026.
+* 2025: [Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) for István Heckenberger. 
+* 2025: [VUB-Leerstoel](https://leandrovendramin.org/andruskiewitsch/) for Nicolás Andruskiewitsch.
 * 2024: Be'eri Greenfeld, Scientific Stay in Flanders (V507824N), from 24/11 to 05/1.
 * 2023: Ilaria Colazzo, Scientific Stay in Flanders (V512223N), from 9/11 to 17/12.
   
