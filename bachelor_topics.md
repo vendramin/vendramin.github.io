@@ -8,9 +8,14 @@ is a fundamental object in the study of Lie algebras and plays a crucial role in
 
 Let $p$ be a prime number. If $A$ and $B$ are non-empty subsets of the set $\mathbb{Z}/p$ of integers modulo $p$, then 
 $|A+B|\geq\min\lbrace p,|A|+|B|-1\rbrace$. 
-This sharp bound is known as the Cauchy—Davenport theorem \cite{MR1477155}. 
-Remarkably, the theorem can be generalized to any finite group! ##### References:  \cite{MR2558447,MR2041798}.
+This sharp bound is known as the Cauchy—Davenport theorem. 
+Remarkably, the theorem can be generalized to any finite group! 
 
+##### References: 
+* Balister, Paul; Wheeler, Jeffrey Paul. The Erdős-Heilbronn problem for finite groups. Acta Arith. 140 (2009), no. 2, 105-118. 
+* Károlyi, Gyula. The Erdős-Heilbronn problem in abelian groups. Israel J. Math. 139 (2004), 349-359.
+* Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. {\rm xiv}+293 pp. ISBN: 0-387-94655-1.
+  
 ### Chebyshev's curves and singular points 
 
 A classical theorem in the theory of plane curves states an irreducible algebraic
@@ -19,12 +24,18 @@ has at most $\frac12(n-1)(n-2)$ singularities. It is a very natural question
 to ask whether, for each $n$, there exists irreducible curves
 of degree $n$ that have such maximal number of 
 singularities. A concrete family of curves reaching that maximal 
-number of singularities can be constructed using Chebyshev's polynomials. References: \cite{MR1836037,MR1219450}.
+number of singularities can be constructed using Chebyshev's polynomials. 
 
-### The Schur--Zassenhaus theorem
+##### References: 
+* Fischer, Gerd. Plane algebraic curves. Translated from the 1994 German original by Leslie Kay. Student Mathematical Library, 15. American Mathematical Society, Providence, RI, 2001. xvi+229 pp. ISBN: 0-8218-2122-9.
+* Pecker, Daniel. Simple constructions of algebraic curves with nodes. Compositio Math. 87 (1993), no. 1, 1-4.
+
+### The Schur—Zassenhaus theorem
 
 Given a normal subgroup $N$ of $G$, can we reconstruct the structure of $G$ from that of $N$ and $G/N$? In general, no. However, there is a crucial case where this problem has a beautiful solution: If the orders of $N$ and $G/N$ are coprime, then $G$ is a semidirect product of $N$ and $G/N$. This is the celebrated Schur—Zassenhaus theorem. The proof is also enjoyable. It reduces the problem to the case where $N$ is abelian; in that case, one uses some basic group cohomology!
-##### References:  \cite{MR2426855}. 
+
+##### References:  
+* Isaacs, I. Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008. xii+350 pp. ISBN: 978-0-8218-4344-4.
 
 ### Dedekind-finite rings
 
