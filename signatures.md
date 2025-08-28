@@ -13,7 +13,8 @@ I decided to become an official collector.
 1.  Cameron, Peter J. [Permutation groups](signatures/cameron.jpg). London Mathematical Society Student Texts, 45. Cambridge University Press, Cambridge, 1999. x+220 pp.
 1.  Childs, Lindsay N.; Greither, Cornelius; Keating, Kevin P.; Koch, Alan; Kohl, Timothy; Truman, Paul J.; Underwood, Robert G. [Hopf algebras and Galois module theory](signatures/truman.jpg). Mathematical Surveys and Monographs, 260. American Mathematical Society, Providence, RI, 2021. vii+311 pp. 
 1.  Dehornoy, Patrick; Digne, François; Godelle, Eddy; Krammer, Daan; Michel, Jean. [Foundations of Garside theory](signatures/dehornoy_garside.jpg). EMS Tracts in Mathematics, 22. European Mathematical Society (EMS), Zürich, 2015. xviii+691 pp. 
-1.  Dehornoy, Patrick. [Braids and self-distributivity](signatures/dehornoy.jpg). Progress in Mathematics, 192. Birkhäuser Verlag, Basel, 2000. xx+623 pp.   
+1.  Dehornoy, Patrick. [Braids and self-distributivity](signatures/dehornoy.jpg). Progress in Mathematics, 192. Birkhäuser Verlag, Basel, 2000. xx+623 pp.
+1.  Dekimpe, Karel. [Almost-Bieberbach groups: affine and polynomial structures](signatures/dekimpe.jpg). Lecture Notes in Mathematics, 1639. Springer-Verlag, Berlin, 1996. x+259 pp. 
 1.  Diaconis, Persi; Skyrms, Brian. [Ten great ideas about chance](signatures/diaconis.jpg). Princeton University Press, Princeton, NJ, 2018. x+255 pp.
 1.  Etingof, Pavel; Gelaki, Shlomo; Nikshych, Dmitri; Ostrik, Victor. [Tensor categories](signatures/nikshych.jpg). Mathematical Surveys and Monographs, 205. American Mathematical Society, Providence, RI, 2015. xvi+343 pp.
 1.  Facchini, Alberto. [Introduction to Ring and Module Theory](signatures/facchini.jpg). Libreria Progetto, 2013. 136 pp.
