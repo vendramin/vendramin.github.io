@@ -4,6 +4,8 @@ The Lie algebra
 ${\frak sl}_2({\Bbb C})$ of all matrices whose trace is zero 
 is a fundamental object in the study of Lie algebras and plays a crucial role in understanding more complicated structures. In addition to its significance in physics, it possesses a rich representation theory that serves as a blueprint for understanding more general cases.
 
+---
+
 ### The Cauchy—Davenport theorem in finite groups 
 
 Let $p$ be a prime number. If $A$ and $B$ are non-empty subsets of the set $\mathbb{Z}/p$ of integers modulo $p$, then 
@@ -15,6 +17,8 @@ Remarkably, the theorem can be generalized to any finite group!
 * Balister, Paul; Wheeler, Jeffrey Paul. The Erdős-Heilbronn problem for finite groups. Acta Arith. 140 (2009), no. 2, 105-118. 
 * Károlyi, Gyula. The Erdős-Heilbronn problem in abelian groups. Israel J. Math. 139 (2004), 349-359.
 * Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. xiv+293 pp. ISBN: 0-387-94655-1.
+
+---
   
 ### Chebyshev's curves and singular points 
 
@@ -30,12 +34,16 @@ number of singularities can be constructed using Chebyshev's polynomials.
 * Fischer, Gerd. Plane algebraic curves. Translated from the 1994 German original by Leslie Kay. Student Mathematical Library, 15. American Mathematical Society, Providence, RI, 2001. xvi+229 pp. ISBN: 0-8218-2122-9.
 * Pecker, Daniel. Simple constructions of algebraic curves with nodes. Compositio Math. 87 (1993), no. 1, 1-4.
 
+---
+
 ### The Schur—Zassenhaus theorem
 
 Given a normal subgroup $N$ of $G$, can we reconstruct the structure of $G$ from that of $N$ and $G/N$? In general, no. However, there is a crucial case where this problem has a beautiful solution: If the orders of $N$ and $G/N$ are coprime, then $G$ is a semidirect product of $N$ and $G/N$. This is the celebrated Schur—Zassenhaus theorem. The proof is also enjoyable. It reduces the problem to the case where $N$ is abelian; in that case, one uses some basic group cohomology!
 
 ##### References:  
 * Isaacs, Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008. xii+350 pp. ISBN: 978-0-8218-4344-4.
+
+---
 
 ### Dedekind-finite rings
 
@@ -48,7 +56,9 @@ ring has more than one right inverse, then it in fact has infinitely many.
 * T. Y. Lam. A first course in noncommutative rings, volume 131 of Graduate Texts in Mathematics. Springer-Verlag, New York, second edition, 2001.
 * T. Y. Lam. Exercises in modules and rings. Problem Books in Mathematics. Springer, New York, 2007.
 * I. Rosenholtz. A pigeonhole proof of Kaplansky’s theorem. Amer. Math. Monthly, 99(2):132–133, 1992.
-  
+
+---
+
 ### It is all about actions
 
 The idea is to study an elementary theorem (yet compelling) proved not so long ago by Deaconescu and Walls about divisibility relations among the set of orbits of actions by group automorphisms. The theorem is very elementary and has friendly and highly non-trivial applications. 
@@ -58,6 +68,8 @@ The idea is to study an elementary theorem (yet compelling) proved not so long a
 * M. Deaconescu and G. L. Walls. On orbits of automorphism groups. II. Arch. Math., 92(3):200–205, 2009.
 * M. Isaacs. Group actions and orbits. Arch. Math. (Basel), 98(5):399–401, 2012.
 
+---
+
 ### Hall’s Marriage theorem
 
 Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem answers the question. The result has several equivalent formulations and almost infinitely many applications! 
@@ -66,7 +78,9 @@ Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to s
 * R. Diestel. Graph theory, volume 173 of Graduate Texts in Mathematics. Springer, Berlin, fifth edition, 2018. 
   P. Hall. On Representatives of Subsets. J. London Math. Soc., 10(1):26–30, 1935.
 * P. R. Halmos and H. E. Vaughan. The marriage problem. Amer. J. Math., 72:214–215, 1950.
-  
+
+---
+
 ### Permutation polynomials
 
 Let $K$ be a finite field (e.g., the field of integers modulo a prime number $p$). The project is about “permutation polynomials”.
@@ -78,6 +92,8 @@ Monthly, 95(3):243–246, 1988.
 * R. Lidl and G. L. Mullen. Unsolved Problems: When Does a Polynomial over a Finite Field Permute the Elements of the Field?, II. Amer. Math. Monthly, 100(1):71–74, 1993.
 * R. Lidl and H. Niederreiter. Finite fields, volume 20 of Encyclopedia of Mathematics and its Applications. Cambridge University Press, Cambridge, second edition, 1997. With a foreword by P. M. Cohn.
 
+---
+
 ### Combinatorial Nullstellensatz
 
 An algebraic approach to combinatorial problems involves capturing some combinatorial structures using polynomials and arguing about their algebraic properties. This has led to simple solutions to several long-standing open problems.  One of the main tools in this context is Alon’s combinatorial NullStellensatz. Examples of problems that can be solved with Alon’s theorem are the Cauchy—Davenport theorem, and Kakeya’s conjecture for finite fields. 
@@ -87,6 +103,8 @@ An algebraic approach to combinatorial problems involves capturing some combinat
 * J. Matoušek. Thirty-three miniatures, volume 53 of Student Mathematical Library. American Mathematical Society, Providence, RI, 2010.
 Mathematical and algorithmic applications of linear algebra.
 * M. Michał ek. A short proof of combinatorial Nullstellensatz. Amer. Math. Monthly, 117(9):821–823, 2010.
+
+---
 
 ### Cross products only in dimensions three and seven
 
@@ -98,6 +116,8 @@ Hempel.
 * I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
 DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
 
+---
+
 ### Zsigmondy's theorem
 
 Zsigmondy’s theorem is a result that often proves useful in various number theory problems. 
@@ -107,6 +127,8 @@ contest problems.
 ##### References:  
 * M. Teleuca. Zsigmondy’s theorem and its applications in contest problems. Internat. J. Math. Ed. Sci. Tech., 44(3):443–451, 2013.
 
+---
+
 ### The Brauer—Fowler theorem
 
 There are (at most) finitely many simple groups with a centralizer of involutions of order $n$. The theorem is the starting point for the classification of simple groups. 
@@ -115,6 +137,8 @@ There are (at most) finitely many simple groups with a centralizer of involution
 * R. Brauer and K. A. Fowler. On groups of even order. Ann. of Math. (2), 62:565–583, 1955.
 * G. James and M. Liebeck. Representations and characters of groups. Cambridge University Press, New York, second edition, 2001.
 
+---
+
 ### The Golod—Shafarevich theorem
 
 Golod and Shafarevich proved this significant result in 1964. It results in non-commutative algebra, which solves several challenging problems (e.g., the class field tower problem). In combinatorial group theory, finding a counterexample to the generalized Burnside problem is crucial: For each prime $p$, there is an infinite group $G$ generated by three elements in which each element has order a power of $p$. 
@@ -122,6 +146,8 @@ Golod and Shafarevich proved this significant result in 1964. It results in non-
 ##### References:  
 * I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
 DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
+
+---
 
 ### Kaplansky's conjectures in group rings
 
@@ -135,6 +161,8 @@ This is just the story’s beginning: several other open problems exist!
 * D. S. Passman. The algebraic structure of group rings. Robert E. Krieger Publishing Co., Inc., Melbourne, FL, 1985. Reprint of the 1977
 original.
 
+---
+
 ### Far beyond the Cayley—Hamilton theorem
 
 The Cayley--Hamilton theorem states that every square matrix satisfies its characteristic equation. 
@@ -147,7 +175,9 @@ Emmy Noether converted him to mathematics.)
 ##### References: 
 * M. Brešar. Introduction to noncommutative algebra. Universitext. Springer, Cham, 2014.
 * S. Rosset. A new proof of the Amitsur-Levitski identity. Israel J. Math., 23(2):187–188, 1976.
-  
+
+---
+
 ### Graph theory and the Amitsur—Levitski theorem
 
 The Amitsur—Levitzki theorem states that 
@@ -158,6 +188,8 @@ There is a beautiful graph-theoretic proof of this surprising result.
 ##### References:
 * R. G. Swan. An application of graph theory to algebra. Proc. Amer. Math. Soc., 14:367–373, 1963.
 * R. G. Swan. Correction to “An application of graph theory to algebra”. Proc. Amer. Math. Soc., 21:379–380, 1969.
+
+---
 
 ### Prime number generators and the FRACTRAN programming language
 
@@ -171,6 +203,8 @@ FRACTRAN is a Turing-complete programming language invented by the mathematician
 the 3x + 1 problem, pages 249–264. Amer. Math. Soc., Providence, RI, 2010.
 * R. K. Guy. Conway’s prime producing machine. Math. Mag., 56(1):26–33, 1983.
 
+---
+
 ### The Jones polynomial
 
 In 1984 Jones discovered a new invariant of knots. The invariant assigns to each oriented knot (or link)  
@@ -182,6 +216,8 @@ powerful. And Jones’ discovery was crucial in solving some old-and-famous
 * C. C. Adams. The knot book. American Mathematical Society, Providence, RI, 2004. An elementary introduction to the mathematical theory
 of knots, Revised reprint of the 1994 original.
 * W. B. R. Lickorish. An introduction to knot theory, volume 175 of Graduate Texts in Mathematics. Springer-Verlag, New York, 1997.
+
+---
   
 ### The (curious history of the) Schwartz—Zippel lemma
 
@@ -202,6 +238,8 @@ of Daniel Erickson from 1974. This lemma now has several applications in pure ma
 * R. Zippel. Probabilistic algorithms for sparse polynomials. In Symbolic and algebraic computation (EUROSAM ’79, Internat. Sympos., Mar-
 seille, 1979), volume 72 of Lecture Notes in Comput. Sci., pages 216–226. Springer, Berlin-New York, 1979.
 
+---
+
 ### Herstein's theorem
 
 A very nice theorem proved by Herstein 
@@ -215,6 +253,8 @@ using the transfer map.
 * I. N. Herstein. A remark on finite groups. Proc. Amer. Math. Soc., 9:255–257, 1958.
 * A. Machì. Groups, volume 58 of Unitext. Springer, Milan, 2012. An introduction to ideas and methods of the theory of groups.
 
+---
+
 ### An example of a P.I.D. that is not a Euclidean domain
 
 It turns out that $R = \mathbb{Z}[ \frac12 (1 + \sqrt{−19})]$ is such an example. 
@@ -227,6 +267,7 @@ turns out that a ring is almost euclidean if and only if it is a principal ideal
 * J. Greene. Principal ideal domains are almost Euclidean. Amer. Math. Monthly, 104(2):154–156, 1997.
 * A. Lemos and P. H. A. de Oliveira. Suggested corrections for “A principal ideal domain that is not a Euclidean domain”. Amer. Math. Monthly, 125(5):425, 2018.
 
+---
 
 ### Dirichlet's theorem
 
@@ -238,6 +279,8 @@ modulo $d$.
 ##### References:  
 *  J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated from the French
 
+---
+
 ### Legendre's theorem
 
 Legendre's three-square theorem solves a simple 
@@ -247,6 +290,8 @@ The answer is cute and the geometric proof is even better!
 ##### References: 
 * J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated
 from the French
+
+---
 
 ### Lagrange's theorem
 
@@ -262,7 +307,8 @@ the bachelor course _Ring and Module Theory_.
 ##### References: 
 * I. Niven, H. S. Zuckerman, and H. L. Montgomery. An introduction to the theory of numbers. John Wiley & Sons, Inc., New York, fifth edition, 1991.
 * J. Stillwell. Elements of number theory. Undergraduate Texts in Mathematics. Springer-Verlag, New York, 2003.
-  
+
+---
 ### The inverse Galois problem for abelian groups
 
 The Inverse Galois Problem is a fundamental question in mathematics that seeks to determine 
@@ -273,7 +319,8 @@ The case of abelian groups is the perfect place to start studying this fascinati
 ##### References: 
 * G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition.
 * J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
-  
+
+---
 ### Ore's theorem
 
 This important, though not very well-known, theorem states that any finite solvable group 
@@ -285,6 +332,8 @@ This result is a consequence of Frattini’s work and has applications in Galois
 ##### References:  
 * J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
 
+---
+
 ### Using wreath products to prove theorems
 
 Wreath products are formed through a specific combination of groups, 
@@ -295,7 +344,9 @@ provide examples, and use them to prove easily some nice theorems.
 
 ##### References:  
 * Ribes, Luis; Steinberg, Benjamin. A wreath product approach to classical subgroup theorems. Enseign. Math. (2) 56 (2010), no. 1-2, 49-72.
-  
+
+---
+
 ### Semisimple rings
 
 Semisimple rings are rings where every module is a direct sum of simple modules. 
@@ -308,6 +359,7 @@ characteristic zero.
 * T. W. Hungerford. Algebra, volume 73 of Graduate Texts in Mathematics. Springer-Verlag, New York-Berlin, 1980. Reprint of the 1974 original.
 * S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
 
+---
 ### Projective modules
 
 Projective modules generalize free modules in algebra. 
@@ -319,6 +371,7 @@ and algebraic topology.
 ##### References: 
 * S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
 
+---
 ### What is a pointed Hopf algebra?
 
 Pointed Hopf algebras are Hopf algebras generalize group algebras and enveloping 
