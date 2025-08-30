@@ -1,6 +1,6 @@
 # Bachelor students
 
-Are you looking for topics for your bachelor's thesis? [Here](files/bachelor.pdf) is a list of possible topics. 
+Are you looking for topics for your bachelor's thesis? [Here](bachelor_topics.md) is a list of possible topics. 
 
 ## Theses supervised
 
