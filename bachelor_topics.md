@@ -35,7 +35,7 @@ number of singularities can be constructed using Chebyshev's polynomials.
 Given a normal subgroup $N$ of $G$, can we reconstruct the structure of $G$ from that of $N$ and $G/N$? In general, no. However, there is a crucial case where this problem has a beautiful solution: If the orders of $N$ and $G/N$ are coprime, then $G$ is a semidirect product of $N$ and $G/N$. This is the celebrated Schur—Zassenhaus theorem. The proof is also enjoyable. It reduces the problem to the case where $N$ is abelian; in that case, one uses some basic group cohomology!
 
 ##### References:  
-* Isaacs, I. Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008. xii+350 pp. ISBN: 978-0-8218-4344-4.
+* Isaacs, Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008. xii+350 pp. ISBN: 978-0-8218-4344-4.
 
 ### Dedekind-finite rings
 
@@ -43,41 +43,60 @@ A ring is said to be a _Dedekind-finite_ ring if $ab = 1$ implies $ba = 1$ for a
 Several classes of rings are known to be Dedekind-finite. 
 There is a beautiful theorem of Kaplansky that states that if an element of a 
 ring has more than one right inverse, then it in fact has infinitely many.
-##### References: \cite{MR1838439,MR2278849,MR1144353}.
 
+##### References: 
+* T. Y. Lam. A first course in noncommutative rings, volume 131 of Graduate Texts in Mathematics. Springer-Verlag, New York, second edition, 2001.
+* T. Y. Lam. Exercises in modules and rings. Problem Books in Mathematics. Springer, New York, 2007.
+* I. Rosenholtz. A pigeonhole proof of Kaplansky’s theorem. Amer. Math. Monthly, 99(2):132–133, 1992.
+  
 ### It is all about actions
 
 The idea is to study an elementary theorem (yet compelling) proved not so long ago by Deaconescu and Walls about divisibility relations among the set of orbits of actions by group automorphisms. The theorem is very elementary and has friendly and highly non-trivial applications. 
 
-##### References: \cite{zbMATH05041624,zbMATH05565247,MR2922681}.
+##### References: 
+* M. Deaconescu and G. L. Walls. On orbits of automorphism groups. Sib. Mat. Zh., 46(3):533–537, 2005.
+* M. Deaconescu and G. L. Walls. On orbits of automorphism groups. II. Arch. Math., 92(3):200–205, 2009.
+* M. Isaacs. Group actions and orbits. Arch. Math. (Basel), 98(5):399–401, 2012.
 
 ### Hall’s Marriage theorem
 
 Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem \cite{MR1581694} answers the question. The result has several equivalent formulations and almost infinitely many applications! 
 
-##### References: \cite{MR3822066,MR33330}. 
-
+##### References: 
+* R. Diestel. Graph theory, volume 173 of Graduate Texts in Mathematics. Springer, Berlin, fifth edition, 2018. 
+  P. Hall. On Representatives of Subsets. J. London Math. Soc., 10(1):26–30, 1935.
+* P. R. Halmos and H. E. Vaughan. The marriage problem. Amer. J. Math., 72:214–215, 1950.
+  
 ### Permutation polynomials
 
 Let $K$ be a finite field (e.g., the field of integers modulo a prime number $p$). The project is about “permutation polynomials”.
 A permutation polynomial $f(X)\in K[X]$ such that the associated function $x\mapsto f(x)$ is bijective. In 1966, Carlitz presented a conjecture that motivated around 30 years of intensive research in permutation polynomials. Although there was an immediate success in some special cases, progress was made slowly over the next three decades until Carlitz’s conjecture was finally resolved in the affirmative by Fried, Guralnick, and Saxl in 1993. 
 
-##### References: \cite{MR1541277,MR1542258,MR1429394}.
+##### References: 
+* R. Lidl and G. L. Mullen. Unsolved Problems: When Does a Polynomial Over a Finite Field Permute the Elements of the Field? Amer. Math.
+Monthly, 95(3):243–246, 1988.
+* R. Lidl and G. L. Mullen. Unsolved Problems: When Does a Polynomial over a Finite Field Permute the Elements of the Field?, II. Amer. Math. Monthly, 100(1):71–74, 1993.
+* R. Lidl and H. Niederreiter. Finite fields, volume 20 of Encyclopedia of Mathematics and its Applications. Cambridge University Press, Cambridge, second edition, 1997. With a foreword by P. M. Cohn.
 
 ### Combinatorial Nullstellensatz
 
 An algebraic approach to combinatorial problems involves capturing some combinatorial structures using polynomials and arguing about their algebraic properties. This has led to simple solutions to several long-standing open problems.  One of the main tools in this context is Alon’s combinatorial NullStellensatz. Examples of problems that can be solved with Alon’s theorem are the Cauchy—Davenport theorem, and Kakeya’s conjecture for finite fields. 
 
 ##### References: 
- \cite{MR2760383}
-\cite{MR3495952,MR2656313}. 
+* L. Guth. Polynomial methods in combinatorics, volume 64 of University Lecture Series. American Mathematical Society, Providence, RI, 2016.
+* J. Matoušek. Thirty-three miniatures, volume 53 of Student Mathematical Library. American Mathematical Society, Providence, RI, 2010.
+Mathematical and algorithmic applications of linear algebra.
+* M. Michał ek. A short proof of combinatorial Nullstellensatz. Amer. Math. Monthly, 117(9):821–823, 2010.
 
 ### Cross products only in dimensions three and seven
 
-This astonishing claim follows quickly from a theorem of Hurwitz about the possibility of writing products of a sum of squares as a sum of squares. There is a proof of the theorem based on linear algebra \cite{MR1059056}. There is another proof that uses the representation theory of finite groups.
+This astonishing claim follows quickly from a theorem of Hurwitz about the possibility of writing products of a sum of squares as a sum of squares. There is a proof of the theorem based on linear algebra. There is another proof that uses the representation theory of finite groups.
 
 ##### References:
-\cite{MR1449137}. 
+* M. L. Curtis. Abstract linear algebra. Universitext. Springer-Verlag, New York, 1990. With revisions by Paul Place, With a preface by John
+Hempel.
+* I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
+DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
 
 ### Zsigmondy's theorem
 
@@ -85,28 +104,36 @@ Zsigmondy’s theorem is a result that often proves useful in various number the
 It proves the existence of primitive divisors of numbers of the form $a^n-b^n$. And while this is an interesting result in itself, it is also a powerful trick for solving mathematical 
 contest problems. 
 
-##### References:  \cite{MR3172590}. 
+##### References:  
+* M. Teleuca. Zsigmondy’s theorem and its applications in contest problems. Internat. J. Math. Ed. Sci. Tech., 44(3):443–451, 2013.
 
 ### The Brauer—Fowler theorem
 
 There are (at most) finitely many simple groups with a centralizer of involutions of order $n$. The theorem is the starting point for the classification of simple groups. 
 
-###### References: \cite{MR74414,MR1864147}.
+###### References: 
+* R. Brauer and K. A. Fowler. On groups of even order. Ann. of Math. (2), 62:565–583, 1955.
+* G. James and M. Liebeck. Representations and characters of groups. Cambridge University Press, New York, second edition, 2001.
 
 ### The Golod—Shafarevich theorem
 
 Golod and Shafarevich proved this significant result in 1964. It results in non-commutative algebra, which solves several challenging problems (e.g., the class field tower problem). In combinatorial group theory, finding a counterexample to the generalized Burnside problem is crucial: For each prime $p$, there is an infinite group $G$ generated by three elements in which each element has order a power of $p$. 
 
-##### References:  \cite{MR1449137}.
+##### References:  
+* I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
+DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
 
 ### Kaplansky's conjectures in group rings
 
-There are several open problems in ring theory known as Kaplansky’s conjectures \cite{MR0096696}. 
-Recently, Giles Gardam found a two-page counterexample \cite{MR4334981} 
-to the celebrated conjecture on units of group algebras. 
+There are several open problems in ring theory known as Kaplansky’s conjectures. 
+Recently, Giles Gardam found a two-page counterexample to the celebrated conjecture on units of group algebras. 
 This is just the story’s beginning: several other open problems exist! 
 
-##### References: \cite{MR1838439,MR798076}. 
+##### References:
+* G. Gardam. A counterexample to the unit conjecture for group rings. Ann. of Math. (2), 194(3):967–979, 2021.
+* I. Kaplansky. Problems in the theory of rings. In Report of a conference on linear algebras, June, 1956, pages 1–3. Nat. Acad. Sci., Washington, DC, 1957. Publ. 502.
+* D. S. Passman. The algebraic structure of group rings. Robert E. Krieger Publishing Co., Inc., Melbourne, FL, 1985. Reprint of the 1977
+original.
 
 ### Far beyond the Cayley—Hamilton theorem
 
@@ -118,16 +145,19 @@ but attending a lecture by
 Emmy Noether converted him to mathematics.) 
 
 ##### References: 
-* \cite{MR3308118,MR401804}.
-
-### Graph theory and the Amitsur—Levitski theorem} 
+* M. Brešar. Introduction to noncommutative algebra. Universitext. Springer, Cham, 2014.
+* S. Rosset. A new proof of the Amitsur-Levitski identity. Israel J. Math., 23(2):187–188, 1976.
+  
+### Graph theory and the Amitsur—Levitski theorem
 
 The Amitsur—Levitzki theorem states that 
 $\sum_{\sigma\in\mathbb{S}_{2n}}\operatorname{sign}(\sigma)A_{\sigma(1)}\cdots A_{\sigma(2n)}=0$
 for all $A_1,\dots,A_{2n}\in M_n(\mathbb{C})$. 
 There is a beautiful graph-theoretic proof of this surprising result. 
 
-##### References: \cite{MR149468,MR255439}.
+##### References:
+* R. G. Swan. An application of graph theory to algebra. Proc. Amer. Math. Soc., 14:367–373, 1963.
+* R. G. Swan. Correction to “An application of graph theory to algebra”. Proc. Amer. Math. Soc., 21:379–380, 1969.
 
 ### Prime number generators and the FRACTRAN programming language
 
@@ -179,8 +209,9 @@ Campoli proves that the ring $R$ is, in his words, _almost euclidean_. It
 turns out that a ring is almost euclidean if and only if it is a principal ideal domain \cite{MR1437418}. 
 
 ##### References: 
-* A simple 
-proof appears in \cite{MR0967349,MR3785876}. 
+* O. A. Cámpoli. A principal ideal domain that is not a Euclidean domain. Amer. Math. Monthly, 95(9):868–871, 1988.
+* J. Greene. Principal ideal domains are almost Euclidean. Amer. Math. Monthly, 104(2):154–156, 1997.
+* A. Lemos and P. H. A. de Oliveira. Suggested corrections for “A principal ideal domain that is not a Euclidean domain”. Amer. Math. Monthly, 125(5):425, 2018.
 
 
 ### Dirichlet's theorem
@@ -191,7 +222,7 @@ there are infinitely many primes that are congruent to a
 modulo $d$. 
 
 ##### References:  
-* \cite{MR344216}.
+*  J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated from the French
 
 ### Legendre's theorem
 
@@ -200,7 +231,8 @@ puzzle: which numbers are the sum of three squares?
 The answer is cute and the geometric proof is even better! 
 
 ##### References: 
-* 
+* J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated
+from the French
 
 ### Lagrange's theorem
 
@@ -214,8 +246,9 @@ ideas similar to those we studied in
 the bachelor course _Ring and Module Theory_. 
 
 ##### References: 
-* \cite{MR1083765,MR1944957}.
-
+* I. Niven, H. S. Zuckerman, and H. L. Montgomery. An introduction to the theory of numbers. John Wiley & Sons, Inc., New York, fifth edition, 1991.
+* J. Stillwell. Elements of number theory. Undergraduate Texts in Mathematics. Springer-Verlag, New York, 2003.
+  
 ### The inverse Galois problem for abelian groups
 
 The Inverse Galois Problem is a fundamental question in mathematics that seeks to determine 
@@ -224,8 +257,9 @@ extension over the rational numbers.
 The case of abelian groups is the perfect place to start studying this fascinating topic.
 
 ##### References: 
-* \cite{MR3822366,MR2363329}.
-
+* G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition [ MR1711577].
+* J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
+  
 ### Ore's theorem
 
 This important, though not very well-known, theorem states that any finite solvable group 
@@ -235,7 +269,7 @@ where $U$ is nilpotent and $S$ is a solvable group of order less than $|G|$.
 This result is a consequence of Frattini’s work and has applications in Galois theory
 
 ##### References:  
-\cite{MR2363329}.
+* J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
 
 ### Using wreath products to prove theorems
 
@@ -257,7 +291,8 @@ Examples include group algebras over fields of
 characteristic zero. 
 
 ##### References:  
-* \cite{MR600654}.
+* T. W. Hungerford. Algebra, volume 73 of Graduate Texts in Mathematics. Springer-Verlag, New York-Berlin, 1980. Reprint of the 1974 original.
+* S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
 
 ### Projective modules
 
@@ -268,7 +303,7 @@ free modules and essential for homological algebra, representation theory
 and algebraic topology. 
 
 ##### References: 
-* \cite{MR1878556}.
+* S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
 
 ### What is a pointed Hopf algebra?
 
@@ -276,7 +311,10 @@ Pointed Hopf algebras are Hopf algebras generalize group algebras and enveloping
 algebras of Lie algebras, and many quantum groups 
 like quantized enveloping algebras. 
 
-##### References:  \cite{MR1243637,MR2894855}. 
+##### References:  
+* S. Montgomery. Hopf algebras and their actions on rings, volume 82 of CBMS Regional Conference Series in Mathematics. Published for the
+Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI, 1993.
+* D. E. Radford. Hopf algebras, volume 49 of Series on Knots and Everything. World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ, 2012.
 
 
 
