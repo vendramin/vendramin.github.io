@@ -43,46 +43,61 @@ A ring is said to be a _Dedekind-finite_ ring if $ab = 1$ implies $ba = 1$ for a
 Several classes of rings are known to be Dedekind-finite. 
 There is a beautiful theorem of Kaplansky that states that if an element of a 
 ring has more than one right inverse, then it in fact has infinitely many.
-References: \cite{MR1838439,MR2278849,MR1144353}.
+##### References: \cite{MR1838439,MR2278849,MR1144353}.
 
 ### It is all about actions
 
-The idea is to study an elementary theorem (yet compelling) proved not so long ago by Deaconescu and Walls about divisibility relations among the set of orbits of actions by group automorphisms. The theorem is very elementary and has friendly and highly non-trivial applications. References: \cite{zbMATH05041624,zbMATH05565247,MR2922681}.
+The idea is to study an elementary theorem (yet compelling) proved not so long ago by Deaconescu and Walls about divisibility relations among the set of orbits of actions by group automorphisms. The theorem is very elementary and has friendly and highly non-trivial applications. 
+
+##### References: \cite{zbMATH05041624,zbMATH05565247,MR2922681}.
 
 ### Hall’s Marriage theorem
 
-Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem \cite{MR1581694} answers the question. The result has several equivalent formulations and almost infinitely many applications! References: \cite{MR3822066,MR33330}. 
+Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem \cite{MR1581694} answers the question. The result has several equivalent formulations and almost infinitely many applications! 
 
-% ### Derangements} 
-% A derangement is a permutation that has no fixed points. Everything about derangements is intriguing, even counting them! They are intimately connected with many other topics in mathematics, including number theory, game theory, enumerative combinatorics, and more. References: \cite{MR1181907,MR1997347,MR2868112}. 
-% Steen Elliot L Sodemann 
+##### References: \cite{MR3822066,MR33330}. 
 
 ### Permutation polynomials
 
 Let $K$ be a finite field (e.g., the field of integers modulo a prime number $p$). The project is about “permutation polynomials”.
-A permutation polynomial $f(X)\in K[X]$ such that the associated function $x\mapsto f(x)$ is bijective. In 1966, Carlitz presented a conjecture that motivated around 30 years of intensive research in permutation polynomials. Although there was an immediate success in some special cases, progress was made slowly over the next three decades until Carlitz’s conjecture was finally resolved in the affirmative by Fried, Guralnick, and Saxl in 1993. References: \cite{MR1541277,MR1542258,MR1429394}.
+A permutation polynomial $f(X)\in K[X]$ such that the associated function $x\mapsto f(x)$ is bijective. In 1966, Carlitz presented a conjecture that motivated around 30 years of intensive research in permutation polynomials. Although there was an immediate success in some special cases, progress was made slowly over the next three decades until Carlitz’s conjecture was finally resolved in the affirmative by Fried, Guralnick, and Saxl in 1993. 
+
+##### References: \cite{MR1541277,MR1542258,MR1429394}.
 
 ### Combinatorial Nullstellensatz
 
-An algebraic approach to combinatorial problems involves capturing some combinatorial structures using polynomials and arguing about their algebraic properties. This has led to simple solutions to several long-standing open problems.  One of the main tools in this context is Alon’s combinatorial NullStellensatz \cite{MR2760383}. Examples of problems that can be solved with Alon’s theorem are the Cauchy—Davenport theorem, and Kakeya’s conjecture for finite fields. References: \cite{MR3495952,MR2656313}. 
+An algebraic approach to combinatorial problems involves capturing some combinatorial structures using polynomials and arguing about their algebraic properties. This has led to simple solutions to several long-standing open problems.  One of the main tools in this context is Alon’s combinatorial NullStellensatz. Examples of problems that can be solved with Alon’s theorem are the Cauchy—Davenport theorem, and Kakeya’s conjecture for finite fields. 
+
+##### References: 
+ \cite{MR2760383}
+\cite{MR3495952,MR2656313}. 
 
 ### Cross products only in dimensions three and seven
 
-This astonishing claim follows quickly from a theorem of Hurwitz about the possibility of writing products of a sum of squares as a sum of squares. There is a proof of the theorem based on linear algebra \cite{MR1059056}. There is another proof that uses the representation theory of finite groups \cite{MR1449137}. 
+This astonishing claim follows quickly from a theorem of Hurwitz about the possibility of writing products of a sum of squares as a sum of squares. There is a proof of the theorem based on linear algebra \cite{MR1059056}. There is another proof that uses the representation theory of finite groups.
+
+##### References:
+\cite{MR1449137}. 
 
 ### Zsigmondy's theorem
 
 Zsigmondy’s theorem is a result that often proves useful in various number theory problems. 
 It proves the existence of primitive divisors of numbers of the form $a^n-b^n$. And while this is an interesting result in itself, it is also a powerful trick for solving mathematical 
-contest problems. ##### References:  \cite{MR3172590}. 
+contest problems. 
 
-### The Brauer--Fowler theorem
+##### References:  \cite{MR3172590}. 
 
-There are (at most) finitely many simple groups with a centralizer of involutions of order $n$. The theorem is the starting point for the classification of simple groups. References: \cite{MR74414,MR1864147}.
+### The Brauer—Fowler theorem
 
-### The Golod--Shafarevich theorem
+There are (at most) finitely many simple groups with a centralizer of involutions of order $n$. The theorem is the starting point for the classification of simple groups. 
 
-Golod and Shafarevich proved this significant result in 1964. It results in non-commutative algebra, which solves several challenging problems (e.g., the class field tower problem). In combinatorial group theory, finding a counterexample to the generalized Burnside problem is crucial: For each prime $p$, there is an infinite group $G$ generated by three elements in which each element has order a power of $p$. ##### References:  \cite{MR1449137}.
+###### References: \cite{MR74414,MR1864147}.
+
+### The Golod—Shafarevich theorem
+
+Golod and Shafarevich proved this significant result in 1964. It results in non-commutative algebra, which solves several challenging problems (e.g., the class field tower problem). In combinatorial group theory, finding a counterexample to the generalized Burnside problem is crucial: For each prime $p$, there is an infinite group $G$ generated by three elements in which each element has order a power of $p$. 
+
+##### References:  \cite{MR1449137}.
 
 ### Kaplansky's conjectures in group rings
 
@@ -105,12 +120,14 @@ Emmy Noether converted him to mathematics.)
 ##### References: 
 * \cite{MR3308118,MR401804}.
 
-### Graph theory and the Amitsur--Levitski theorem} 
+### Graph theory and the Amitsur—Levitski theorem} 
 
 The Amitsur—Levitzki theorem states that 
 $\sum_{\sigma\in\mathbb{S}_{2n}}\operatorname{sign}(\sigma)A_{\sigma(1)}\cdots A_{\sigma(2n)}=0$
 for all $A_1,\dots,A_{2n}\in M_n(\mathbb{C})$. 
-There is a beautiful graph-theoretic proof of this surprising result. References: \cite{MR149468,MR255439}.
+There is a beautiful graph-theoretic proof of this surprising result. 
+
+##### References: \cite{MR149468,MR255439}.
 
 ### Prime number generators and the FRACTRAN programming language
 
@@ -130,7 +147,7 @@ powerful. And Jones’ discovery was crucial in solving some old-and-famous
 #### References: 
 * \cite{MR2079925,MR1472978}. 
 
-### The (curious history of the) Schwartz--Zippel lemma
+### The (curious history of the) Schwartz—Zippel lemma
 
 This topic is motivated by [this](https://rjlipton.com/2009/11/30/the-curious-history-of-the-schwartz-zippel-lemma/) blog post. 
 The fundamental question of identity testing is: given a polynomial $P(X_{1}, \dots, X_{n})$ of degree $d$, 
@@ -228,8 +245,9 @@ Despite their significant applications, wreath products are often overlooked in 
 The goal of this project is to define wreath products, 
 provide examples, and use them to prove easily some nice theorems. 
 
-##### ##### References:  \cite{MR2674854}. 
-
+##### References:  
+* Ribes, Luis; Steinberg, Benjamin. A wreath product approach to classical subgroup theorems. Enseign. Math. (2) 56 (2010), no. 1-2, 49-72.
+  
 ### Semisimple rings
 
 Semisimple rings are rings where every module is a direct sum of simple modules. 
