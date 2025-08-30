@@ -2,5 +2,4 @@ theme: jekyll-theme-slate
 title: Leandro Vendramin
 description: Personal homepage
 show_downloads: false
-markdown: kramdown
 is_project_page: false
