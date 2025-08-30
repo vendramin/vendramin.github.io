@@ -14,7 +14,7 @@ Remarkably, the theorem can be generalized to any finite group!
 ##### References: 
 * Balister, Paul; Wheeler, Jeffrey Paul. The Erdős-Heilbronn problem for finite groups. Acta Arith. 140 (2009), no. 2, 105-118. 
 * Károlyi, Gyula. The Erdős-Heilbronn problem in abelian groups. Israel J. Math. 139 (2004), 349-359.
-* Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. {\rm xiv}+293 pp. ISBN: 0-387-94655-1.
+* Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. xiv+293 pp. ISBN: 0-387-94655-1.
   
 ### Chebyshev's curves and singular points 
 
@@ -60,7 +60,7 @@ The idea is to study an elementary theorem (yet compelling) proved not so long a
 
 ### Hall’s Marriage theorem
 
-Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem \cite{MR1581694} answers the question. The result has several equivalent formulations and almost infinitely many applications! 
+Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem answers the question. The result has several equivalent formulations and almost infinitely many applications! 
 
 ##### References: 
 * R. Diestel. Graph theory, volume 173 of Graduate Texts in Mathematics. Springer, Berlin, fifth edition, 2018. 
@@ -164,8 +164,12 @@ There is a beautiful graph-theoretic proof of this surprising result.
 <!--% 37789/221 905293/11063 1961/533 2279/481 57293/16211 2279/611 53/559 1961/403 53/299 13/53 1/13 6557/262727 6059/284321 67/4307 67/4661 6059/3599 59/83 1/59 14279/871933 131/9701 102037079/8633 14017/673819 7729/10057 128886839/8989 13493/757301 7729/11303 89/131 1/89 31133/2603 542249/19043 2483/22879 561731/20413 2483/23701 581213/20687 2483/24523 587707/21509 2483/24797 137/191 1/137 6215941/579 6730777/965 7232447/1351 7947497/2123 193/227 31373/193 23533/37327 5401639/458 229/233 21449/229 55973/24823 55973/25787 6705901/52961 7145447/55973 251/269 24119/251 72217/27913 283/73903 281/283 293/281 293/28997 293/271 9320827/58307 9831643/75301 293/313 28213/293 103459/32651 347/104807 347/88631 337/347 349/337 349/33919 349/317 12566447/68753 13307053/107143 349/367 33197/349 135199/38419 389/137497 389/119113 389/100729 383/389 397/383 397/39911 397/373 1203/140141 2005/142523 2807/123467 4411/104411 802/94883 397/401 193/397 1227/47477 2045/47959 2863/50851 4499/53743 241/409 1/241 1/239
 % https://codegolf.stackexchange.com/questions/28169/four-squares-together-->
 
-FRACTRAN is a Turing-complete programming language invented by the mathematician John Conway. A FRACTRAN program is an ordered list of positive rational numbers and an initial positive integer. In this fantastic language, Conway learned how to write an astonishing prime number generator. Surprisingly, this FRACTRAN program is just a list of 14 rational numbers! ##### References:  \cite{MR2560717,MR692171}. 
-<!--% Video: https://www.uctv.tv/shows/Fractran-A-Ridiculous-Logical-Language-with-John-Conway-23320-->
+FRACTRAN is a Turing-complete programming language invented by the mathematician John Conway. A FRACTRAN program is an ordered list of positive rational numbers and an initial positive integer. In this fantastic language, Conway learned how to write an astonishing prime number generator. Surprisingly, this FRACTRAN program is just a list of 14 rational numbers! There is also an interesting [video](https://www.uctv.tv/shows/Fractran-A-Ridiculous-Logical-Language-with-John-Conway-23320).
+
+##### References: 
+* J. H. Conway. FRACTRAN: a simple universal programming language for arithmetic. In The ultimate challenge:
+the 3x + 1 problem, pages 249–264. Amer. Math. Soc., Providence, RI, 2010.
+* R. K. Guy. Conway’s prime producing machine. Math. Mag., 56(1):26–33, 1983.
 
 ### The Jones polynomial
 
@@ -175,38 +179,48 @@ powerful. And Jones’ discovery was crucial in solving some old-and-famous
 200-years-old conjectures. 
 
 #### References: 
-* \cite{MR2079925,MR1472978}. 
-
+* C. C. Adams. The knot book. American Mathematical Society, Providence, RI, 2004. An elementary introduction to the mathematical theory
+of knots, Revised reprint of the 1994 original.
+* W. B. R. Lickorish. An introduction to knot theory, volume 175 of Graduate Texts in Mathematics. Springer-Verlag, New York, 1997.
+  
 ### The (curious history of the) Schwartz—Zippel lemma
 
 This topic is motivated by [this](https://rjlipton.com/2009/11/30/the-curious-history-of-the-schwartz-zippel-lemma/) blog post. 
 The fundamental question of identity testing is: given a polynomial $P(X_{1}, \dots, X_{n})$ of degree $d$, 
 when is this polynomial identically zero? An interesting approach 
-to this question appeared independently in the works of Schwartz \cite{MR594695}, 
-Zippel \cite{MR575692}, De Millo and Lipton \cite{MR497394}, 
-and others. According to \cite{MR1429394}, the first instance of this result 
+to this question appeared independently in the works of Schwartz, 
+Zippel, De Millo and Lipton, 
+and others. According to Lidl and Niederreiter, the first instance of this result 
 was proven by Ore in 1922. The lemma also appears in the 
 [PhD thesis](http://thesis.library.caltech.edu/4061/1/Erickson_de_1974.pdf) 
 of Daniel Erickson from 1974. This lemma now has several applications in pure mathematics.
 
 ##### References: 
-* 
+* R. Lidl and H. Niederreiter. Finite fields, volume 20 of Encyclopedia of Mathematics and its Applications. Cambridge University Press, Cambridge, second edition, 1997. With a foreword by P. M. Cohn.
+* R. J. Lipton and R. E. Miller. A batching method for coloring planar graphs. Inform. Process. Lett., 7(4):185–188, 1978.
+* J. T. Schwartz. Fast probabilistic algorithms for verification of polynomial identities. J. Assoc. Comput. Mach., 27(4):701–717, 1980.
+* R. Zippel. Probabilistic algorithms for sparse polynomials. In Symbolic and algebraic computation (EUROSAM ’79, Internat. Sympos., Mar-
+seille, 1979), volume 72 of Lecture Notes in Comput. Sci., pages 216–226. Springer, Berlin-New York, 1979.
 
 ### Herstein's theorem
 
 A very nice theorem proved by Herstein 
 in 1957 states that a finite group
 with an abelian maximal subgroup is always solvable. 
-The original proof uses Frobenius' groups \cite{MR93542}.
+The original proof uses Frobenius' groups. 
 Alternatively, one can present a more elementary proof
-using the transfer map; see \cite[Theorem 5.53]{MR2987234}.
+using the transfer map. 
+
+##### References:
+* I. N. Herstein. A remark on finite groups. Proc. Amer. Math. Soc., 9:255–257, 1958.
+* A. Machì. Groups, volume 58 of Unitext. Springer, Milan, 2012. An introduction to ideas and methods of the theory of groups.
 
 ### An example of a P.I.D. that is not a Euclidean domain
 
 It turns out that $R = \mathbb{Z}[ \frac12 (1 + \sqrt{−19})]$ is such an example. 
 To show that $R$ has the desired properties, 
 Campoli proves that the ring $R$ is, in his words, _almost euclidean_. It 
-turns out that a ring is almost euclidean if and only if it is a principal ideal domain \cite{MR1437418}. 
+turns out that a ring is almost euclidean if and only if it is a principal ideal domain. 
 
 ##### References: 
 * O. A. Cámpoli. A principal ideal domain that is not a Euclidean domain. Amer. Math. Monthly, 95(9):868–871, 1988.
@@ -257,7 +271,7 @@ extension over the rational numbers.
 The case of abelian groups is the perfect place to start studying this fascinating topic.
 
 ##### References: 
-* G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition [ MR1711577].
+* G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition.
 * J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
   
 ### Ore's theorem
