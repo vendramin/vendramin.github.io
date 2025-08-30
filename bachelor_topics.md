@@ -151,8 +151,8 @@ Emmy Noether converted him to mathematics.)
 ### Graph theory and the Amitsur—Levitski theorem
 
 The Amitsur—Levitzki theorem states that 
-$\sum_{\sigma\in\mathbb{S}_{2n}}\operatorname{sign}(\sigma)A_{\sigma(1)}\cdots A_{\sigma(2n)}=0$
-for all $A_1,\dots,A_{2n}\in M_n(\mathbb{C})$. 
+$\sum sign(\sigma)A_{\sigma(1)}\cdots A_{\sigma(2n)}=0$
+for all $A_1,\dots,A_{2n}\in M_n(\mathbb{C})$, where the sum is taken over all permutations of the symmetric group $\mathbb{S}_n$. 
 There is a beautiful graph-theoretic proof of this surprising result. 
 
 ##### References:
