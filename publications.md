@@ -7,8 +7,10 @@ Click [here](selected.md) for a selection of papers.
 * [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
-* [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy).
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
+
+#### Accepted
+* [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy). _J. Pure Appl. Algebra._
 
 #### Book
 * [Groups, Radical Rings, and the Yang-Baxter Equation](https://link.springer.com/book/9783032015235?srsltid=AfmBOoqemrL_uphdbNFYHigOPdVYlB8xzu53lYaPzzu-IWOD5v70UeJF) (with F. Cedó). Progress in Mathematics, volume 361. Winner of the 2025 Ferran Sunyer i Balaguer Prize. Birkhäuser. 
