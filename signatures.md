@@ -7,6 +7,7 @@ I decided to become an official collector.
 1.  Amberg, Bernhard; Franciosi, Silvana; de Giovanni, Francesco. [Products of groups](signatures/amberg.jpg). Oxford Mathematical Monographs. Oxford Science Publications. The Clarendon Press, Oxford University Press, New York, 1992. xii+220 pp.
 1.  Baker, Andrew. Matrix groups. [An introduction to Lie group theory](signatures/baker.jpg). Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2002. 
 1.  Ballester-Bolinches, Adolfo; Ezquerro, Luis M. [Classes of finite groups](signatures/adolfo.jpg). Mathematics and Its Applications, 584. Springer, Dordrecht, 2006. xii+385 pp.
+1.  Bourn, Dominique. [From groups to categorial algebra](signatures/bourn.jpg). Introduction to protomodular and Malʹtsev categories. Compact Textbooks in Mathematics. Birkhäuser/Springer, Cham, 2017. xii+106 pp. 
 1.  Brešar, Matej. [Introduction to noncommutative algebra](signatures/bresar.jpg). Universitext. Springer, Cham, 2014. xxxviii+199 pp.
 1.  Brown, Ken A.; Goodearl, Ken R. [Lectures on algebraic quantum groups](signatures/brown.jpg). Advanced Courses in Mathematics. CRM Barcelona. Birkhäuser Verlag, Basel, 2002. x+348 pp. 
 1.  Caenepeel, Stefaan; Militaru, Gigel; Zhu, Shenglin. [Frobenius and separable functors for generalized module categories and nonlinear equations](signatures/caenepeel.jpg). Lecture Notes in Mathematics, 1787. Springer-Verlag, Berlin, 2002. xiv+354 pp. 
@@ -36,4 +37,4 @@ I decided to become an official collector.
 1.  Serre, Jean-Pierre. [Linear representations of finite groups](signatures/serre.jpg). Translated from the second French edition by Leonard L. Scott. Graduate Texts in Mathematics, Vol. 42. Springer-Verlag, New York-Heidelberg, 1977. x+170 pp.
 1.  Walton, Chelsea. [Symmetries of algebras](signatures/walton.jpg). Vol. 1. 619 Wreath Publishing, Oklahoma City, OK, 2024. xvi+307 pp. 
 
-More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, Geoffrey Janssens, Kevin Piterman, Arne Van Antwerpen, and, of course, to everyone who kindly agreed to sign my books!
+More than once, friends and colleagues have taken my books to conferences to collect signatures on my behalf. For this, I extend my thanks to Ilaria Colazzo, Carsten Dietzel, Davide Ferri, Marino Gran, Geoffrey Janssens, Kevin Piterman, Arne Van Antwerpen, and, of course, to everyone who kindly agreed to sign my books!
