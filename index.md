@@ -16,6 +16,7 @@ Click [here](publications.md) for my list of publications.
 
 ##### Preprints
 
+* [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662) (with M. Damele, A. Loi, M. Mereb). 
 * [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
