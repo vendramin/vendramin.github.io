@@ -10,15 +10,13 @@ Click [here](selected.md) for a selection of papers.
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
-#### Accepted
-* [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy). _J. Pure Appl. Algebra._
-
 #### Book
 * [Groups, Radical Rings, and the Yang-Baxter Equation](https://link.springer.com/book/9783032015235?srsltid=AfmBOoqemrL_uphdbNFYHigOPdVYlB8xzu53lYaPzzu-IWOD5v70UeJF) (with F. Cedó). Progress in Mathematics, volume 361. Winner of the 2025 Ferran Sunyer i Balaguer Prize. Birkhäuser. 
 
 #### Published papers 
 
 ##### 2025
+* [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy). _J. Pure Appl. Algebra 229 (2025), no. 11, Paper No. 108085._
 * [Incremental SAT-Based Enumeration of Solutions to the Yang-Baxter Equation](https://arxiv.org/abs/2501.14363) (with B. Bogaerts, D. Van Caudenberg). In: Gurfinkel, A., Heule, M. (eds) _Tools and Algorithms for the Construction and Analysis of Systems. TACAS 2025. Lecture Notes in Computer Science, vol 15697. Springer, Cham._ Code and database [here](https://gitlab.kuleuven.be/krr/software/ybe-sms). 
 * [On computing finite index subgroups of PSL(2,Z)](http://arxiv.org/abs/2307.01826) (with N. Mayorga Uruburu, A. Pacetti). _J. Algebra Appl. 24 (2025), no. 9, Paper No. 2550215._ GAP code DOI: [10.5281/zenodo.8113634](https://doi.org/10.5281/zenodo.8113634).
 
