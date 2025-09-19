@@ -28,7 +28,6 @@
 
 ### Former
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Humboldt, 2021-2023).
-* [Marco Bonatto](https://marcobonatto87.wixsite.com/mb87) (2019-2020).
 
 #### Are you considering doing a postdoc at VUB? 
 
