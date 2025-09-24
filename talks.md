@@ -3,7 +3,7 @@
 #### 2025
 
 * An introduction to Nichols algebras. [Cohomology in Algebra, Geometry, Physcis and Statistics](https://www.math.cas.cz/index.php/events/seminar/16), Prague, Czech Republic.
-* A bridge between algebraic logic and the Yang-Baxter equation. [Panglobal Algebra and Logic Seminar](https://math.colorado.edu/algebralogic/), Colorado, USA.
+* A bridge between algebraic logic and the Yang-Baxter equation. [Panglobal Algebra and Logic Seminar](https://math.colorado.edu/algebralogic/), Colorado, USA. [Video](https://youtu.be/IwaFtKhWaGQ).
 * Nichols algebras over solvable groups. [Uppsala Algebra Seminar](https://www2.math.uu.se/~vomaz677/seminar.html), Uppsala, Sweden.
 * Nichols algebras over solvable groups. [XV Ukraine Algebra Conference](https://xvuac.mmf.com.ua), Lviv, Ukraine. [Video](https://www.youtube.com/watch?v=7BjPVqIWqVY).
 * What is a skew brace? [Weekly A3G Seminars: Advances in Applied, Algorithmic and Combinatorial Algebraic Geometry Seminars](https://sites.google.com/view/solvingpolynomialsystems/home), Leuven, Belgium.
