@@ -5,6 +5,7 @@ I decided to become an official collector.
 
 1.  Adams, Colin C. [The knot book. An elementary introduction to the mathematical theory of knots](signatures/adams.jpg). Revised reprint of the 1994 original. American Mathematical Society, Providence, RI, 2004. xiv+307 pp. 
 1.  Amberg, Bernhard; Franciosi, Silvana; de Giovanni, Francesco. [Products of groups](signatures/amberg.jpg). Oxford Mathematical Monographs. Oxford Science Publications. The Clarendon Press, Oxford University Press, New York, 1992. xii+220 pp.
+1.  Andruskiewitsch, Nicolás; Angiono, Iván; Heckenberger, István. [On finite GK-dimensional Nichols algebras over abelian groups](signatures/andruskiewitsch.jpg). Mem. Amer. Math. Soc. 271 (2021), no. 1329, ix+125 pp. 
 1.  Baker, Andrew. Matrix groups. [An introduction to Lie group theory](signatures/baker.jpg). Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2002. 
 1.  Ballester-Bolinches, Adolfo; Ezquerro, Luis M. [Classes of finite groups](signatures/adolfo.jpg). Mathematics and Its Applications, 584. Springer, Dordrecht, 2006. xii+385 pp.
 1.  Bourn, Dominique. [From groups to categorial algebra](signatures/bourn.jpg). Introduction to protomodular and Malʹtsev categories. Compact Textbooks in Mathematics. Birkhäuser/Springer, Cham, 2017. xii+106 pp. 
