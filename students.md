@@ -7,12 +7,12 @@
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io) (FWO).
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
-* [Senne Trappeniers](https://sites.google.com/view/sennetrappeniers/homepage) (FWO, cosupervised with [Arne Van Antwerpen](https://vanantwerpen.github.io)).
 * Santiago Ramírez.
 
 ### Former
-* Emiliano Acri, [thesis (in Spanish)](files/acri.pdf). Defended: 5/25.
-* Charlotte Verwimp (cosupervised with Eric Jespers), [thesis](files/verwimp.pdf). Defended: 5/22. 
+* Senne Trappeniers (cosupervised with Arne Van Antwerpen), [thesis](files/trappeniers.pdf). Defended: 9/2025.
+* Emiliano Acri, [thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
+* Charlotte Verwimp (cosupervised with Eric Jespers), [thesis](files/verwimp.pdf). Defended: 5/2022. 
 
 #### Do you want to do your Ph.D. at VUB? 
 * Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
