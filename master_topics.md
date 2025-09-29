@@ -2,7 +2,7 @@
 
 ### Formanek's theorem
 
-Let $K$ be a field and $G$ a group. The \emph{zero-divisor conjecture} for group rings 
+Let $K$ be a field and $G$ a group. The _zero-divisor conjecture_ for group rings 
 asserts that the group ring $K[G]$ is a domain if and only if $G$ is torsion-free.
 The conjecture has been proven affirmative for several classes of groups. 
 In 1973, Formanek proved it for supersolvable groups.  
