@@ -4,6 +4,7 @@ Are you looking for topics for your bachelor's thesis? [Here](bachelor_topics.md
 
 ## Theses supervised
 
+* Benjamin Pitts. Dedekind-finite rings. Cosupervised with Silvia Properzi. In progress. 
 * Steen Sodemann. Ore's conjecture. Cosupervised with Silvia Properzi. Defended: 6/2025.
 * Nina Seydoux. Combinatorial knot theory. Cosupervised with Kevin Piterman. Defended: 12/2024.
 * Steen Sodemann. Derangements. Defended: 12/2024.
