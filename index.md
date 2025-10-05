@@ -57,7 +57,6 @@ Click [here ](https://leandrovendramin.org/team/) for my research group at the V
 
 ## Links
 
-*   [AGTA: Advances in Group Theory and Applications](https://www.advgrouptheory.com/index.php).
 *   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 *   [Deutscher Akademischer Austauschdienst (DAAD)](https://www.daad.de/en/).
 
