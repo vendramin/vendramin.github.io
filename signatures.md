@@ -19,6 +19,8 @@ I decided to become an official collector.
 1.  Dehornoy, Patrick. [Braids and self-distributivity](signatures/dehornoy.jpg). Progress in Mathematics, 192. Birkhäuser Verlag, Basel, 2000. xx+623 pp.
 1.  Dekimpe, Karel. [Almost-Bieberbach groups: affine and polynomial structures](signatures/dekimpe.jpg). Lecture Notes in Mathematics, 1639. Springer-Verlag, Berlin, 1996. x+259 pp. 
 1.  Diaconis, Persi; Skyrms, Brian. [Ten great ideas about chance](signatures/diaconis.jpg). Princeton University Press, Princeton, NJ, 2018. x+255 pp.
+1.  Erdmann, Karin; Wildon, Mark J. [Introduction to Lie algebras](signatures/erdmann_lie.jpg). Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2006. x+251 pp.
+1.  Erdmann, Karin; Holm, Thorsten. [Algebras and representation theory](signatures/erdmann.jpg). Springer Undergraduate Mathematics Series. Springer, Cham, 2018. ix+298 pp.
 1.  Etingof, Pavel; Gelaki, Shlomo; Nikshych, Dmitri; Ostrik, Victor. [Tensor categories](signatures/nikshych.jpg). Mathematical Surveys and Monographs, 205. American Mathematical Society, Providence, RI, 2015. xvi+343 pp.
 1.  Facchini, Alberto. [Introduction to Ring and Module Theory](signatures/facchini.jpg). Libreria Progetto, 2013. 136 pp.
 1.  Godsil, Chris; Royle, Gordon. [Algebraic graph theory](signatures/godsil.jpg). Graduate Texts in Mathematics, 207. Springer-Verlag, New York, 2001. xx+439 pp. 
