@@ -10,9 +10,9 @@
 * Santiago Ramírez.
 
 ### Former
-* Senne Trappeniers (cosupervised with Arne Van Antwerpen), [thesis](files/trappeniers.pdf). Defended: 9/2025.
-* Emiliano Acri, [thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
-* Charlotte Verwimp (cosupervised with Eric Jespers), [thesis](files/verwimp.pdf). Defended: 5/2022. 
+* Senne Trappeniers (cosupervised with Arne Van Antwerpen). [Thesis](files/trappeniers.pdf). Defended: 9/2025.
+* Emiliano Acri. [Thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
+* Charlotte Verwimp (cosupervised with Eric Jespers). [Thesis](files/verwimp.pdf). Defended: 5/2022. 
 
 #### Do you want to do your Ph.D. at VUB? 
 * Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
