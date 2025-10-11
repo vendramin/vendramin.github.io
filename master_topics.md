@@ -30,8 +30,7 @@ such as polynomial identity rings and right Noetherian rings.
 ### The O’Nan-Scott theorem
 
 The result is one of the most influential theorems in the theory of permutation groups. 
-Briefly, the O’Nan-Scott theorem describes maximal subgroups of symmetric groups. Combined with the classification of finite simple groups, 
-there are so many applications that one cannot even count them! 
+Briefly, the O’Nan-Scott theorem describes maximal subgroups of symmetric groups. Combined with the classification of finite simple groups, there are so many applications that one cannot even count them! 
 
 ##### References: 
 * P. J. Cameron. Finite permutation groups and finite simple groups. Bull. London Math. Soc., 13(1):1–22, 1981.
@@ -45,8 +44,7 @@ there are so many applications that one cannot even count them!
 
 Counting conjectures play a fundamental role in modern representation theory of finite groups. 
 Among these conjectures, one stands out: McKay’s conjecture. 
-John McKay formulated the problem in 1972. 
-The conjecture is known to be true in several cases, including that of solvable groups. 
+John McKay formulated the problem in 1972. The conjecture is known to be true in several cases, including that of solvable groups. 
 
 ##### References: 
 * G. Navarro. Character theory and the McKay conjecture, volume 175 of Cambridge Studies in Advanced Mathematics. Cambridge University
@@ -57,13 +55,21 @@ Press, Cambridge, 2018.
 ### The inverse Galois problem
 
 The Inverse Galois Problem is a fundamental question in mathematics that seeks to determine whether every finite group can be realized as the Galois group of some field extension over the rational numbers.
-The problem was first explicitly stated by mathematicians in the late 19th and early 20th centuries, notably by David Hilbert. Despite significant progress and partial solutions, the problem 
-remains unsolved for many groups, making it a central topic in algebra and number theory.
+The problem was first explicitly stated by mathematicians in the late 19th and early 20th centuries, notably by David Hilbert. Despite significant progress and partial solutions, the problem remains unsolved for many groups, making it a central topic in algebra and number theory.
 
 ##### References: 
 * G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition.
-* J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With
-notes by Henri Darmon.
+* J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
+
+---
+### Fomin-Kirillov algebras
+
+In the 1990s, in an attempt to understand the cohomology ring of flag manifolds, Fomin and Kirillov introduced a family of quadratic algebras, now known as Fomin–Kirillov algebras. They formulated several conjectures regarding the structure and dimension of these algebras, which remain open to this day. 
+
+##### References
+
+* Fomin, Sergey; Kirillov, Anatol N. Quadratic algebras, Dunkl elements, and Schubert calculus. Advances in geometry, 147--182, Progr. Math., 172, Birkhäuser Boston, Boston, MA, 1999.
+* Milinski, Alexander; Schneider, Hans-Jürgen. Pointed indecomposable Hopf algebras over Coxeter groups. New trends in Hopf algebra theory (La Falda, 1999), 215--236, Contemp. Math., 267, Amer. Math. Soc., Providence, RI, 2000.
 
 ---
 
@@ -78,6 +84,7 @@ which are crucial in mathematics and physics.
 * P. Buser. A geometric proof of Bieberbach’s theorems on crystallographic groups. Enseign. Math. (2), 31(1-2):137–145, 1985.
 * L. S. Charlap. Bieberbach groups and flat manifolds. Universitext. Springer-Verlag, New York, 1986.
 
+---
 ### Frobenius groups and Thompson's theorem
 
 Suppose a finite group contains a subgroup satisfying specific properties. 
