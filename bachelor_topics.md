@@ -4,6 +4,10 @@ The Lie algebra
 ${\frak sl}_2({\Bbb C})$ of all matrices whose trace is zero 
 is a fundamental object in the study of Lie algebras and plays a crucial role in understanding more complicated structures. In addition to its significance in physics, it possesses a rich representation theory that serves as a blueprint for understanding more general cases.
 
+##### References:
+* Erdmann, Karin; Wildon, Mark J. Introduction to Lie algebras. Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2006.
+* Kassel, Christian. Quantum groups. Graduate Texts in Mathematics, 155. Springer-Verlag, New York, 1995. 
+
 ---
 
 ### The Cauchy—Davenport theorem in finite groups 
@@ -16,7 +20,7 @@ Remarkably, the theorem can be generalized to any finite group!
 ##### References: 
 * Balister, Paul; Wheeler, Jeffrey Paul. The Erdős-Heilbronn problem for finite groups. Acta Arith. 140 (2009), no. 2, 105-118. 
 * Károlyi, Gyula. The Erdős-Heilbronn problem in abelian groups. Israel J. Math. 139 (2004), 349-359.
-* Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. xiv+293 pp. ISBN: 0-387-94655-1.
+* Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. 
 
 ---
   
@@ -31,7 +35,7 @@ singularities. A concrete family of curves reaching that maximal
 number of singularities can be constructed using Chebyshev's polynomials. 
 
 ##### References: 
-* Fischer, Gerd. Plane algebraic curves. Translated from the 1994 German original by Leslie Kay. Student Mathematical Library, 15. American Mathematical Society, Providence, RI, 2001. xvi+229 pp. ISBN: 0-8218-2122-9.
+* Fischer, Gerd. Plane algebraic curves. Translated from the 1994 German original by Leslie Kay. Student Mathematical Library, 15. American Mathematical Society, Providence, RI, 2001. 
 * Pecker, Daniel. Simple constructions of algebraic curves with nodes. Compositio Math. 87 (1993), no. 1, 1-4.
 
 ---
@@ -41,21 +45,7 @@ number of singularities can be constructed using Chebyshev's polynomials.
 Given a normal subgroup $N$ of $G$, can we reconstruct the structure of $G$ from that of $N$ and $G/N$? In general, no. However, there is a crucial case where this problem has a beautiful solution: If the orders of $N$ and $G/N$ are coprime, then $G$ is a semidirect product of $N$ and $G/N$. This is the celebrated Schur—Zassenhaus theorem. The proof is also enjoyable. It reduces the problem to the case where $N$ is abelian; in that case, one uses some basic group cohomology!
 
 ##### References:  
-* Isaacs, Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008. xii+350 pp. ISBN: 978-0-8218-4344-4.
-
----
-
-### Dedekind-finite rings
-
-A ring is said to be a _Dedekind-finite_ ring if $ab = 1$ implies $ba = 1$ for any two elements $a$ and $b$. 
-Several classes of rings are known to be Dedekind-finite. 
-There is a beautiful theorem of Kaplansky that states that if an element of a 
-ring has more than one right inverse, then it in fact has infinitely many.
-
-##### References: 
-* T. Y. Lam. A first course in noncommutative rings, volume 131 of Graduate Texts in Mathematics. Springer-Verlag, New York, second edition, 2001.
-* T. Y. Lam. Exercises in modules and rings. Problem Books in Mathematics. Springer, New York, 2007.
-* I. Rosenholtz. A pigeonhole proof of Kaplansky’s theorem. Amer. Math. Monthly, 99(2):132–133, 1992.
+* Isaacs, Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008.
 
 ---
 
@@ -204,20 +194,6 @@ the 3x + 1 problem, pages 249–264. Amer. Math. Soc., Providence, RI, 2010.
 * R. K. Guy. Conway’s prime producing machine. Math. Mag., 56(1):26–33, 1983.
 
 ---
-
-### The Jones polynomial
-
-In 1984 Jones discovered a new invariant of knots. The invariant assigns to each oriented knot (or link)  
-a Laurent polynomial with integer coefficients. This invariant is surprisingly simple and extremely 
-powerful. And Jones’ discovery was crucial in solving some old-and-famous 
-200-years-old conjectures. 
-
-#### References: 
-* C. C. Adams. The knot book. American Mathematical Society, Providence, RI, 2004. An elementary introduction to the mathematical theory
-of knots, Revised reprint of the 1994 original.
-* W. B. R. Lickorish. An introduction to knot theory, volume 175 of Graduate Texts in Mathematics. Springer-Verlag, New York, 1997.
-
----
   
 ### The (curious history of the) Schwartz—Zippel lemma
 
@@ -319,8 +295,51 @@ The case of abelian groups is the perfect place to start studying this fascinati
 ##### References: 
 * G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition.
 * J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
+---
+### PSL(2,7) as a Galois group
+
+Is every finite group the group of symmetries of the roots of a rational polynomial? This is the statement of the _Inverse Galois Problem_. The goal of this project is to prove that the second non-abelian simple group, which has order 168 and is isomorphic to $\mathrm{PSL}(2,7)$, can be realized as a Galois group over the rationals.
+
+##### References: 
+* Lamacchia, Samuel E. Polynomials with Galois group ${\rm PSL}(2,\,7)$. Comm. Algebra 8 (1980), no. 10, 983-992.
+---
+### Hilbert's irreducibility theorem
+
+Roughly speaking, Hilbert’s irreducibility theorem says that if a rational polynomial $f(X, t)$ is irreducible when considered as a polynomial in $X$ over the field $\mathbb{Q}(t)$, then for infinitely many $t_0\in\mathbb Q$, the specialized polynomial $f(X, t_0)$ remains irreducible in $\mathbb{Q}[X]$. This theorem is one of the basic tools in attempts to realize finite groups as Galois groups over the rationals. 
+
+##### References:
+* Völklein, Helmut. Groups as Galois groups. An introduction. Cambridge Studies in Advanced Mathematics, 53. Cambridge University Press, Cambridge, 1996. 
+
+--- 
+### (Co)Algebras in (braided) categories 
+
+We are all familiar with the notion of an algebra. Some of you may also know what a coalgebra is (in fact, its definition is in some sense more natural than that of an algebra). Both of these structures live in the category of vector spaces. A natural question then arises: how do algebras and coalgebras look in other categories? This very useful generalization can indeed be made, and the situation becomes particularly interesting when the category in question is "braided" (that is, when it has a natural way to interchange objects).
+
+##### References:
+* Kassel, Christian. Quantum groups. Graduate Texts in Mathematics, 155. Springer-Verlag, New York, 1995. 
+* Montgomery. Hopf algebras and their actions on rings, volume 82 of CBMS Regional Conference Series in Mathematics. Published for the
+Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI, 1993.
+
+--- 
+### ADE everywhere 
+
+In his book on representation theory, Etingof writes: _If we needed to make contact with an alien civilization and show them how sophisticated our civilization is, perhaps showing them Dynkin diagrams would be the best choice_. What is a Dynkin diagram? These remarkable diagrams appear all over mathematics, even in the classification of the five Platonic solids! Why do they appear everywhere? Nobody truly knows, and that mystery is exactly what makes this such a fascinating bachelor project.
+
+##### References: 
+* Cameron, Peter J.; Dechant, Pierre-Philippe; He, Yang-Hui; McKay, John. ADE—patterns in mathematics. London Mathematical Society Student Texts, 109. Cambridge University Press, Cambridge, 2025.
+* Etingof, Pavel; Golberg, Oleg; Hensel, Sebastian; Liu, Tiankai; Schwendner, Alex; Vaintrob, Dmitry; Yudovina, Elena. Introduction to representation theory. With historical interludes by Slava Gerovitch. Student Mathematical Library, 59. American Mathematical Society, Providence, RI, 2011.
 
 ---
+### The Herzog–Schönheim conjecture 
+
+The Herzog–Schönheim conjecture is a beautiful and simple statement about how groups can be covered by cosets. Despite its elementary formulation, it has resisted proof for decades and remains open in general. What do these coverings reveal about the structure of groups? This bachelor project explores the conjecture, its known results, and the ideas connecting combinatorics and group theory.
+
+##### References: 
+* Ginosar, Yuval; Schnabel, Ofir. Prime factorization conditions providing multiplicities in coset partitions of groups. J. Comb. Number Theory 3 (2011), no. 2, 75--86.
+* Margolis, Leo; Schnabel, Ofir. The Herzog-Schönheim conjecture for small groups and harmonic subgroups. Beitr. Algebra Geom. 60 (2019), no. 3, 399-418.
+
+---
+
 ### Ore's theorem
 
 This important, though not very well-known, theorem states that any finite solvable group 
@@ -370,7 +389,15 @@ and algebraic topology.
 
 ##### References: 
 * S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
+---
+### History of group theory
 
+Group theory did not emerge as a fully formed theory; it evolved from the study of polynomial equations, geometry, and symmetry. From Évariste Galois’ revolutionary ideas to the classification of finite simple groups, its history is remarkably rich. How did these abstract concepts arise, and why did they transform mathematics forever? This bachelor project aims to explore the fascinating story behind the development of group theory.
+
+##### References: 
+* Burns, Josephine E. The Foundation Period in the History of Group Theory. Amer. Math. Monthly 20 (1913), no. 5, 141-148. 
+* Miller, G. A. On the History of Several Fundamental Theorems in the Theory of Groups of Finite Order. Amer. Math. Monthly 8 (1901), no. 11, 213--216.
+* Wussing, Hans. The genesis of the abstract group concept. A contribution to the history of the origin of abstract group theory. Translated from the German by Abe Shenitzer and Hardy Grant. MIT Press, Cambridge, MA, 1984.
 ---
 ### What is a pointed Hopf algebra?
 
