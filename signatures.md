@@ -24,7 +24,8 @@ I decided to become an official collector.
 1.  Etingof, Pavel; Gelaki, Shlomo; Nikshych, Dmitri; Ostrik, Victor. [Tensor categories](signatures/nikshych.jpg). Mathematical Surveys and Monographs, 205. American Mathematical Society, Providence, RI, 2015. xvi+343 pp.
 1.  Facchini, Alberto. [Introduction to Ring and Module Theory](signatures/facchini.jpg). Libreria Progetto, 2013. 136 pp.
 1.  Godsil, Chris; Royle, Gordon. [Algebraic graph theory](signatures/godsil.jpg). Graduate Texts in Mathematics, 207. Springer-Verlag, New York, 2001. xx+439 pp. 
-1.  Harris, Joe. [Algebraic geometry. A first course](signatures/harris.jpg). Corrected reprint of the 1992 original. Graduate Texts in Mathematics, 133. Springer-Verlag, New York, 1995. xx+328 pp. 
+1.  Harris, Joe. [Algebraic geometry. A first course](signatures/harris.jpg). Corrected reprint of the 1992 original. Graduate Texts in Mathematics, 133. Springer-Verlag, New York, 1995. xx+328 pp.
+1.  Heckenberger, István; Schneider, Hans-Jürgen. [Hopf algebras and root systems](signatures/heckenberger.jpg). Mathematical Surveys and Monographs, 247. American Mathematical Society, Providence, RI, 2020. xix+582 pp.
 1.  Holt, Derek F.; Eick, Bettina; O'Brien, Eamonn A. [Handbook of computational group theory](signatures/holt.jpg). Discrete Mathematics and its Applications (Boca Raton). Chapman & Hall/CRC, Boca Raton, FL, 2005. xvi+514 pp. 
 1.  Jespers, Eric; del Río, Ángel. [Group ring groups. Vol. 1](signatures/jespers1.jpg). Orders and generic constructions of units. De Gruyter Graduate. De Gruyter, Berlin, 2016. xii+447 pp.
 1.  Jespers, Eric; del Río, Ángel. [Group ring groups. Vol. 2](signatures/jespers2.jpg). Structure theorems of unit groups. De Gruyter Graduate. De Gruyter, Berlin, 2016. x+217 pp.
