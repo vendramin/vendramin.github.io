@@ -9,7 +9,7 @@
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
 
 ### Former
-* Santiago Ramírez. [Thesis](files/ramirez.pdf). Defended: 10/2025. 
+* Santiago Ramírez. [Thesis (in Spanish)](files/ramirez.pdf). Defended: 10/2025. 
 * Senne Trappeniers (cosupervised with Arne Van Antwerpen). [Thesis](files/trappeniers.pdf). Defended: 9/2025.
 * Emiliano Acri. [Thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
 * Charlotte Verwimp (cosupervised with Eric Jespers). [Thesis](files/verwimp.pdf). Defended: 5/2022. 
