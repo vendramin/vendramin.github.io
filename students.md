@@ -7,9 +7,9 @@
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io) (FWO).
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
-* Santiago Ramírez.
 
 ### Former
+* Santiago Ramírez. [Thesis](files/ramirez.pdf). Defended: 10/2025. 
 * Senne Trappeniers (cosupervised with Arne Van Antwerpen). [Thesis](files/trappeniers.pdf). Defended: 9/2025.
 * Emiliano Acri. [Thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
 * Charlotte Verwimp (cosupervised with Eric Jespers). [Thesis](files/verwimp.pdf). Defended: 5/2022. 
@@ -22,7 +22,7 @@
 
 ### Current
 * Meijun Liu (CSC, from 2025).
-* Magdalena Wiertel (NAWA Bekker, from 2025).
+* [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/) (NAWA Bekker, from 2025).
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0) (from 2025). 
 * [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (FWO, from 2023).
 
