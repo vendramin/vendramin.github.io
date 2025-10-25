@@ -2,7 +2,7 @@
 
 #### 2025
 
-* An introduction to Nichols algebras. [Cohomology in Algebra, Geometry, Physcis and Statistics](https://www.math.cas.cz/index.php/events/seminar/16), Prague, Czech Republic.
+* An introduction to Nichols algebras. [Cohomology in Algebra, Geometry, Physcis and Statistics](https://www.math.cas.cz/index.php/events/seminar/16), Prague, Czech Republic. [Video](https://youtu.be/1JJ1kZDMro4).
 * A bridge between algebraic logic and the Yang-Baxter equation. [Panglobal Algebra and Logic Seminar](https://math.colorado.edu/algebralogic/), Colorado, USA. [Video](https://youtu.be/IwaFtKhWaGQ).
 * Nichols algebras over solvable groups. [Uppsala Algebra Seminar](https://www2.math.uu.se/~vomaz677/seminar.html), Uppsala, Sweden.
 * Nichols algebras over solvable groups. [XV Ukraine Algebra Conference](https://xvuac.mmf.com.ua), Lviv, Ukraine. [Video](https://www.youtube.com/watch?v=7BjPVqIWqVY).
