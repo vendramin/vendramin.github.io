@@ -168,6 +168,15 @@ Emmy Noether converted him to mathematics.)
 
 ---
 
+### Character theory of finite groups
+
+Character theory of finite groups is a super fun topic, but we don’t have enough time to cover it properly in the bachelor course _Ring and Module Theory_. The plan is to study the basics of character theory and compute character tables of some finite groups. It's similar to playing Sudoku, only much better!
+
+##### References: 
+* Isaacs, I. Martin. Character theory of finite groups. AMS Chelsea Publishing, Providence, RI, 2006.
+
+---
+
 ### Graph theory and the Amitsur—Levitski theorem
 
 The Amitsur—Levitzki theorem states that 
@@ -264,8 +273,7 @@ puzzle: which numbers are the sum of three squares?
 The answer is cute and the geometric proof is even better! 
 
 ##### References: 
-* J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated
-from the French
+* J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated from the French
 
 ---
 
@@ -293,15 +301,19 @@ extension over the rational numbers.
 The case of abelian groups is the perfect place to start studying this fascinating topic.
 
 ##### References: 
+
 * G. Malle and B. H. Matzat. Inverse Galois theory. Springer Monographs in Mathematics. Springer, Berlin, 2018. Second edition.
 * J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
+  
 ---
+
 ### PSL(2,7) as a Galois group
 
 Is every finite group the group of symmetries of the roots of a rational polynomial? This is the statement of the _Inverse Galois Problem_. The goal of this project is to prove that the second non-abelian simple group, which has order 168 and is isomorphic to $\mathrm{PSL}(2,7)$, can be realized as a Galois group over the rationals.
 
 ##### References: 
 * Lamacchia, Samuel E. Polynomials with Galois group ${\rm PSL}(2,\,7)$. Comm. Algebra 8 (1980), no. 10, 983-992.
+  
 ---
 ### Hilbert's irreducibility theorem
 
