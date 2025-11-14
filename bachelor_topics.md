@@ -174,6 +174,7 @@ Character theory of finite groups is a super fun topic, but we don’t have enou
 
 ##### References: 
 * Isaacs, I. Martin. Character theory of finite groups. AMS Chelsea Publishing, Providence, RI, 2006.
+* G. James and M. Liebeck. Representations and characters of groups. Cambridge University Press, New York, second edition, 2001.
 
 ---
 
@@ -248,6 +249,7 @@ Campoli proves that the ring $R$ is, in his words, _almost euclidean_. It
 turns out that a ring is almost euclidean if and only if it is a principal ideal domain. 
 
 ##### References: 
+
 * O. A. Cámpoli. A principal ideal domain that is not a Euclidean domain. Amer. Math. Monthly, 95(9):868–871, 1988.
 * J. Greene. Principal ideal domains are almost Euclidean. Amer. Math. Monthly, 104(2):154–156, 1997.
 * A. Lemos and P. H. A. de Oliveira. Suggested corrections for “A principal ideal domain that is not a Euclidean domain”. Amer. Math. Monthly, 125(5):425, 2018.
@@ -262,6 +264,7 @@ there are infinitely many primes that are congruent to a
 modulo $d$. 
 
 ##### References:  
+
 *  J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated from the French
 
 ---
@@ -289,6 +292,7 @@ ideas similar to those we studied in
 the bachelor course _Ring and Module Theory_. 
 
 ##### References: 
+
 * I. Niven, H. S. Zuckerman, and H. L. Montgomery. An introduction to the theory of numbers. John Wiley & Sons, Inc., New York, fifth edition, 1991.
 * J. Stillwell. Elements of number theory. Undergraduate Texts in Mathematics. Springer-Verlag, New York, 2003.
 
@@ -312,6 +316,7 @@ The case of abelian groups is the perfect place to start studying this fascinati
 Is every finite group the group of symmetries of the roots of a rational polynomial? This is the statement of the _Inverse Galois Problem_. The goal of this project is to prove that the second non-abelian simple group, which has order 168 and is isomorphic to $\mathrm{PSL}(2,7)$, can be realized as a Galois group over the rationals.
 
 ##### References: 
+
 * Lamacchia, Samuel E. Polynomials with Galois group ${\rm PSL}(2,\,7)$. Comm. Algebra 8 (1980), no. 10, 983-992.
   
 ---
@@ -320,6 +325,7 @@ Is every finite group the group of symmetries of the roots of a rational polynom
 Roughly speaking, Hilbert’s irreducibility theorem says that if a rational polynomial $f(X, t)$ is irreducible when considered as a polynomial in $X$ over the field $\mathbb{Q}(t)$, then for infinitely many $t_0\in\mathbb Q$, the specialized polynomial $f(X, t_0)$ remains irreducible in $\mathbb{Q}[X]$. This theorem is one of the basic tools in attempts to realize finite groups as Galois groups over the rationals. 
 
 ##### References:
+
 * Völklein, Helmut. Groups as Galois groups. An introduction. Cambridge Studies in Advanced Mathematics, 53. Cambridge University Press, Cambridge, 1996. 
 
 --- 
@@ -328,6 +334,7 @@ Roughly speaking, Hilbert’s irreducibility theorem says that if a rational pol
 We are all familiar with the notion of an algebra. Some of you may also know what a coalgebra is (in fact, its definition is in some sense more natural than that of an algebra). Both of these structures live in the category of vector spaces. A natural question then arises: how do algebras and coalgebras look in other categories? This very useful generalization can indeed be made, and the situation becomes particularly interesting when the category in question is "braided" (that is, when it has a natural way to interchange objects).
 
 ##### References:
+
 * Kassel, Christian. Quantum groups. Graduate Texts in Mathematics, 155. Springer-Verlag, New York, 1995. 
 * Montgomery. Hopf algebras and their actions on rings, volume 82 of CBMS Regional Conference Series in Mathematics. Published for the
 Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI, 1993.
@@ -347,6 +354,7 @@ In his book on representation theory, Etingof writes: _If we needed to make cont
 The Herzog–Schönheim conjecture is a beautiful and simple statement about how groups can be covered by cosets. Despite its elementary formulation, it has resisted proof for decades and remains open in general. What do these coverings reveal about the structure of groups? This bachelor project explores the conjecture, its known results, and the ideas connecting combinatorics and group theory.
 
 ##### References: 
+
 * Ginosar, Yuval; Schnabel, Ofir. Prime factorization conditions providing multiplicities in coset partitions of groups. J. Comb. Number Theory 3 (2011), no. 2, 75--86.
 * Margolis, Leo; Schnabel, Ofir. The Herzog-Schönheim conjecture for small groups and harmonic subgroups. Beitr. Algebra Geom. 60 (2019), no. 3, 399-418.
 
@@ -374,6 +382,7 @@ The goal of this project is to define wreath products,
 provide examples, and use them to prove easily some nice theorems. 
 
 ##### References:  
+
 * Ribes, Luis; Steinberg, Benjamin. A wreath product approach to classical subgroup theorems. Enseign. Math. (2) 56 (2010), no. 1-2, 49-72.
 
 ---
@@ -387,6 +396,7 @@ Examples include group algebras over fields of
 characteristic zero. 
 
 ##### References:  
+
 * T. W. Hungerford. Algebra, volume 73 of Graduate Texts in Mathematics. Springer-Verlag, New York-Berlin, 1980. Reprint of the 1974 original.
 * S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
 
@@ -400,16 +410,20 @@ free modules and essential for homological algebra, representation theory
 and algebraic topology. 
 
 ##### References: 
+
 * S. Lang. Algebra, volume 211 of Graduate Texts in Mathematics. Springer-Verlag, New York, third edition, 2002.
+
 ---
 ### History of group theory
 
 Group theory did not emerge as a fully formed theory; it evolved from the study of polynomial equations, geometry, and symmetry. From Évariste Galois’ revolutionary ideas to the classification of finite simple groups, its history is remarkably rich. How did these abstract concepts arise, and why did they transform mathematics forever? This bachelor project aims to explore the fascinating story behind the development of group theory.
 
 ##### References: 
+
 * Burns, Josephine E. The Foundation Period in the History of Group Theory. Amer. Math. Monthly 20 (1913), no. 5, 141-148. 
 * Miller, G. A. On the History of Several Fundamental Theorems in the Theory of Groups of Finite Order. Amer. Math. Monthly 8 (1901), no. 11, 213--216.
 * Wussing, Hans. The genesis of the abstract group concept. A contribution to the history of the origin of abstract group theory. Translated from the German by Abe Shenitzer and Hardy Grant. MIT Press, Cambridge, MA, 1984.
+
 ---
 ### What is a pointed Hopf algebra?
 
