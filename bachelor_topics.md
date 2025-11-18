@@ -23,6 +23,25 @@ Remarkably, the theorem can be generalized to any finite group!
 * Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. 
 
 ---
+
+### Finite Nilpotent groups
+ 
+In group theory, we learned that every finite abelian group decomposes
+as a direct product of its Sylow subgroups. Which other finite groups
+satisfy this property? Spoiler alert: precisely the finite nilpotent
+groups. Although their definition is somewhat technical, they
+generalize abelian groups in many ways.
+This project studies several equivalent characterizations of finite
+nilpotent groups and includes explicit computations for small
+examples.
+
+##### References:
+
+* Robinson, Derek J. S. A Course in the Theory of Groups. 2nd ed. Graduate Texts in Mathematics, 80. Springer-Verlag, New York, 1996.
+* Dummit, David S.; Foote, Richard M. Abstract Algebra. 3rd ed. John Wiley & Sons, Hoboken, NJ, 2004.
+* Milne, J. S. Group Theory. Available [here](https://www.jmilne.org/math/CourseNotes/GT.pdf).
+ 
+---
   
 ### Chebyshev's curves and singular points 
 
