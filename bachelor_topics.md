@@ -174,8 +174,8 @@ original.
 
 ### Far beyond the Cayley—Hamilton theorem
 
-The Cayley--Hamilton theorem states that every square matrix satisfies its characteristic equation. 
-The Amitsur--Levitzki theorem deals with products of $2k$ matrices of size $k^2$. 
+The Cayley-Hamilton theorem states that every square matrix satisfies its characteristic equation. 
+The Amitsur-Levitzki theorem deals with products of $2k$ matrices of size $k^2$. 
 The theorem is the starting point of a rich theory of rings with polynomial identities. 
 (Interesting note: As a young man, Levitzki went to Göttingen to study chemistry, 
 but attending a lecture by 
@@ -192,7 +192,7 @@ Emmy Noether converted him to mathematics.)
 Character theory of finite groups is a super fun topic, but we don’t have enough time to cover it properly in the bachelor course _Ring and Module Theory_. The plan is to study the basics of character theory and compute character tables of some finite groups. It's similar to playing Sudoku, only much better!
 
 ##### References: 
-* Isaacs, I. Martin. Character theory of finite groups. AMS Chelsea Publishing, Providence, RI, 2006.
+* M. Isaacs, Character theory of finite groups. AMS Chelsea Publishing, Providence, RI, 2006.
 * G. James and M. Liebeck. Representations and characters of groups. Cambridge University Press, New York, second edition, 2001.
 
 ---
@@ -451,9 +451,11 @@ algebras of Lie algebras, and many quantum groups
 like quantized enveloping algebras. 
 
 ##### References:  
+
 * S. Montgomery. Hopf algebras and their actions on rings, volume 82 of CBMS Regional Conference Series in Mathematics. Published for the
 Conference Board of the Mathematical Sciences, Washington, DC; by the American Mathematical Society, Providence, RI, 1993.
 * D. E. Radford. Hopf algebras, volume 49 of Series on Knots and Everything. World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ, 2012.
 
-
+---
+Feeling nostalgic? You can find the previous bachelor topics [here](old.md).
 
