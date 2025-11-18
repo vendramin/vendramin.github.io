@@ -32,6 +32,7 @@ A derangement is a permutation that has no fixed points. Everything about dearra
 ##### References: 
 
 * R. Stanley. Enumerative combinatorics. Volume 1. Second edition. Cambridge Studies in Advanced Mathematics, 49. Cambridge University Press, Cambridge, 2012. xiv+626 pp.
+  
 ---
 
 ### Commuting probability in finite (simple) groups
