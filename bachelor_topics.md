@@ -5,6 +5,7 @@ ${\frak sl}_2({\Bbb C})$ of all matrices whose trace is zero
 is a fundamental object in the study of Lie algebras and plays a crucial role in understanding more complicated structures. In addition to its significance in physics, it possesses a rich representation theory that serves as a blueprint for understanding more general cases.
 
 ##### References:
+
 * Erdmann, Karin; Wildon, Mark J. Introduction to Lie algebras. Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2006.
 * Kassel, Christian. Quantum groups. Graduate Texts in Mathematics, 155. Springer-Verlag, New York, 1995. 
 
@@ -18,6 +19,7 @@ This sharp bound is known as the Cauchy—Davenport theorem.
 Remarkably, the theorem can be generalized to any finite group! 
 
 ##### References: 
+
 * Balister, Paul; Wheeler, Jeffrey Paul. The Erdős-Heilbronn problem for finite groups. Acta Arith. 140 (2009), no. 2, 105-118. 
 * Károlyi, Gyula. The Erdős-Heilbronn problem in abelian groups. Israel J. Math. 139 (2004), 349-359.
 * Nathanson, Melvyn B. Additive number theory. Inverse problems and the geometry of sumsets. Graduate Texts in Mathematics, 165. Springer-Verlag, New York, 1996. 
@@ -54,6 +56,7 @@ singularities. A concrete family of curves reaching that maximal
 number of singularities can be constructed using Chebyshev's polynomials. 
 
 ##### References: 
+
 * Fischer, Gerd. Plane algebraic curves. Translated from the 1994 German original by Leslie Kay. Student Mathematical Library, 15. American Mathematical Society, Providence, RI, 2001. 
 * Pecker, Daniel. Simple constructions of algebraic curves with nodes. Compositio Math. 87 (1993), no. 1, 1-4.
 
@@ -64,6 +67,7 @@ number of singularities can be constructed using Chebyshev's polynomials.
 Given a normal subgroup $N$ of $G$, can we reconstruct the structure of $G$ from that of $N$ and $G/N$? In general, no. However, there is a crucial case where this problem has a beautiful solution: If the orders of $N$ and $G/N$ are coprime, then $G$ is a semidirect product of $N$ and $G/N$. This is the celebrated Schur—Zassenhaus theorem. The proof is also enjoyable. It reduces the problem to the case where $N$ is abelian; in that case, one uses some basic group cohomology!
 
 ##### References:  
+
 * Isaacs, Martin. Finite group theory. Graduate Studies in Mathematics, 92. American Mathematical Society, Providence, RI, 2008.
 
 ---
@@ -73,6 +77,7 @@ Given a normal subgroup $N$ of $G$, can we reconstruct the structure of $G$ from
 The idea is to study an elementary theorem (yet compelling) proved not so long ago by Deaconescu and Walls about divisibility relations among the set of orbits of actions by group automorphisms. The theorem is very elementary and has friendly and highly non-trivial applications. 
 
 ##### References: 
+
 * M. Deaconescu and G. L. Walls. On orbits of automorphism groups. Sib. Mat. Zh., 46(3):533–537, 2005.
 * M. Deaconescu and G. L. Walls. On orbits of automorphism groups. II. Arch. Math., 92(3):200–205, 2009.
 * M. Isaacs. Group actions and orbits. Arch. Math. (Basel), 98(5):399–401, 2012.
@@ -84,6 +89,7 @@ The idea is to study an elementary theorem (yet compelling) proved not so long a
 Suppose that $n$ persons apply to $m$ jobs. Assume that each person applied to some jobs. When do we know that every person will get a job? Hall’s theorem answers the question. The result has several equivalent formulations and almost infinitely many applications! 
 
 ##### References: 
+
 * R. Diestel. Graph theory, volume 173 of Graduate Texts in Mathematics. Springer, Berlin, fifth edition, 2018. 
   P. Hall. On Representatives of Subsets. J. London Math. Soc., 10(1):26–30, 1935.
 * P. R. Halmos and H. E. Vaughan. The marriage problem. Amer. J. Math., 72:214–215, 1950.
@@ -96,6 +102,7 @@ Let $K$ be a finite field (e.g., the field of integers modulo a prime number $p$
 A permutation polynomial $f(X)\in K[X]$ such that the associated function $x\mapsto f(x)$ is bijective. In 1966, Carlitz presented a conjecture that motivated around 30 years of intensive research in permutation polynomials. Although there was an immediate success in some special cases, progress was made slowly over the next three decades until Carlitz’s conjecture was finally resolved in the affirmative by Fried, Guralnick, and Saxl in 1993. 
 
 ##### References: 
+
 * R. Lidl and G. L. Mullen. Unsolved Problems: When Does a Polynomial Over a Finite Field Permute the Elements of the Field? Amer. Math.
 Monthly, 95(3):243–246, 1988.
 * R. Lidl and G. L. Mullen. Unsolved Problems: When Does a Polynomial over a Finite Field Permute the Elements of the Field?, II. Amer. Math. Monthly, 100(1):71–74, 1993.
@@ -108,6 +115,7 @@ Monthly, 95(3):243–246, 1988.
 An algebraic approach to combinatorial problems involves capturing some combinatorial structures using polynomials and arguing about their algebraic properties. This has led to simple solutions to several long-standing open problems.  One of the main tools in this context is Alon’s combinatorial NullStellensatz. Examples of problems that can be solved with Alon’s theorem are the Cauchy—Davenport theorem, and Kakeya’s conjecture for finite fields. 
 
 ##### References: 
+
 * L. Guth. Polynomial methods in combinatorics, volume 64 of University Lecture Series. American Mathematical Society, Providence, RI, 2016.
 * J. Matoušek. Thirty-three miniatures, volume 53 of Student Mathematical Library. American Mathematical Society, Providence, RI, 2010.
 Mathematical and algorithmic applications of linear algebra.
@@ -120,6 +128,7 @@ Mathematical and algorithmic applications of linear algebra.
 This astonishing claim follows quickly from a theorem of Hurwitz about the possibility of writing products of a sum of squares as a sum of squares. There is a proof of the theorem based on linear algebra. There is another proof that uses the representation theory of finite groups.
 
 ##### References:
+
 * M. L. Curtis. Abstract linear algebra. Universitext. Springer-Verlag, New York, 1990. With revisions by Paul Place, With a preface by John
 Hempel.
 * I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
@@ -134,6 +143,7 @@ It proves the existence of primitive divisors of numbers of the form $a^n-b^n$. 
 contest problems. 
 
 ##### References:  
+
 * M. Teleuca. Zsigmondy’s theorem and its applications in contest problems. Internat. J. Math. Ed. Sci. Tech., 44(3):443–451, 2013.
 
 ---
@@ -143,6 +153,7 @@ contest problems.
 There are (at most) finitely many simple groups with a centralizer of involutions of order $n$. The theorem is the starting point for the classification of simple groups. 
 
 ###### References: 
+
 * R. Brauer and K. A. Fowler. On groups of even order. Ann. of Math. (2), 62:565–583, 1955.
 * G. James and M. Liebeck. Representations and characters of groups. Cambridge University Press, New York, second edition, 2001.
 
@@ -153,6 +164,7 @@ There are (at most) finitely many simple groups with a centralizer of involution
 Golod and Shafarevich proved this significant result in 1964. It results in non-commutative algebra, which solves several challenging problems (e.g., the class field tower problem). In combinatorial group theory, finding a counterexample to the generalized Burnside problem is crucial: For each prime $p$, there is an infinite group $G$ generated by three elements in which each element has order a power of $p$. 
 
 ##### References:  
+
 * I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
 DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
 
@@ -165,6 +177,7 @@ Recently, Giles Gardam found a two-page counterexample to the celebrated conject
 This is just the story’s beginning: several other open problems exist! 
 
 ##### References:
+
 * G. Gardam. A counterexample to the unit conjecture for group rings. Ann. of Math. (2), 194(3):967–979, 2021.
 * I. Kaplansky. Problems in the theory of rings. In Report of a conference on linear algebras, June, 1956, pages 1–3. Nat. Acad. Sci., Washington, DC, 1957. Publ. 502.
 * D. S. Passman. The algebraic structure of group rings. Robert E. Krieger Publishing Co., Inc., Melbourne, FL, 1985. Reprint of the 1977
@@ -182,6 +195,7 @@ but attending a lecture by
 Emmy Noether converted him to mathematics.) 
 
 ##### References: 
+
 * M. Brešar. Introduction to noncommutative algebra. Universitext. Springer, Cham, 2014.
 * S. Rosset. A new proof of the Amitsur-Levitski identity. Israel J. Math., 23(2):187–188, 1976.
 
@@ -192,6 +206,7 @@ Emmy Noether converted him to mathematics.)
 Character theory of finite groups is a super fun topic, but we don’t have enough time to cover it properly in the bachelor course _Ring and Module Theory_. The plan is to study the basics of character theory and compute character tables of some finite groups. It's similar to playing Sudoku, only much better!
 
 ##### References: 
+
 * M. Isaacs, Character theory of finite groups. AMS Chelsea Publishing, Providence, RI, 2006.
 * G. James and M. Liebeck. Representations and characters of groups. Cambridge University Press, New York, second edition, 2001.
 
@@ -205,6 +220,7 @@ for all $A_1,\dots,A_{2n}\in M_n(\mathbb{C})$, where the sum is taken over all p
 There is a beautiful graph-theoretic proof of this surprising result. 
 
 ##### References:
+
 * R. G. Swan. An application of graph theory to algebra. Proc. Amer. Math. Soc., 14:367–373, 1963.
 * R. G. Swan. Correction to “An application of graph theory to algebra”. Proc. Amer. Math. Soc., 21:379–380, 1969.
 
@@ -218,6 +234,7 @@ There is a beautiful graph-theoretic proof of this surprising result.
 FRACTRAN is a Turing-complete programming language invented by the mathematician John Conway. A FRACTRAN program is an ordered list of positive rational numbers and an initial positive integer. In this fantastic language, Conway learned how to write an astonishing prime number generator. Surprisingly, this FRACTRAN program is just a list of 14 rational numbers! There is also an interesting [video](https://www.uctv.tv/shows/Fractran-A-Ridiculous-Logical-Language-with-John-Conway-23320).
 
 ##### References: 
+
 * J. H. Conway. FRACTRAN: a simple universal programming language for arithmetic. In The ultimate challenge:
 the 3x + 1 problem, pages 249–264. Amer. Math. Soc., Providence, RI, 2010.
 * R. K. Guy. Conway’s prime producing machine. Math. Mag., 56(1):26–33, 1983.
@@ -237,6 +254,7 @@ was proven by Ore in 1922. The lemma also appears in the
 of Daniel Erickson from 1974. This lemma now has several applications in pure mathematics.
 
 ##### References: 
+
 * R. Lidl and H. Niederreiter. Finite fields, volume 20 of Encyclopedia of Mathematics and its Applications. Cambridge University Press, Cambridge, second edition, 1997. With a foreword by P. M. Cohn.
 * R. J. Lipton and R. E. Miller. A batching method for coloring planar graphs. Inform. Process. Lett., 7(4):185–188, 1978.
 * J. T. Schwartz. Fast probabilistic algorithms for verification of polynomial identities. J. Assoc. Comput. Mach., 27(4):701–717, 1980.
@@ -255,6 +273,7 @@ Alternatively, one can present a more elementary proof
 using the transfer map. 
 
 ##### References:
+
 * I. N. Herstein. A remark on finite groups. Proc. Amer. Math. Soc., 9:255–257, 1958.
 * A. Machì. Groups, volume 58 of Unitext. Springer, Milan, 2012. An introduction to ideas and methods of the theory of groups.
 
@@ -295,6 +314,7 @@ puzzle: which numbers are the sum of three squares?
 The answer is cute and the geometric proof is even better! 
 
 ##### References: 
+
 * J.-P. Serre. A course in arithmetic, volume No. 7 of Graduate Texts in Mathematics. Springer-Verlag, New York-Heidelberg, 1973. Translated from the French
 
 ---
@@ -364,6 +384,7 @@ Conference Board of the Mathematical Sciences, Washington, DC; by the American M
 In his book on representation theory, Etingof writes: _If we needed to make contact with an alien civilization and show them how sophisticated our civilization is, perhaps showing them Dynkin diagrams would be the best choice_. What is a Dynkin diagram? These remarkable diagrams appear all over mathematics, even in the classification of the five Platonic solids! Why do they appear everywhere? Nobody truly knows, and that mystery is exactly what makes this such a fascinating bachelor project.
 
 ##### References: 
+
 * Cameron, Peter J.; Dechant, Pierre-Philippe; He, Yang-Hui; McKay, John. ADE—patterns in mathematics. London Mathematical Society Student Texts, 109. Cambridge University Press, Cambridge, 2025.
 * Etingof, Pavel; Golberg, Oleg; Hensel, Sebastian; Liu, Tiankai; Schwendner, Alex; Vaintrob, Dmitry; Yudovina, Elena. Introduction to representation theory. With historical interludes by Slava Gerovitch. Student Mathematical Library, 59. American Mathematical Society, Providence, RI, 2011.
 
@@ -388,6 +409,7 @@ where $U$ is nilpotent and $S$ is a solvable group of order less than $|G|$.
 This result is a consequence of Frattini’s work and has applications in Galois theory
 
 ##### References:  
+
 * J.-P. Serre. Topics in Galois theory, volume 1 of Research Notes in Mathematics. A K Peters, Ltd., Wellesley, MA, second edition, 2008. With notes by Henri Darmon.
 
 ---
@@ -401,6 +423,7 @@ The goal of this project is to define wreath products,
 provide examples, and use them to prove easily some nice theorems. 
 
 ##### References:  
+
 
 * Ribes, Luis; Steinberg, Benjamin. A wreath product approach to classical subgroup theorems. Enseign. Math. (2) 56 (2010), no. 1-2, 49-72.
 
@@ -444,11 +467,24 @@ Group theory did not emerge as a fully formed theory; it evolved from the study 
 * Wussing, Hans. The genesis of the abstract group concept. A contribution to the history of the origin of abstract group theory. Translated from the German by Abe Shenitzer and Hardy Grant. MIT Press, Cambridge, MA, 1984.
 
 ---
+### Quantum Calculus: what if calculus has no limits?
+
+Wait... what? Yes, quantum calculus is just a version of calculus where limits
+disappear and new possibilities emerge. In this bachelor project, you will
+explore the foundations of $q$-calculus, working with $q$-derivatives and
+$q$-integrals. These ideas go back to Euler and Jacobi, and were recently
+rediscovered through itsapplications in quantum mechanics. If you are ready to
+see calculus from a fresh algebraic perspective, this project is for you.
+
+##### References:
+
+* Kac, V. Cheung, P. Quantum calculus. Universitext. Springer-Verlag, 2002.
+
 ### What is a pointed Hopf algebra?
 
-Pointed Hopf algebras are Hopf algebras generalize group algebras and enveloping 
-algebras of Lie algebras, and many quantum groups 
-like quantized enveloping algebras. 
+Pointed Hopf algebras are Hopf algebras generalize group algebras and
+enveloping algebras of Lie algebras, and many quantum groups like quantized
+enveloping algebras. 
 
 ##### References:  
 
