@@ -1,5 +1,6 @@
 ## Grants
 
+* 2026-2028. FWO Senior Grant (G043326N). Nichols algebras over finite classical groups and their deformations (I. Heckenbeger, L. Vendramin). €414K
 * 2025-2028. ULB-VUB joint research group (OZR/2025/0523) (J. Vercruysse and L. Vendramin). €2500.
 * 2025-2028. International Joint Research Group (OZR/2025/0492) (I. Colazzo and L. Vendramin). €30000.
 * 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications (L. Vendramin). €310K. 
