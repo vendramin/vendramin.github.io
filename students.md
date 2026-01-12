@@ -21,6 +21,8 @@
 ## Postdocs
 
 ### Current
+
+* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (FWO, from 2026).
 * Meijun Liu (CSC, from 2025).
 * [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/) (NAWA Bekker, from 2025).
 * [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0) (from 2025). 
