@@ -389,9 +389,9 @@ In his book on representation theory, Etingof writes: _If we needed to make cont
 * Etingof, Pavel; Golberg, Oleg; Hensel, Sebastian; Liu, Tiankai; Schwendner, Alex; Vaintrob, Dmitry; Yudovina, Elena. Introduction to representation theory. With historical interludes by Slava Gerovitch. Student Mathematical Library, 59. American Mathematical Society, Providence, RI, 2011.
 
 ---
-### The Herzog–Schönheim conjecture 
+### The Herzog-Schönheim conjecture 
 
-The Herzog–Schönheim conjecture is a beautiful and simple statement about how groups can be covered by cosets. Despite its elementary formulation, it has resisted proof for decades and remains open in general. What do these coverings reveal about the structure of groups? This bachelor project explores the conjecture, its known results, and the ideas connecting combinatorics and group theory.
+The Herzog-Schönheim conjecture is a beautiful and simple statement about how groups can be covered by cosets. Despite its elementary formulation, it has resisted proof for decades and remains open in general. What do these coverings reveal about the structure of groups? This bachelor project explores the conjecture, its known results, and the ideas connecting combinatorics and group theory.
 
 ##### References: 
 
@@ -423,7 +423,6 @@ The goal of this project is to define wreath products,
 provide examples, and use them to prove easily some nice theorems. 
 
 ##### References:  
-
 
 * Ribes, Luis; Steinberg, Benjamin. A wreath product approach to classical subgroup theorems. Enseign. Math. (2) 56 (2010), no. 1-2, 49-72.
 
@@ -493,5 +492,19 @@ Conference Board of the Mathematical Sciences, Washington, DC; by the American M
 * D. E. Radford. Hopf algebras, volume 49 of Series on Knots and Everything. World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ, 2012.
 
 ---
+### Did Hilbert invented Ramsey-theory?
+
+Hilbert’s original proof of his celebrated irreducibility theorem uses the
+so-called _cube lemma_. This is a kind of generalization of the pigeonhole
+principle and represents the earliest appearances of a Ramsey-type
+theorem, even before the works of Schur and van der Waerden.
+
+##### References
+
+* Soifer, Alexander. The new mathematical coloring book—mathematics of coloring and the colorful life of its creators. Second edition. Springer, New York, 2024. xlviii+841 pp. 
+* Villarino, Mark B.; Gasarch, William; Regan, Kenneth W. Hilbert's proof of his irreducibility theorem. Amer. Math. Monthly 125 (2018), no. 6, 513-530.
+
+---
+
 Feeling nostalgic? You can find the previous bachelor topics [here](old.md).
 
