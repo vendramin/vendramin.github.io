@@ -69,7 +69,7 @@ Click [here ](https://leandrovendramin.org/team/) for my research group at the V
 
 ##### VUB Chairs
 
-* (2025-2026) István Heckenberger. [Francqui VUB-Leerstoel](https://www.francquifoundation.be/nederlands/francqui-leerstoel/titularissen/). [Nichols algebras and root systems](https://leandrovendramin.org/andruskiewitsch/). 
+* (2025-2026) István Heckenberger. [Francqui VUB-Leerstoel](https://www.francquifoundation.be/nederlands/francqui-leerstoel/titularissen/). [Nichols algebras and root systems](https://leandrovendramin.org/heckenberger/). 
 * (2025-2026) Nicolás Andruskiewitsch. VUB-Leerstoel. [Pointed Hopf algebras over simple groups](https://leandrovendramin.org/andruskiewitsch/). 
 
 ##### Some stuff 
