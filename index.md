@@ -45,7 +45,6 @@ or if you're a Bachelor's student, click [here](bachelor.md).
 
 Click [here ](https://leandrovendramin.org/team/) for my research group at the VUB.
 
-
 ## Grants 
 
 [Here](grants.md) is the list of grants obtained by my research group.
@@ -61,16 +60,25 @@ Click [here ](https://leandrovendramin.org/team/) for my research group at the V
 *   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
 *   [Deutscher Akademischer Austauschdienst (DAAD)](https://www.daad.de/en/).
 
-#### Mathematics
+#### Mathematics 
+
+##### At VUB 
 
 * [VUB Algebra Seminar](https://leandrovendramin.org/team/seminar).
-* [VUB Magma Workshop](https://leandrovendramin.org/team/workshop). [Here](https://leandrovendramin.org/magma/) is our blog with Magma questions (and answers).   
+* [VUB Magma Workshop](https://leandrovendramin.org/team/workshop). There is a [blog](https://leandrovendramin.org/magma/) where we collect Magma questions (and answers).   
+
+##### Chairs
+
+* (2025-2026) István Heckenberger. [Francqui VUB-Leerstoel](https://www.francquifoundation.be/nederlands/francqui-leerstoel/titularissen/). [Nichols algebras and Weyl groupoids](https://leandrovendramin.org/andruskiewitsch/). 
+* (2025-2026) Nicolás Andruskiewitsch. VUB-Leerstoel. [Pointed Hopf algebras over simple groups](https://leandrovendramin.org/andruskiewitsch/). 
+
+##### Some links 
+
 *   [What is...?](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis) Short, non-technical articles offering orientation to varied subjects.
 *   [Kourovka Notebook](https://kourovkanotebookorg.wordpress.com). Collection of unsolved problems in group theory. 
 *   [This](signatures.md) is my collection of mathematics books signed by their authors. 
 
-
-#### Software
+##### Software
 
 *   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/).
 *   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/).
@@ -80,5 +88,5 @@ Click [here ](https://leandrovendramin.org/team/) for my research group at the V
 
 #### Personal homepages and coauthors
 
-[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome), [David Bachiller](https://www.researchgate.net/profile/David_Bachiller), [Bart Bogaerts](https://www.bartbogaerts.eu/), [Tomasz Brzezinski](https://www.swansea.ac.uk/staff/t.brzezinski/),  [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Giovanna Carnovale](https://www.math.unipd.it/~carnoval/), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Ilaria Colazzo](https://www.ilariacolazzo.info/), [Marco Damele](https://marcodamele.blog), [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite), [Anastasia Doikou](https://sites.google.com/view/anastasiadoikou), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Marino Gran](https://perso.uclouvain.be/marino.gran/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](http://www.mathematik.uni-marburg.de/~heckenberger/), [Geoffrey Janssens](https://geoffreyjanssens.github.io/), [Eric Jespers](https://we.vub.ac.be/nl/eric-jespers), [Olexandr Konovalov](https://olexandr-konovalov.github.io/), [Lukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Andrea Loi](https://loi.unica.it), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Ehud Meir](https://ehudmeir.com), [Paula Menchón](https://sites.google.com/view/paulamenchon), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Ariel Pacetti](https://sweet.ua.pt/apacetti/index_en.html), [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/), [Julia Plavnik](https://sites.google.com/view/juliaplavnik/home), [Eric Rowell](https://people.tamu.edu/~rowell/), [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=67), [Arne Van Antwerpen](https://vanantwerpen.github.io/), [Daimy Van Caudenberg](https://orcid.org/0000-0002-7975-4838), [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), 
+[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome), [David Bachiller](https://www.researchgate.net/profile/David_Bachiller), [Bart Bogaerts](https://www.bartbogaerts.eu/), [Tomasz Brzezinski](https://www.swansea.ac.uk/staff/t.brzezinski/),  [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Giovanna Carnovale](https://www.math.unipd.it/~carnoval/), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Ilaria Colazzo](https://www.ilariacolazzo.info/), [Marco Damele](https://marcodamele.blog), [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite), [Anastasia Doikou](https://sites.google.com/view/anastasiadoikou), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Marino Gran](https://perso.uclouvain.be/marino.gran/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl), [Geoffrey Janssens](https://geoffreyjanssens.github.io/), [Eric Jespers](https://we.vub.ac.be/nl/eric-jespers), [Olexandr Konovalov](https://olexandr-konovalov.github.io/), [Lukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Andrea Loi](https://loi.unica.it), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Ehud Meir](https://ehudmeir.com), [Paula Menchón](https://sites.google.com/view/paulamenchon), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Ariel Pacetti](https://sweet.ua.pt/apacetti/index_en.html), [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/), [Julia Plavnik](https://sites.google.com/view/juliaplavnik/home), [Eric Rowell](https://people.tamu.edu/~rowell/), [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=67), [Arne Van Antwerpen](https://vanantwerpen.github.io/), [Daimy Van Caudenberg](https://orcid.org/0000-0002-7975-4838), [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), 
 [Robert Weston](http://www.macs.hw.ac.uk/~robertw/), [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm).

@@ -3,7 +3,7 @@
 #### 2026
 
 * The Rubik's Cube and the Inverse Galois Problem. [The Interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io), Leeds, UK. 
-* Fomin-Kirillov algebras. Algebra Seminar. Leeds, UK. 
+* Fomin-Kirillov algebras. Mathematical and Physical underpinnings of Topological Quantum Computation at Leeds. UK. 
 * Rubik's as Galois'. [MaDs Seminar](https://wids.research.vub.be/en), Brussels, Belgium. 
 * What is a skew brace? [Joint Meeting and Conference of the Czech, Slovenian, Austrian, Slovak and Catalan Mathematical Societies](https://csasc2026.zcu.cz/index.php), Pilsen, Czech Republic.
 
