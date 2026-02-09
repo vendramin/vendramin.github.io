@@ -23,7 +23,7 @@ Click [here](publications.md) for my list of publications.
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
 ##### Book
-* [Groups, Radical Rings, and the Yang-Baxter Equation](https://link.springer.com/book/9783032015235?srsltid=AfmBOoqemrL_uphdbNFYHigOPdVYlB8xzu53lYaPzzu-IWOD5v70UeJF) (with F. Cedó). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
+* [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
 
 ##### Software 
 
