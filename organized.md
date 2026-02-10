@@ -1,5 +1,9 @@
 ## Conferences organized 
 
+## 2026
+* [VUB-Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html). Brussels, Belgium. 
+Organizers: I. Colazzo, L. Vendramin. 
+
 ## 2025 
 
 * [Overwolfach mini-workshop (2544b): The Yang–Baxter Equation and Representations of Braid Groups](https://www.mfo.de/occasion/2544b/www_view). Oberwolfach, Germany. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin. 
