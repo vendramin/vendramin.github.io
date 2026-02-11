@@ -479,6 +479,7 @@ see calculus from a fresh algebraic perspective, this project is for you.
 
 * Kac, V. Cheung, P. Quantum calculus. Universitext. Springer-Verlag, 2002.
 
+---
 ### What is a pointed Hopf algebra?
 
 Pointed Hopf algebras are Hopf algebras generalize group algebras and
@@ -503,6 +504,21 @@ theorem, even before the works of Schur and van der Waerden.
 
 * Soifer, Alexander. The new mathematical coloring book—mathematics of coloring and the colorful life of its creators. Second edition. Springer, New York, 2024. xlviii+841 pp. 
 * Villarino, Mark B.; Gasarch, William; Regan, Kenneth W. Hilbert's proof of his irreducibility theorem. Amer. Math. Monthly 125 (2018), no. 6, 513-530.
+
+---
+### Why is $\pi$ irrational?  
+
+We all know that $\pi$ is irrational, don’t we? Fewer people may know that
+there is a simple proof given by Niven in the 1940s. This beautiful proof is,
+however, somewhat magical, and like much magic, it feels rather unnatural. The
+aim of this project is to present a proof of the irrationality of $\pi$ that
+explains Niven’s _magical_ tricks by using orthogonal polynomials, an approach
+developed more recently by Chow.
+
+##### References:
+
+* Chow, Timothy Y. A well-motivated proof that $\pi$ is irrational.
+Hardy-Ramanujan J. 47 (2024), 25--34.
 
 ---
 
