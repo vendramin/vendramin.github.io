@@ -506,6 +506,23 @@ theorem, even before the works of Schur and van der Waerden.
 * Villarino, Mark B.; Gasarch, William; Regan, Kenneth W. Hilbert's proof of his irreducibility theorem. Amer. Math. Monthly 125 (2018), no. 6, 513-530.
 
 ---
+### A nice theorem of Jacobson
+
+Here is an easy algebra exercise that we all know: if $x^2 = x$ for every
+element $x$ of a ring, then the ring is commutative. Fewer people know that a
+similar property holds if we assume $x^3 = x$ or $x^4 = x$. These cases are
+harder to prove. There is a very beautiful theorem of
+Jacobson stating that a ring is commutative if the condition $x^n = x$ holds
+for all $x$.  This highly non-trivial beautiful result can be generalized in
+several different directions. And even better: one enters 
+the theory of polynomial identity rings. 
+
+##### References
+
+* I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
+DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
+
+---
 ### Why is $\pi$ irrational?  
 
 We all know that $\pi$ is irrational, don’t we? Fewer people may know that
