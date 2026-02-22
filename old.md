@@ -1,5 +1,38 @@
 # Some previous bachelor topics
 
+### Lagrange's four-square theorem
+
+Lagrange's theorem states that every non-negative integer can 
+be represented as a sum of four non-negative integer squares. 
+A particularly elegant proof of this result can be found 
+using ideas from the geometry of numbers, 
+specifically Minkowski's theorem. 
+It can also be proved using quaternions and 
+ideas similar to those we studied in 
+the bachelor course _Ring and Module Theory_. 
+
+##### References: 
+
+* I. Niven, H. S. Zuckerman, and H. L. Montgomery. An introduction to the theory of numbers. John Wiley & Sons, Inc., New York, fifth edition, 1991.
+* J. Stillwell. Elements of number theory. Undergraduate Texts in Mathematics. Springer-Verlag, New York, 2003.
+---
+### A nice theorem of Jacobson
+
+Here is an easy algebra exercise that we all know: if $x^2 = x$ for every
+element $x$ of a ring, then the ring is commutative. Fewer people know that a
+similar property holds if we assume $x^3 = x$ or $x^4 = x$. These cases are
+harder to prove. There is a very beautiful theorem of
+Jacobson stating that a ring is commutative if the condition $x^n = x$ holds
+for all $x$.  This highly non-trivial beautiful result can be generalized in
+several different directions. And even better: one enters 
+the theory of polynomial identity rings. 
+
+##### References
+
+* I. N. Herstein. Noncommutative rings, volume 15 of Carus Mathematical Monographs. Mathematical Association of America, Washington,
+DC, 1994. Reprint of the 1968 original, With an afterword by Lance W. Small.
+
+---
 ### Dedekind-finite rings
 
 A ring is said to be a _Dedekind-finite_ ring if $ab = 1$ implies $ba = 1$ for any two elements $a$ and $b$. 

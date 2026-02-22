@@ -4,6 +4,8 @@ Are you looking for topics for your bachelor's thesis? [Here](bachelor_topics.md
 
 ## Theses supervised
 
+* Benjamin Pitts. Jacobson's commutativity theorem. Cosupervised with Silvia Properzi. In progress.
+* Heleen Broodcoorens. Lagrange's four-square theorem. Cosupervised with Magdalena Wiertel. In progress. 
 * Heleen Broodcoorens. The Jones polynomial. 1/2026
 * Benjamin Pitts. Dedekind-finite rings. Cosupervised with Silvia Properzi. 1/2026
 * Steen Sodemann. Ore's conjecture. Cosupervised with Silvia Properzi. Defended: 6/2025.
