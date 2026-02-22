@@ -504,7 +504,7 @@ developed more recently by Chow.
 Hardy-Ramanujan J. 47 (2024), 25--34.
 
 ---
-## Quadratic reciprocity and permutations
+### Quadratic reciprocity and permutations
 
 The quadratic reciprocity theorem was first conjectured by Euler and Legendre
 and later proved by Gauss. The theorem provides conditions for the solvability
@@ -522,7 +522,6 @@ on the sign of permutations and was presented as a game by Matthew Baker on his
   Nouvelles annales de mathématiques : journal des candidats aux écoles
   polytechnique et normale, Serie 2, Volume 11 (1872), pp. 354-362.
   [Link](https://www.numdam.org/item/NAM_1872_2_11__354_0/).
-
 
 ---
 
