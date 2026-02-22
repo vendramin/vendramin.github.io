@@ -504,6 +504,27 @@ developed more recently by Chow.
 Hardy-Ramanujan J. 47 (2024), 25--34.
 
 ---
+## Quadratic reciprocity and permutations
+
+The quadratic reciprocity theorem was first conjectured by Euler and Legendre
+and later proved by Gauss. The theorem provides conditions for the solvability
+of quadratic equations modulo prime numbers. Because of its importance, Gauss
+called it *the golden theorem* and provided six different proofs. There are now
+around 250 known proofs. Students are free to choose whichever proof they
+prefer. However, I would suggest presenting Zolotarev’s proof, which is based
+on the sign of permutations and was presented as a game by Matthew Baker on his 
+[blog](https://mattbaker.blog/2013/07/03/quadratic-reciprocity-and-zolotarevs-lemma/).
+
+##### References
+
+* Baker, M. Zolotarev’s Magical Proof of Quadratic Reciprocity. Notices of the AMS. DOI:[10.1090/noti3303](https://doi.org/10.1090/noti3303).
+* Zolotareff, Y. Nouvelle démonstration de la loi de réciprocité de Legendre.
+  Nouvelles annales de mathématiques : journal des candidats aux écoles
+  polytechnique et normale, Serie 2, Volume 11 (1872), pp. 354-362.
+  [Link](https://www.numdam.org/item/NAM_1872_2_11__354_0/).
+
+
+---
 
 Feeling nostalgic? You can find the previous bachelor topics [here](old.md).
 
