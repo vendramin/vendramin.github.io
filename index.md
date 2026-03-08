@@ -31,6 +31,7 @@ Brussels, Belgium
 Email: `Leandro.Vendramin@vub.be`
 
 [Brief CV](/files/cv.pdf)
+· [GitHub](https://github.com/vendramin)
 · [arXiv](http://arxiv.org/a/vendramin_l_1)
 · [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575)
 · [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro)
@@ -45,7 +46,8 @@ Email: `Leandro.Vendramin@vub.be`
 - [Publications](/publications.html) — Papers, preprints, and [my book](https://tidd.ly/3ZpCdha) with F. Cedó, winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/).
 - [Talks](/talks.html) — Slides and recordings of my presentations.
 - [Conferences organized](/organized.html) — Workshops and meetings I have co-organized.
-- [Software](/software.html) — GAP and Magma packages I develop.
+- [Software](/software.html) — Packages I develop.
+- [My research group at VUB](https://leandrovendramin.org/team/) — The algebra team.
 - [Scientific contacts](/coauthors.html) — Personal homepages and coauthors.
 
 ## Teaching & mentoring
@@ -54,7 +56,6 @@ Email: `Leandro.Vendramin@vub.be`
 - [PhD students & postdocs](/students.html) — Current and former members of my group.
 - [Master's students](/master.html) — Current and former students, with links to available [thesis topics](/master_topics.html).
 - [Bachelor's students](/bachelor.html) — Current and former students, with links to available [thesis topics](bachelor_topics.html).
-- [My research group at VUB](https://leandrovendramin.org/team/) — The algebra team.
 
 ## Service
 
