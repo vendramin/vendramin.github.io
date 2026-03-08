@@ -1,9 +1,7 @@
-## 
+### My courses at VUB
 
 Dyslexic-friendly versions of my lecture notes are available upon request.
 Please feel free to reach out if needed.
-
-### My courses at VUB
 
 ##### Bachelor level 
 
