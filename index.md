@@ -1,6 +1,6 @@
 # Leandro Vendramin
 
-I am a mathematician at [Vrije Universiteit Brussel](https://www.vub.be/) (VUB),
+<!--I am a mathematician at [Vrije Universiteit Brussel](https://www.vub.be/) (VUB),
 Department of Mathematics and Data Science. I obtained my PhD in 2010 from the
 [Universidad de Buenos Aires](https://www.uba.ar/). My research focuses on
 non-commutative algebra, particularly Hopf algebras, Nichols algebras, and the
@@ -10,7 +10,26 @@ at the VUB.
 **Contact:**
 Pleinlaan 2, B-1050 Brussels, Belgium · (+32) 2 629 3493 · `Leandro.Vendramin@vub.be`  
 
+
 **Profiles:**
+[Brief CV](/files/cv.pdf)
+· [arXiv](http://arxiv.org/a/vendramin_l_1)
+· [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575)
+· [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro)
+· [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ)
+· [ORCID](https://orcid.org/0000-0003-0954-7785)
+· [Scopus](https://www.scopus.com/authid/detail.uri?authorId=23104610300)
+-->
+Vrije Universiteit Brussel  
+Faculty of Sciences  
+Department of Mathematics and Data Science  
+Pleinlaan 2, B-1050  
+Brussels, Belgium
+
+(+32) 2 629 3493
+
+Email: `Leandro.Vendramin@vub.be`
+
 [Brief CV](/files/cv.pdf)
 · [arXiv](http://arxiv.org/a/vendramin_l_1)
 · [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575)
@@ -31,7 +50,7 @@ Pleinlaan 2, B-1050 Brussels, Belgium · (+32) 2 629 3493 · `Leandro.Vendramin@
 
 ## Teaching & mentoring
 
-- [Lecture notes](/notes.html) — Course notes and related material.
+- [My courses at VUB](/courses.html) — Course notes and related material.
 - [PhD students & postdocs](/students.html) — Current and former members of my group.
 - [Master's students](/master.html) — Current and former students, with links to available [thesis topics](/master_topics.html).
 - [Bachelor's students](/bachelor.html) — Current and former students, with links to available [thesis topics](bachelor_topics.html).
