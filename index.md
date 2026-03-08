@@ -1,92 +1,51 @@
-Vrije Universiteit Brussel  
-Faculty of Sciences  
-Department of Mathematics and Data Science  
-Pleinlaan 2, B-1050  
-Brussels, Belgium
+# Leandro Vendramin
 
-(+32) 2 629 3493
+I am a mathematician at [Vrije Universiteit Brussel](https://www.vub.be/) (VUB),
+Department of Mathematics and Data Science. I obtained my PhD in 2010 from the
+[Universidad de Buenos Aires](https://www.uba.ar/). My research focuses on
+non-commutative algebra, particularly Hopf algebras, Nichols algebras, and the
+Yang–Baxter equation. [Here](https://leandrovendramin.org/team/) is my research group 
+at the VUB. 
 
-Email: `Leandro.Vendramin@vub.be`
+**Contact:**
+Pleinlaan 2, B-1050 Brussels, Belgium · (+32) 2 629 3493 · `Leandro.Vendramin@vub.be`  
 
-[Brief CV](files/cv.pdf), [arXiv](http://arxiv.org/a/vendramin_l_1), [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575), [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro), [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ), [ORCID](https://orcid.org/0000-0003-0954-7785), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=23104610300)
+**Profiles:**
+[Brief CV](/files/cv.pdf)
+· [arXiv](http://arxiv.org/a/vendramin_l_1)
+· [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/829575)
+· [zbMATH](https://www.zbmath.org/authors/?q=ai%3Avendramin.leandro)
+· [Google Scholar](https://scholar.google.com/citations?user=vzjR8TgAAAAJ)
+· [ORCID](https://orcid.org/0000-0003-0954-7785)
+· [Scopus](https://www.scopus.com/authid/detail.uri?authorId=23104610300)
 
-## Publications
+---
 
-Click [here](publications.md) for my list of publications. 
+## Research
 
-##### Preprints
+- [Publications](/publications.html) — Papers, preprints, and [my book](https://tidd.ly/3ZpCdha) with F. Cedó, winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/).
+- [Talks](/talks.html) — Slides and recordings of my presentations.
+- [Conferences organized](/organized.html) — Workshops and meetings I have co-organized.
+- [Software](/software.html) — GAP and Magma packages I develop.
+- [Scientific contacts](/coauthors.html) — Personal homepages and coauthors.
 
-* [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662) (with M. Damele, A. Loi, M. Mereb). 
-* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
-* [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
-* [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
-* [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
+## Teaching & mentoring
 
-##### Book
-* [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
+- [Lecture notes](/notes.html) — Course notes and related material.
+- [PhD students & postdocs](/students.html) — Current and former members of my group.
+- [Master's students](/master.html) — Current and former students, with links to available [thesis topics](/master_topics.html).
+- [Bachelor's students](/bachelor.html) — Current and former students, with links to available [thesis topics](bachelor_topics.html).
+- [My research group at VUB](https://leandrovendramin.org/team/) — The algebra team.
 
-##### Software 
+## Service
 
-My software is [here](software.md).
-
-## Conferences/Talks
-
-* Click [here](https://leandrovendramin.org/organized.html) for the conferences I organized.
-* Click [here](talks.md) for my talks.
-
-## Lecture notes
-
-My courses are [here](notes.md). 
-
-## Mentoring
-
-For a list of my PhD students and postdocs, click [here](students.md). If you're looking for a topic for your Master's thesis, click [here](master.md), 
-or if you're a Bachelor's student, click [here](bachelor.md).  
-
-Click [here ](https://leandrovendramin.org/team/) for my research group at the VUB.
-
-## Grants 
-
-[Here](grants.md) is the list of grants obtained by my research group.
-
-## Editorial work
-
-* [JoNAS](https://jonas.episciences.org) - Journal of Non-Associative Structures. This is a [diamond open-access](https://en.wikipedia.org/wiki/Diamond_open_access) journal; please submit articles [here](https://manager.episciences.org/jonas).
-* [Open Mathematics](https://www.degruyter.com/journal/key/math/html#overview). Please submit articles [here](https://www2.cloud.editorialmanager.com/openmath/default2.aspx).
-* Bulletin of the [Belgian Mathematical Society - Simon Stevin](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin). Please submit articles [here](https://ef.msp.org/submit/bbelgianms).
+- [Editorial work](/editorial.html) — Journals where I serve as editor.
+- [Grants](/grants.html) — Funding obtained by my research group.
 
 ## Links
 
-*   [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/).
-*   [Deutscher Akademischer Austauschdienst (DAAD)](https://www.daad.de/en/).
+- [Heckenberger's Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) 
+- [VUB Algebra Seminar](https://leandrovendramin.org/team/seminar) · [VUB Magma Workshop](https://leandrovendramin.org/team/workshop) · [VUB Magma blog](https://leandrovendramin.org/magma/)
+- [GAP](http://www.gap-system.org/) · [Magma](http://magma.maths.usyd.edu.au/magma/) · [OSCAR](https://oscar.computeralgebra.de) · [SageMath](http://www.sagemath.org/)
+- [Signed books collection](/signatures.html)
 
-#### Mathematics 
-
-##### At VUB 
-
-* [VUB Algebra Seminar](https://leandrovendramin.org/team/seminar).
-* [VUB Magma Workshop](https://leandrovendramin.org/team/workshop). There is a [blog](https://leandrovendramin.org/magma/) where we collect Magma questions (and answers).   
-
-##### VUB Chairs
-
-* (2025-2026) István Heckenberger. [Francqui VUB-Leerstoel](https://www.francquifoundation.be/nederlands/francqui-leerstoel/titularissen/). [Nichols algebras and root systems](https://leandrovendramin.org/heckenberger/). 
-* (2025-2026) Nicolás Andruskiewitsch. VUB-Leerstoel. [Pointed Hopf algebras over simple groups](https://leandrovendramin.org/andruskiewitsch/). 
-
-##### Some stuff 
-
-*   [What is...?](https://www.ams.org/cgi-bin/notices/nxgnotices.pl?fm=gen&cnt=whatis) Short, non-technical articles offering orientation to varied subjects.
-*   [Kourovka Notebook](https://kourovkanotebookorg.wordpress.com). Collection of unsolved problems in group theory. 
-*   [This](signatures.md) is my collection of mathematics books signed by their authors. 
-
-##### Software
-
-*   [Atlas of finite group representations (version 3)](http://brauer.maths.qmul.ac.uk/Atlas/v3/).
-*   [GAP System for Computational Discrete Algebra](http://www.gap-system.org/).
-*   [Magma Computational Algebra System](http://magma.maths.usyd.edu.au/magma/).
-*   [OSCAR Computer Algebra System](https://oscar.computeralgebra.de).
-*   [Sage: Open Source Mathematics Software](http://www.sagemath.org/).
-
-#### Personal homepages and coauthors
-
-[Emiliano Acri](http://mate.dm.uba.ar/~eacri/), [Ögzür Akgün](https://ozgurakgun.github.io), [Nicolás Andruskiewitsch](http://www.famaf.unc.edu.ar/~andrus/), [Iván Angiono](https://www.famaf.unc.edu.ar/~angiono/), [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome), [David Bachiller](https://www.researchgate.net/profile/David_Bachiller), [Bart Bogaerts](https://www.bartbogaerts.eu/), [Tomasz Brzezinski](https://www.swansea.ac.uk/staff/t.brzezinski/),  [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott), [Giovanna Carnovale](https://www.math.unipd.it/~carnoval/), [Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo), [Edwin Clark](http://shell.cas.usf.edu/~wclark/), [Ilaria Colazzo](https://www.ilariacolazzo.info/), [Marco Damele](https://marcodamele.blog), [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite), [Anastasia Doikou](https://sites.google.com/view/anastasiadoikou), [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong), [Fernando Fantino](http://www.mate.uncor.edu/~fantino/), [César Galindo](https://sites.google.com/site/neyitgalindo/), [Agustín García Iglesias](https://www.famaf.unc.edu.ar/~aigarcia/), [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/), [Marino Gran](https://perso.uclouvain.be/marino.gran/), [Matías Graña](http://mate.dm.uba.ar/~matiasg/), [István Heckenberger](https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl), [Geoffrey Janssens](https://geoffreyjanssens.github.io/), [Eric Jespers](https://we.vub.ac.be/nl/eric-jespers), [Olexandr Konovalov](https://olexandr-konovalov.github.io/), [Lukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat), [Victoria Lebed](https://lebed.users.lmno.cnrs.fr), [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home), [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/), [Andrea Loi](https://loi.unica.it), [Rafał Lutowski](https://mat.ug.edu.pl/~rlutowsk/), [Ehud Meir](https://ehudmeir.com), [Paula Menchón](https://sites.google.com/view/paulamenchon), [Sonia Natale](http://www.famaf.unc.edu.ar/~natale/), [Ariel Pacetti](https://sweet.ua.pt/apacetti/index_en.html), [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/), [Julia Plavnik](https://sites.google.com/view/juliaplavnik/home), [Eric Rowell](https://people.tamu.edu/~rowell/), [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html), [Masahico Saito](http://shell.cas.usf.edu/~saito/), [Agata Smoktunowicz](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=67), [Arne Van Antwerpen](https://vanantwerpen.github.io/), [Daimy Van Caudenberg](https://orcid.org/0000-0002-7975-4838), [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/), 
-[Robert Weston](http://www.macs.hw.ac.uk/~robertw/), [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm).
