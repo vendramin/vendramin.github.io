@@ -54,8 +54,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 - [My courses at VUB](/courses.html) — Course notes and related material.
 - [PhD students & postdocs](/students.html) — Current and former members of my group.
-- [Master's students](/master.html) — Current and former students, with some available thesis topics.
-- [Bachelor's students](/bachelor.html) — Current and former students, with some available thesis topics.
+- [Master's](/master.html) and [bachelor's](/bachelor.html) students — Current and former students, with some available thesis topics.
 
 ## Service
 
