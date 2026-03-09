@@ -15,7 +15,9 @@ the bachelor course _Ring and Module Theory_.
 
 * I. Niven, H. S. Zuckerman, and H. L. Montgomery. An introduction to the theory of numbers. John Wiley & Sons, Inc., New York, fifth edition, 1991.
 * J. Stillwell. Elements of number theory. Undergraduate Texts in Mathematics. Springer-Verlag, New York, 2003.
+
 ---
+
 ### A nice theorem of Jacobson
 
 Here is an easy algebra exercise that we all know: if $x^2 = x$ for every
