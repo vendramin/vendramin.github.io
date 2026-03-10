@@ -2,6 +2,7 @@
 
 #### 2026
 
+* Rubik's as Galois'. Hopf Algebra / Galois Module Theory Conference. Agnes Scott College, Georgia, USA. 
 * The Rubik's Cube and the Inverse Galois Problem. [The Interplay between skew braces and Hopf-Galois theory](https://interplaysbhg.github.io), Leeds, UK. 
 * Fomin-Kirillov algebras. [Mathematical and Physical underpinnings of Topological Quantum Computation at Leeds](https://benjimorris.github.io/miqc/workshop-Feb.html). UK. 
 * Rubik's as Galois'. [MaDs Seminar](https://wids.research.vub.be/en), Brussels, Belgium. 
