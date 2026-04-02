@@ -1,8 +1,8 @@
 ## Grants
 
 * 2026-2028. FWO & DFG (Weave) (G043326N). Nichols algebras over finite classical groups and their deformations (I. Heckenbeger, L. Vendramin). €414K.
-* 2025-2028. ULB-VUB joint research group (OZR/2025/0523) (J. Vercruysse and L. Vendramin). €2500.
-* 2025-2028. International Joint Research Group (OZR/2025/0492) (I. Colazzo and L. Vendramin). €30000.
+* 2025-2028. ULB-VUB Joint Research Group (OZR/2025/0523) (J. Vercruysse and L. Vendramin). €2500.
+* 2025-2028. [International Joint Research Group](https://vubleedstopyb.github.io/index.html) (OZR/2025/0492) (I. Colazzo and L. Vendramin). €30000.
 * 2024-2027. FWO Senior Grant (G004124N). Skew braces and applications (L. Vendramin). €310K. 
 * 2023-2026. FWO & CNRS: International Emerging Actions (IEA) project 328226 (V. Lebed and L. Vendramin). €12000. 
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
@@ -23,6 +23,7 @@
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel.
 
 ### Funding obtained for visitors  
+* 2026: Manoj Yadav, Scientific Stay in Flanders (V503126N), from 1/6 to 30/6.
 * 2025: [Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) for István Heckenberger. 
 * 2025: [VUB-Leerstoel](https://leandrovendramin.org/andruskiewitsch/) for Nicolás Andruskiewitsch.
 * 2024: Be'eri Greenfeld, Scientific Stay in Flanders (V507824N), from 24/11 to 05/1.
