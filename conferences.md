@@ -15,7 +15,7 @@
 * [Zelmanov's honorary doctorate at VUB](https://leandrovendramin.org/zelmanov/), Brussels, Belgium. 
 * [Advances in Group Theory and Applications 2023](https://www.advgrouptheory.com/agta2023/), Lecce, Italy.
 * [CIMPA School: Crossroads of geometry, representation theory and higher structures](https://crossroads-2023.github.io/), Puerto Madryn, Argentina.
-* [Overwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany.
+* [Oberwolfach mini-workshop (2309a): Skew Braces and the Yang–Baxter Equation](https://www.mfo.de/occasion/2309a/www_view), Oberwolfach, Germany.
 * [Categories, Rings and Modules, a conference in honor of Alberto Facchini](https://events.math.unipd.it/CRaM), Padova, Italy [(video)](https://mediaspace.unipd.it/media/Vendramin+-+SD+480p/1_pgh3savm).
 
 
