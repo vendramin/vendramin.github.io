@@ -63,7 +63,6 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Links
 
-- [Heckenberger's Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) 
 - [VUB Algebra Seminar](https://leandrovendramin.org/team/seminar) · [VUB Magma Workshop](https://leandrovendramin.org/team/workshop) · [VUB Magma blog](https://leandrovendramin.org/magma/)
 - [GAP](http://www.gap-system.org/) · [Magma](http://magma.maths.usyd.edu.au/magma/) · [OSCAR](https://oscar.computeralgebra.de) · [SageMath](http://www.sagemath.org/)
 - [Signed books collection](/signatures.html)
