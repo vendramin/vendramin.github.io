@@ -22,6 +22,7 @@ I decided to become an official collector.
 1.  Erdmann, Karin; Wildon, Mark J. [Introduction to Lie algebras](signatures/erdmann_lie.jpg). Springer Undergraduate Mathematics Series. Springer-Verlag London, Ltd., London, 2006. x+251 pp.
 1.  Erdmann, Karin; Holm, Thorsten. [Algebras and representation theory](signatures/erdmann.jpg). Springer Undergraduate Mathematics Series. Springer, Cham, 2018. ix+298 pp.
 1.  Etingof, Pavel; Gelaki, Shlomo; Nikshych, Dmitri; Ostrik, Victor. [Tensor categories](signatures/nikshych.jpg). Mathematical Surveys and Monographs, 205. American Mathematical Society, Providence, RI, 2015. xvi+343 pp.
+1.  Etingof, Pavel; Golberg, Oleg; Hensel, Sebastian; Liu, Tiankai; Schwendner, Alex; Vaintrob, Dmitry; Yudovina, Elena. [Introduction to representation theory](signatures/etingof.jpg). With historical interludes by Slava Gerovitch. Student Mathematical Library, 59. American Mathematical Society, Providence, RI, 2011. viii+228 pp.
 1.  Facchini, Alberto. [Introduction to Ring and Module Theory](signatures/facchini.jpg). Libreria Progetto, 2013. 136 pp.
 1.  Godsil, Chris; Royle, Gordon. [Algebraic graph theory](signatures/godsil.jpg). Graduate Texts in Mathematics, 207. Springer-Verlag, New York, 2001. xx+439 pp. 
 1.  Grabowski, Jan E. [Representation theory—a categorical approach](signatures/grabowski.jpg). Open Book Publishers, Cambridge, 2025. viii+223 pp. 
@@ -34,6 +35,7 @@ I decided to become an official collector.
 1.  Kac, Victor. [Vertex algebras for beginners](signatures/kac.jpg). Second edition. University Lecture Series, 10. American Mathematical Society, Providence, RI, 1998. vi+201 pp.  
 1.  Kashaev, Rinat. [A course on Hopf algebras](signatures/kashaev.jpg). Universitext. Springer, Cham, [2023], ©2023. xv+165 pp. 
 1.  Kassel, Christian. [Quantum groups](signatures/kassel.jpg). Graduate Texts in Mathematics, 155. Springer-Verlag, New York, 1995. xii+531 pp.
+1.  Laures, Gerd; Szymik, Markus. [A basic course in topology](signatures/szymik.jpg). Compact Textbooks in Mathematics. Birkhäuser/Springer, Berlin, [2025], ©2025. xii+245 pp.
 1.  Le Bruyn, L.; Van den Bergh, M.; Van Oystaeyen, F. [Graded orders](signatures/michel.jpg). Birkhäuser Boston, Inc., Boston, MA, 1988. vi+208 pp.
 1.  Majid, Shahn. [Foundations of quantum group theory](signatures/majid.jpg). Cambridge University Press, Cambridge, 1995. x+607 pp. 
 1.  Malle, Gunter; Matzat, B. Heinrich. [Inverse Galois theory](signatures/malle.jpg). Springer Monographs in Mathematics. Springer-Verlag, Berlin, 1999. xvi+436 pp. 
