@@ -30,6 +30,11 @@
 * 2023: Ilaria Colazzo, Scientific Stay in Flanders (V512223N), from 9/11 to 17/12.
   
 ### Funding obtained for organizing conferences
+
+* 2026: [VUB–Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html). Organizers: I. Colazzo, L. Vendramin.
+    * De Gruyter: €500.
+    * VUB Doctoral School: €750.
+    * Foundation Compositio Mathematica: €2000.
 * 2025: [Conference on Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/).
     * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K701825N): €4500.
     * Hooverfond VUB: €2000.
