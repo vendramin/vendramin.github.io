@@ -1,5 +1,11 @@
 ## Conferences organized 
 
+## 2027
+
+* [Yang-Baxter Equation in Group Theory,
+Category Theory and Noncommutative Geometry](). Będlewo, Poland. Organizers: T. Brzeziński, 
+I. Colazzo, P. Saracco, L. Vendramin
+
 ## 2026
 * [VUB-Leeds Algebra School](https://vubleedstopyb.github.io/summer-school/index.html). Brussels, Belgium. 
 Organizers: I. Colazzo, L. Vendramin. 
@@ -7,7 +13,7 @@ Organizers: I. Colazzo, L. Vendramin.
 ## 2025 
 
 * [Oberwolfach mini-workshop (2544b): The Yang–Baxter Equation and Representations of Braid Groups](https://www.mfo.de/occasion/2544b/www_view). Oberwolfach, Germany. Organizers: I. Colazzo, J. Plavnik, E. Rowell, L. Vendramin. 
-* [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe/home-page). Bedlewo, Poland. Organizers: I. Colazzo, T. Brzezinski, L. Vendramin.  
+* [The Yang-Baxter equation and all that](https://sites.google.com/impan.pl/ybe/home-page). Będlewo, Poland. Organizers: I. Colazzo, T. Brzezinski, L. Vendramin.  
 * [Hopf algebras, quantum groups, monoidal categories and related structures](https://hopfalgb.ulb.be/Hopf2025/). Brussels, Belgium. Organizers: S. Caenepeel, K. De Commer, P. Saracco, P. Vaz, L. Vendramin, J. Vercruysse.
 * [GAP Days in Brussels](https://www.gapdays.de). VUB, Brussels, Belgium. Organizers: J. De Beule, P. Cara, L. Vendramin.
 
@@ -25,7 +31,7 @@ Organizers: I. Colazzo, L. Vendramin.
 
 ## 2022
 
-*   The algebra of the Yang–Baxter equation. Stefan Banach International Mathematical Center, Bedlewo, Poland. Organizers: I. Colazzo, J. Okninski, L. Vendramin. 
+*   The algebra of the Yang–Baxter equation. Stefan Banach International Mathematical Center, Będlewo, Poland. Organizers: I. Colazzo, J. Okninski, L. Vendramin. 
 
 ## 2021
 
