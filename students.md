@@ -2,13 +2,14 @@
 
 ### Current
 * Lukas Simons (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)). 
-* Yufei Qin (CSC, cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)).
 * [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) (cosupervised with [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/)). 
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
 * [Silvia Properzi](https://properzi.github.io) (FWO).
 * [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)).
 
 ### Former
+
+* Yufei Qin (cosupervised with [Guodong Zhou](https://scms.fudan.edu.cn/info/3070/3990.htm)). [Thesis](files/qin.pdf). Defended: 06/2026.
 * Santiago Ramírez. [Thesis (in Spanish)](files/ramirez.pdf). Defended: 10/2025. 
 * Senne Trappeniers (cosupervised with Arne Van Antwerpen). [Thesis](files/trappeniers.pdf). Defended: 9/2025.
 * Emiliano Acri. [Thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
