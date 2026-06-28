@@ -43,7 +43,7 @@ Email: `Leandro.Vendramin@vub.be`
 
 ## Research
 
-- [Publications](/publications.html) — Papers, preprints, and [my book](https://tidd.ly/3ZpCdha) with F. Cedó, winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/).
+- [Publications](/publications.html) — Papers, preprints, and [my book](https://tidd.ly/3ZpCdha) with F. Cedó.
 - [Talks](/talks.html) — Slides and recordings of my presentations.
 - [Conferences organized](/organized.html) — Workshops and meetings I have co-organized.
 - [Software](/software.html) — Packages I develop.

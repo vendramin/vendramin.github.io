@@ -12,7 +12,7 @@ Click [here](selected.md) for a selection of papers.
 
 #### Book
 
-* [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Winner of the 2025 [Ferran Sunyer i Balaguer Prize](https://ffsb.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/). Birkhäuser.
+* [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Birkhäuser.
 
 #### Published papers 
 
