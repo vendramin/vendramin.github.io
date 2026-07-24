@@ -13,7 +13,6 @@
 * Santiago Ramírez. [Thesis (in Spanish)](files/ramirez.pdf). Defended: 10/2025. 
 * Senne Trappeniers (cosupervised with Arne Van Antwerpen). [Thesis](files/trappeniers.pdf). Defended: 9/2025.
 * Emiliano Acri. [Thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
-* Charlotte Verwimp (cosupervised with Eric Jespers). [Thesis](files/verwimp.pdf). Defended: 5/2022. 
 
 #### Do you want to do your Ph.D. at VUB? 
 * Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
@@ -23,14 +22,17 @@
 
 ### Current
 
+* Madja Egner (from 9/2026 to 10/2028).
+* Wang You (CSC, from 9/2026 to 10/2028).
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (FWO, from 2026).
-* Meijun Liu (CSC, from 2025).
-* [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/) (NAWA Bekker, from 2025).
-* [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0) (from 2025). 
-* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (FWO, from 2023).
+* [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/) (NAWA Bekker, from 2025). 
 
 ### Former
-* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Humboldt, 2021-2023).
+
+* Meijun Liu (CSC, from 9/2025 to 9/2026).
+* [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0) (from 2/2025 to 8/2026).
+* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/) (FWO, from 6/2024 to 8/2026).
+* [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (Humboldt, from 1/2022 to 6/2023).
 
 #### Are you considering doing a postdoc at VUB? 
 
