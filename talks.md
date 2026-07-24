@@ -2,6 +2,7 @@
 
 #### 2026
 
+* Diagramas de Dynkin, trenzas y álgebras de Nichols. [Coloquio del dm](https://web.dm.uba.ar/index.php/investigacion/coloquio), Universidad de Buenos Aires, Argentina.
 * Pointed Hopf algebras over simple groups. [40 years of GAP & Nikolaus conference](https://www.math.rwth-aachen.de/40YearsGAP/index.html), Aachen, Germany. 
 * Nichols algebras: why they matter. [XII International Workshop 
 on Non-Associative Algebras in Ghent](https://sites.google.com/view/nonassociativeghent2026), Ghent, Belgium. 
