@@ -5,7 +5,6 @@ Click [here](selected.md) for a selection of papers.
 #### Preprints
 
 * [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662) (with M. Damele, A. Loi, M. Mereb). 
-* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003).
 * [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
@@ -15,6 +14,10 @@ Click [here](selected.md) for a selection of papers.
 * [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Birkhäuser.
 
 #### Published papers 
+
+##### Accepted 
+
+* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003). _Ann. Univ. Ferrara Sez. VII Sci. Mat._
 
 ##### 2025
 * [Hopf formulae for homology of skew braces](https://arxiv.org/abs/2409.18056) (with M. Gran, T. Letourmy). _J. Pure Appl. Algebra 229 (2025), no. 11, Paper No. 108085._

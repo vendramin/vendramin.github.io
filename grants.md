@@ -18,7 +18,7 @@
 ### Postdoctoral fellowships hosted
 * 2025-2026. China Scholarship Council (CSC No. 202406680120). Meijun Liu. 
 * 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Magdalena Wiertel. 
-* 2024-2027. FWO PostDoc Grant (1244625N). Carsten Dietzel.   
+* 2024-2027. FWO Postdoc Grant (1244625N). Carsten Dietzel.   
 * 2022-2024. FWO Postdoc Grant (12K1223N). Kevin Piterman.
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel.
 
