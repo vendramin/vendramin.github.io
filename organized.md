@@ -3,7 +3,7 @@
 ## 2027
 
 * [Yang-Baxter Equation in Group Theory,
-Category Theory and Noncommutative Geometry](). Będlewo, Poland. Organizers: T. Brzeziński, 
+Category Theory and Noncommutative Geometry](https://sites.google.com/impan.pl/yangbaxter/home-page?authuser=0). Będlewo, Poland. Organizers: T. Brzeziński, 
 I. Colazzo, P. Saracco, L. Vendramin
 
 ## 2026
