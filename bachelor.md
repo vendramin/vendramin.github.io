@@ -2,10 +2,10 @@
 
 ## Theses supervised
 
-* Benjamin Pitts. Jacobson's commutativity theorem. Cosupervised with Silvia Properzi. In progress.
-* Heleen Broodcoorens. Lagrange's four-square theorem. Cosupervised with Magdalena Wiertel. In progress. 
-* Heleen Broodcoorens. The Jones polynomial. 1/2026
-* Benjamin Pitts. Dedekind-finite rings. Cosupervised with Silvia Properzi. 1/2026
+* Benjamin Pitts. Jacobson's commutativity theorem. Cosupervised with Silvia Properzi. 6/2026.
+* Heleen Broodcoorens. Lagrange's four-square theorem. Cosupervised with Magdalena Wiertel. 6/2026.
+* Heleen Broodcoorens. The Jones polynomial. 1/2026.
+* Benjamin Pitts. Dedekind-finite rings. Cosupervised with Silvia Properzi. 1/2026.
 * Steen Sodemann. Ore's conjecture. Cosupervised with Silvia Properzi. Defended: 6/2025.
 * Nina Seydoux. Combinatorial knot theory. Cosupervised with Kevin Piterman. Defended: 12/2024.
 * Steen Sodemann. Derangements. Defended: 12/2024.

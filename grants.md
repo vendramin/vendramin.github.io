@@ -8,6 +8,7 @@
 * 2021-2025. OZR3762: Algebraic structures associated with the Yang-Baxter equation (L. Vendramin). €100K.
 
 ### Funding obtained by PhD candidates
+
 * 2025-2028. FNRS Predoc Grant (40031463). Candidate: Lukas Simons. Supervisors: L. Vendramin, J. Vercruysse.
 * 2024-2025. China Scholarship Council (CSC No. 202406140151). Candidate: Yufei Qin. Supervisors: L. Vendramin, G. Zhou. 
 * 2024-2027. FWO Predoc Grant (11PIO24N). Candidate: Silvia Properzi. Supervisor: L. Vendramin. 
@@ -16,6 +17,7 @@
 * 2021-2025. FWO Predoc Grant (1160522N). Candidate: of Senne Trappeniers. Supervisors: L. Vendramin, A. Van Antwerpen. 
 
 ### Postdoctoral fellowships hosted
+
 * 2025-2026. China Scholarship Council (CSC No. 202406680120). Meijun Liu. 
 * 2025-2027. [NAWA Bekker Fellowship](https://nawa.gov.pl/en/scientists/the-bekker-programme) (BPN/BEK/2024/1/00311). Magdalena Wiertel. 
 * 2024-2027. FWO Postdoc Grant (1244625N). Carsten Dietzel.   
@@ -23,6 +25,7 @@
 * 2022-2024. [Feodor Lynen Research Postdoctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship). Carsten Dietzel.
 
 ### Funding obtained for visitors  
+
 * 2026: Manoj Yadav, Scientific Stay in Flanders (V503126N), from 1/6 to 30/6.
 * 2025: [Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) for István Heckenberger. 
 * 2025: [VUB-Leerstoel](https://leandrovendramin.org/andruskiewitsch/) for Nicolás Andruskiewitsch.
@@ -43,4 +46,4 @@
 * 2023: [Groups, rings and the Yang-Baxter equation](http://www.ilariacolazzo.info/gryb2023/), Blankenberge, Belgium. Organizers: I. Colazzo, A. Van Antwerpen, L. Vendramin.
     * Fonds voor Wetenschappelijk Onderzoek – Vlaanderen (K700923N). €5000.
     * Foundation Compositio Mathematica. €5000.
-    * VUB Doctoral School: €750.
+* VUB Doctoral School: €750.

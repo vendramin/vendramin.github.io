@@ -1,6 +1,7 @@
 ## Ph.D. students
 
 ### Current
+
 * Lukas Simons (FRNS, cosupervised with [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)). 
 * [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) (cosupervised with [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/)). 
 * [Davide Ferri](https://sites.google.com/view/davide-ferri/) (cosupervised with [Alessandro Ardizzoni](https://sites.google.com/site/aleardizzonihome/)).
@@ -15,6 +16,7 @@
 * Emiliano Acri. [Thesis (in Spanish)](files/acri.pdf). Defended: 5/2025.
 
 #### Do you want to do your Ph.D. at VUB? 
+
 * Consider an [FWO Ph.D. Fellowship](https://www.fwo.be/en/fellowships-funding/phd-fellowships/).
 * If you are a PhD student in the US and want to spend one year in Brussels, consider a [BAEF fellowship](https://baef.be/graduate-study-fellowships-us/).
 

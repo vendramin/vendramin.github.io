@@ -2,7 +2,7 @@
 
 ## Theses supervised
 
-* Aaron Goos. Arnold's proof of Abel's theorem. In progress.
+* Aaron Goos. Arnold's proof of Abel's theorem. Defended: 6/2026.
 * Lukas Simons. Yetter-Drinfeld modules. Defended: 6/2025. 
 * Daimy Van Caudenberg. SAT-based Enumeration of Solutions to the Yang-Baxter Equation. Cosupervised with [Bart Bogaerts](https://www.bartbogaerts.eu).  Daimy won the [BrEA](https://www.brea.be/aboutbrea?lang=en) student prize for best master thesis in computer science. Defended: 7/2024.
 * Charlotte Roelants. Fourier analysis on finite groups. Defended: 6/2024.
@@ -19,6 +19,7 @@ The conjecture has been proven affirmative for several classes of groups.
 In 1973, Formanek proved it for supersolvable groups.  
 
 ##### References:
+
 * T. Y. Lam. A first course in noncommutative rings, volume 131 of Graduate Texts in Mathematics. Springer-Verlag, New York, second edition, 2001.
 * D. S. Passman. The algebraic structure of group rings. Robert E. Krieger Publishing Co., Inc., Melbourne, FL, 1985. Reprint of the 1977 original.
 
