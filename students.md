@@ -24,7 +24,7 @@
 
 ### Current
 
-* Madja Egner (from 9/2026 to 10/2028).
+* Nadja Egner (from 9/2026 to 10/2028).
 * Wang You (CSC, from 9/2026 to 10/2028).
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite) (FWO, from 2026).
 * [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/) (NAWA Bekker, from 2025). 
