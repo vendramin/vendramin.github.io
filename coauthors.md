@@ -29,7 +29,9 @@
 [Jingcheng Dong](https://www.researchgate.net/profile/Jingcheng_Dong)  
 
 ##### F
-[Fernando Fantino](http://www.mate.uncor.edu/~fantino/)  
+
+[Fernando Fantino](http://www.mate.uncor.edu/~fantino/) · 
+Sebastián Freyre
 
 ##### G
 
@@ -38,7 +40,10 @@
 [Gastón García](http://www.mate.unlp.edu.ar/~ggarcia/) · 
 [Marino Gran](https://perso.uclouvain.be/marino.gran/) · 
 [Matías Graña](http://mate.dm.uba.ar/~matiasg/) · 
-[Be'eri Greenfeld](https://sites.google.com/view/beeri-greenfeld)  
+[Be'eri Greenfeld](https://sites.google.com/view/beeri-greenfeld) ·
+Leandro Guarnieri · 
+Juan José Guccione · 
+Jorge Guccione
 
 ##### H
 
@@ -51,7 +56,7 @@
 ##### K
 
 [Olexandr Konovalov](https://olexandr-konovalov.github.io/) · 
-[Lukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat)  
+[Łukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat)  
 
 ##### L
 
@@ -63,8 +68,10 @@
 
 ##### M
 
+Nicolás Mayorga Uruburu · 
 [Ehud Meir](https://ehudmeir.com) · 
-[Paula Menchón](https://sites.google.com/view/paulamenchon)  
+[Paula Menchón](https://sites.google.com/view/paulamenchon) · 
+Martín Mereb
 
 ##### N
 
@@ -78,6 +85,7 @@
 
 ##### R 
 
+Santiago Ramírez · 
 [Eric Rowell](https://people.tamu.edu/~rowell/) · 
 [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html)  
 
