@@ -13,9 +13,9 @@
 
 * [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Birkhäuser.
 
-#### Published papers 
+#### 2026
 
-* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003). _Ann. Univ. Ferrara Sez. VII Sci. Mat._
+* [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003). _Ann. Univ. Ferrara Sez. VII Sci. Mat. 72 (2026), no. 3, Paper No. 109._
 
 ##### 2025
 
