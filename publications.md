@@ -1,6 +1,6 @@
 ### Leandro Vendramin's publication list
 
-#### Preprints
+##### Preprints
 
 * [On Noetherian pointed Hopf algebras](http://arxiv.org/abs/2608.15856) (with N. Andruskiewitsch, I. Heckenberger).
 * [Point modules of Nichols algebras over non-abelian groups](http://arxiv.org/abs/2608.03595) (with B. Greenfeld, S. Venkatesh). 
@@ -9,11 +9,11 @@
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
-#### Book
+##### Book
 
 * [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Birkhäuser.
 
-#### 2026
+##### 2026
 
 * [Computing finite Weyl groupoids](http://arxiv.org/abs/2505.24555) (with I. Angiono). GAP code DOI: [10.5281/zenodo.15554003](https://doi.org/10.5281/zenodo.15554003). _Ann. Univ. Ferrara Sez. VII Sci. Mat. 72 (2026), no. 3, Paper No. 109._
 

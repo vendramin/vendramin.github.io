@@ -10,14 +10,14 @@
 
 ##### B
 
-[David Bachiller](https://www.researchgate.net/profile/David_Bachiller) · 
+David Bachiller · 
 [Bart Bogaerts](https://www.bartbogaerts.eu/) · 
 [Tomasz Brzezinski](https://www.swansea.ac.uk/staff/t.brzezinski/) · 
 [Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott)  
 
 ##### C
 [Giovanna Carnovale](https://www.math.unipd.it/~carnoval/) · 
-[Ferran Cedó](https://www.researchgate.net/profile/Ferran_Cedo) · 
+Ferran Cedó · 
 [Edwin Clark](http://shell.cas.usf.edu/~wclark/) · 
 [Ilaria Colazzo](https://www.ilariacolazzo.info/)  
 
