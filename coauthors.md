@@ -70,7 +70,7 @@ Jorge Guccione
 
 Nicolás Mayorga Uruburu · 
 [Ehud Meir](https://ehudmeir.com) · 
-[Paula Menchón](https://sites.google.com/view/paulamenchon) · 
+Paula Menchón · 
 Martín Mereb
 
 ##### N
@@ -98,7 +98,7 @@ Santiago Ramírez ·
 
 [Arne Van Antwerpen](https://vanantwerpen.github.io/) · 
 [Daimy Van Caudenberg](https://orcid.org/0000-0002-7975-4838) · 
-[Samarth Venkatesh](https://www.linkedin.com/in/samarth-venkatesh) · 
+Samarth Venkatesh · 
 [Joost Vercruysse](http://homepages.ulb.ac.be/~jvercruy/)  
 
 ##### W 
