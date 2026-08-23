@@ -13,7 +13,7 @@
 David Bachiller · 
 [Bart Bogaerts](https://www.bartbogaerts.eu/) · 
 [Tomasz Brzezinski](https://www.swansea.ac.uk/staff/t.brzezinski/) · 
-[Nigel Byott](http://emps.exeter.ac.uk/mathematics/staff/NPByott)  
+[Nigel Byott](https://experts.exeter.ac.uk/2182-nigel-byott)
 
 ##### C
 [Giovanna Carnovale](https://www.math.unipd.it/~carnoval/) · 
