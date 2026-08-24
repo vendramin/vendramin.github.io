@@ -26,6 +26,7 @@
 
 ### Funding obtained for visitors  
 
+* 2026: Manoj Yadav, IMU (India/Kumar/2026/SRF), from 1/9 to 30/10.
 * 2026: Manoj Yadav, Scientific Stay in Flanders (V503126N), from 1/6 to 30/6.
 * 2025: [Francqui VUB-Leerstoel](https://leandrovendramin.org/heckenberger/) for István Heckenberger. 
 * 2025: [VUB-Leerstoel](https://leandrovendramin.org/andruskiewitsch/) for Nicolás Andruskiewitsch.

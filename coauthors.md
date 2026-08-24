@@ -51,7 +51,7 @@ Jorge Guccione
 
 ##### J 
 
-[Eric Jespers](https://we.vub.ac.be/nl/eric-jespers)  
+Eric Jespers
 
 ##### K
 
