@@ -55,6 +55,7 @@ Eric Jespers
 
 ##### K
 
+George King · 
 [Olexandr Konovalov](https://olexandr-konovalov.github.io/) · 
 [Łukasz Kubat](https://we.vub.ac.be/en/lukasz-kubat)  
 

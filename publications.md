@@ -2,6 +2,7 @@
 
 ##### Preprints
 
+* [The Köthe conjecture via point modules](http://arxiv.org/abs/2609.15080) (with B. Greenfeld, B. King).
 * [On Noetherian pointed Hopf algebras](http://arxiv.org/abs/2608.15856) (with N. Andruskiewitsch, I. Heckenberger).
 * [Point modules of Nichols algebras over non-abelian groups](http://arxiv.org/abs/2608.03595) (with B. Greenfeld, S. Venkatesh). 
 * [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662) (with M. Damele, A. Loi, M. Mereb). 
