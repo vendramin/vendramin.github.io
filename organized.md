@@ -2,6 +2,8 @@
 
 ## 2027
 
+* [Braiding Marburg
+A Conference on Hopf Algebras, Braidings, and the Yang–Baxter Equation](https://braiding-marburg.gitlab.io/index.html). Marburg, Germany. Organizers: S. Halbig, I. Heckenberger, L. Vendramin.
 * [Yang-Baxter Equation in Group Theory,
 Category Theory and Noncommutative Geometry](https://sites.google.com/impan.pl/yangbaxter/home-page?authuser=0). Będlewo, Poland. Organizers: T. Brzeziński, 
 I. Colazzo, P. Saracco, L. Vendramin
