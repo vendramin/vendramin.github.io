@@ -2,6 +2,8 @@
 
 ##### Preprints
 
+* [Higher Fomin-Kirillov algebras are infinite-dimensional](http://arxiv.org/abs/2610.10144) (with N. Andruskiewitsch, I. Angiono, I. Heckenberger, S. Lentner, C.
+  Reiher).
 * [The Köthe conjecture via point modules](http://arxiv.org/abs/2609.15080) (with B. Greenfeld, B. King).
 * [On Noetherian pointed Hopf algebras](http://arxiv.org/abs/2608.15856) (with N. Andruskiewitsch, I. Heckenberger).
 * [Point modules of Nichols algebras over non-abelian groups](http://arxiv.org/abs/2608.03595) (with B. Greenfeld, S. Venkatesh). 

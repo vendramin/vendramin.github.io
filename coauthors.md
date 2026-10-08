@@ -62,6 +62,7 @@ George King ·
 ##### L
 
 [Victoria Lebed](https://lebed.users.lmno.cnrs.fr) · 
+[Simon Lentner](http://simon.lentner.net) · 
 [Thomas Letourmy](https://sites.google.com/view/thomas-letourmy/home) · 
 [Andreas Lochmann](http://www.mathematik.uni-marburg.de/~lochmann/) · 
 [Andrea Loi](https://loi.unica.it) · 
@@ -87,6 +88,7 @@ Martín Mereb
 ##### R 
 
 Santiago Ramírez · 
+[Christian Reiher](https://www.math.uni-hamburg.de/home/reiher/) · 
 [Eric Rowell](https://people.tamu.edu/~rowell/) · 
 [Wolfgang Rump](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Rump/index.html)  
 
