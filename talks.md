@@ -3,6 +3,8 @@
 #### 2026
 
 * Pointed Hopf algebras over simple groups. [40 years of GAP & Nikolaus conference](https://www.math.rwth-aachen.de/40YearsGAP/index.html), Aachen, Germany. 
+* Fomin-Kirillov algebras. [Paris Algebra Seminar](https://researchseminars.org/seminar/paris-algebra-seminar), Paris, France. 
+* How noncommutative points disprove the Köthe Conjecture. [MaDs Seminar](https://wids.research.vub.be/en), Brussels, Belgium. 
 * Pointed Hopf algebras over simple groups. Seminario de Teoría de Lie. Córdoba, Argentina. 
 * Nichols algebras: why they matter. [XII International Workshop 
 on Non-Associative Algebras in Ghent](https://sites.google.com/view/nonassociativeghent2026), Ghent, Belgium. 
