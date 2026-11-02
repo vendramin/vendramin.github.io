@@ -8,13 +8,16 @@
 * [On Noetherian pointed Hopf algebras](http://arxiv.org/abs/2608.15856) (with N. Andruskiewitsch, I. Heckenberger).
 * [Point modules of Nichols algebras over non-abelian groups](http://arxiv.org/abs/2608.03595) (with B. Greenfeld, S. Venkatesh). 
 * [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662) (with M. Damele, A. Loi, M. Mereb). 
-* [Rubik's as a Galois'](http://arxiv.org/abs/2411.11566) (with M. Mereb).
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
 
 ##### Book
 
 * [Groups, Radical Rings, and the Yang-Baxter Equation](https://tidd.ly/3ZpCdha) (with F. Cedó). Progress in Mathematics, volume 361. Birkhäuser.
+
+##### Accepted 
+
+* [Rubik's as Galois': the inverse Galois problem for the Rubik's Cube group](http://arxiv.org/abs/2411.11566) (with M. Mereb). _Elem. Math._
 
 ##### 2026
 
