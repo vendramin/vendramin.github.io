@@ -6,7 +6,6 @@
   Reiher).
 * [The Köthe conjecture via point modules](http://arxiv.org/abs/2609.15080) (with B. Greenfeld, B. King).
 * [On Noetherian pointed Hopf algebras](http://arxiv.org/abs/2608.15856) (with N. Andruskiewitsch, I. Heckenberger).
-* [Point modules of Nichols algebras over non-abelian groups](http://arxiv.org/abs/2608.03595) (with B. Greenfeld, S. Venkatesh). 
 * [Galois' Professor's Revenge](https://arxiv.org/abs/2509.09662) (with M. Damele, A. Loi, M. Mereb). 
 * [Pointed Hopf algebras of odd dimension and Nichols algebras over solvable groups](http://arxiv.org/abs/2411.02304) (with N. Andruskiewitsch, I. Heckenberger).
 * [Computer algebra with GAP](https://publications.mfo.de/handle/mfo/4023) (with K. Piterman).  
@@ -17,6 +16,7 @@
 
 ##### Accepted 
 
+* [Point modules of Nichols algebras over non-abelian groups](http://arxiv.org/abs/2608.03595) (with B. Greenfeld, S. Venkatesh). _Contemp. Math._
 * [Rubik's as Galois': the inverse Galois problem for the Rubik's Cube group](http://arxiv.org/abs/2411.11566) (with M. Mereb). _Elem. Math._
 
 ##### 2026
